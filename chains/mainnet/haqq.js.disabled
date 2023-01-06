@@ -1,0 +1,28 @@
+module.exports = {
+  chainID: 'haqq_11235-1',
+  lcd: 'https://rest.cosmos.haqq.network',
+  gasAdjustment: 1.75,
+  gasPrices: { aislm: 25000000000 },
+  prefix: 'haqq',
+  coinType: '60',
+  baseAsset: 'aislm',
+  name: 'Haqq Network',
+  disabledModules: ['swap'],
+  icon: process.env.CF_PAGES_URL + '/img/chains/haqq.svg',
+  gitRepo: 'https://github.com/haqq-network/haqq.git',
+  explorer: {
+    address: 'https://haqq.explorers.guru/account/{}',
+    tx: 'https://haqq.explorers.guru/transaction/{}',
+    validator: 'https://haqq.explorers.guru/validator/{}',
+    block: 'https://haqq.explorers.guru/block/{}',
+  },
+  tokens: [
+    {
+      token: 'aislm',
+      symbol: 'ISLM',
+      name: 'Haqq Network',
+      icon: process.env.CF_PAGES_URL + '/img/coins/islm.svg',
+      decimals: 18,
+    },
+  ],
+}
