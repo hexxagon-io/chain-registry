@@ -38,6 +38,8 @@ cw721
 
 ## Process for adding a new token, dex pair or contract
 
+Example token / contract commit [here](https://github.com/hexxagon-io/chain-registry/commit/4a35a2cad7bfb9a65d8900c4da05e94d054df5a6).
+
 1. Fork this repository so you can make changes.
 2. Make the desired changes in your own fork under the appropriate folder, then create a pull request for the changes.
 3. Make sure to include a trailing comma on the items you are adding. This helps prevent merge conflicts in the future.
