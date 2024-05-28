@@ -2277,5 +2277,11 @@ module.exports = [
         protocol: "Rottweiler",
         name: "Rottweiler",
         icon: "https://i.ibb.co/2MWVvZC/Go-Art-1715889934142.jpg"
-    }
+    },
+    {
+        contract: "terra15p8su45k45axng8ue59rl6zph4at27s49u3agr6uqrx3dhcxpg3qt0ekdt",
+        protocol: "COOKIE",
+        name: "Cookie Monster Token",
+        icon: "https://i.ibb.co.com/mbzBZC3/Cookie.jpg",
+    },
 ]

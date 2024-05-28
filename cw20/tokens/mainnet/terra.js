@@ -1900,4 +1900,12 @@ module.exports = [
         icon: "https://i.ibb.co/2MWVvZC/Go-Art-1715889934142.jpg",
         decimals: 6
     },
+    {
+        protocol: "Cookie Monster Token",
+        name: "Cookie Monster Token",
+        symbol: "COOKIE",
+        token: "terra15p8su45k45axng8ue59rl6zph4at27s49u3agr6uqrx3dhcxpg3qt0ekdt",
+        icon: "https://i.ibb.co.com/mbzBZC3/Cookie.jpg",
+        decimal: 6,
+    },
 ]
