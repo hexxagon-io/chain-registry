@@ -1916,4 +1916,12 @@ module.exports = [
         icon: "https://ibb.co/1LJDWQP",
         decimal: 6,
     },
+    {
+        protocol: "Pizzaboy",
+        name: "Pizzaboy",
+        symbol: "PIZZAB",
+        token: "terra1vxhnzlr44ajzq84xra07gtvyv5saxmsyz6cd5cewqm479znvsepqzdkk05",
+        icon: "https://i.ibb.co/pys3sWy/IMG-20240526-194226-080.jpg",
+        decimal: 6,
+    },
 ]
