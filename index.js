@@ -162,6 +162,9 @@ const fs = require('fs').promises
                         : coinData.token
                 const ibcDenom = calculateIBCDenom(channel, denom)
                 ibcDenomMapOut[network][`${otherChainID}:${ibcDenom}`] = {
+                    symbol: coinData.symbol,
+                    icon: coinData.icon,
+                    decimals: coinData.decimals,
                     token: tokenId,
                     chainID: otherChainID,
                 }
@@ -186,6 +189,9 @@ const fs = require('fs').promises
                 const ibcDenom = calculateIBCDenom(otherChannel, denom)
 
                 ibcDenomMapOut[network][`${otherChainID}:${ibcDenom}`] = {
+                    symbol: coinData.symbol,
+                    icon: coinData.icon,
+                    decimals: coinData.decimals,
                     token: tokenId,
                     chainID: otherChainID,
                     // to send it back on the original chain
