@@ -8,7 +8,7 @@ module.exports = {
     baseAsset: 'ustrd',
     name: 'Stride',
     disabledModules: ['swap'],
-    icon: process.env.CF_PAGES_URL + '/img/chains/Stride.png',
+    icon: process.env.CF_PAGES_URL + '/img/chains/stride.svg',
     gitRepo: 'https://github.com/Stride-Labs/stride',
     // ibc: {
     //   fromTerra: 'channel-46',
@@ -38,7 +38,7 @@ module.exports = {
             token: 'ustrd',
             symbol: 'STRD',
             name: 'Stride',
-            icon: process.env.CF_PAGES_URL + '/img/coins/Stride.png',
+            icon: process.env.CF_PAGES_URL + '/img/coins/stride.svg',
             decimals: 6,
             coinGeckoID: 'stride',
         },
