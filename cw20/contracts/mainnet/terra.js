@@ -2296,4 +2296,10 @@ module.exports = [
         name: "Pizzaboy",
         icon: "https://i.ibb.co/pys3sWy/IMG-20240526-194226-080.jpg",
     },
+    {
+        contract: "terra1nk4dcnslulewmeed9v7ykypk4tgw0adn77dp989mq9zmah2es69s7k5gvh",
+        protocol : "SUUN",
+        name: "VSUUN",
+        icon: "https://i.ibb.co.com/tqLtdPC/IMG-0154.png",
+   },
 ]
