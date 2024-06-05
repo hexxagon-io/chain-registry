@@ -2302,4 +2302,10 @@ module.exports = [
         name: "VSUUN",
         icon: "https://i.ibb.co.com/tqLtdPC/IMG-0154.png",
    },
+   {
+        contract: "terra1cdj2hvk7fxdryt4upw256t5wadradwxzvma37uzz0zz0mkusyn0ssgrh2l",
+        protocol : "TomJerry",
+        name: "SPIKE",
+        icon: "https://i.ibb.co.com/fkW390Y/SPIKE.jpg",
+   },
 ]
