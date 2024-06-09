@@ -2308,4 +2308,10 @@ module.exports = [
         name: "SPIKE",
         icon: "https://i.ibb.co.com/fkW390Y/SPIKE.jpg",
    },
+   {
+    contract: "terra1nv36kq4dpxf4d00w4mv4w095ek8kv48f54v46qduruy4fwd2dtzq2uk70j",
+    protocol : "TUTAN KHAMUN",
+    name: "TKMN",
+    icon: "https://i.ibb.co.com/wR2spDZ/TKMN.jpg",
+},
 ]

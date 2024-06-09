@@ -1940,4 +1940,12 @@ module.exports = [
         icon : "https://i.ibb.co.com/fkW390Y/SPIKE.jpg",
         decimal: 6,
     },
+    {
+        protocol: "TUTAN KHAMUN",
+        name: "TUTAN KHAMUN",
+        symbol: "TKMN",
+        token: "terra1nv36kq4dpxf4d00w4mv4w095ek8kv48f54v46qduruy4fwd2dtzq2uk70j",
+        icon : "https://i.ibb.co.com/wR2spDZ/TKMN.jpg",
+        decimal: 6,
+    },
 ]
