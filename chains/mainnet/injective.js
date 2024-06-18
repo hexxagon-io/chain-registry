@@ -1,6 +1,6 @@
 module.exports = {
     chainID: 'injective-1',
-    lcd: 'https://lcd-injective.tfl.foundation',
+    lcd: 'https://injective-rest.publicnode.com',
     gasAdjustment: 1.75,
     gasPrices: {inj: 1000000000},
     prefix: 'inj',
