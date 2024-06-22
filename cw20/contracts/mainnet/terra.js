@@ -2313,5 +2313,11 @@ module.exports = [
     protocol : "TUTAN KHAMUN",
     name: "TKMN",
     icon: "https://i.ibb.co.com/wR2spDZ/TKMN.jpg",
-},
+   },
+   {
+    contract: "terra1advhdyzja37d3ppgnzgr66p2sgct84kzjdzcaqrx70z8ekj6gd5q6n8a9e",
+    protocol : "BETTING TOKEN",
+    name: "BETTING",
+    icon: "https://i.ibb.co.com/S3hJ6bg/BETTING-Token.jpg",
+   },
 ]
