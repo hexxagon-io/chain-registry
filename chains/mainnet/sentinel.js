@@ -1,6 +1,6 @@
 module.exports = {
     chainID: 'sentinelhub-2',
-    lcd: 'https://api-sentinel-ia.cosmosia.notional.ventures',
+    lcd: 'https://api-sentinel.busurnode.com',
     gasAdjustment: 1.75,
     gasPrices: {udvpn: 0.25},
     prefix: 'sent',
