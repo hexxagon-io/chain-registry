@@ -45,10 +45,9 @@ module.exports = {
         block: 'https://finder.terra-classic.hexxagon.io/mainnet/block/{}',
     },
     channels: {
-        'juno-1': 'channel-20',
-        'crescent-1': 'channel-49',
         'axelar-dojo-1': 'channel-19',
-        'cosmoshub-4': 'channel-2',
+        'crescent-1': 'channel-49',
+        'kaiyo-1': 'channel-71',
         'osmosis-1': 'channel-1',
         'phoenix-1': 'channel-85',
     },
