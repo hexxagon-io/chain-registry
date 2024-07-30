@@ -1,6 +1,6 @@
 module.exports = {
     chainID: 'columbus-5',
-    lcd: 'https://terra-classic-lcd.publicnode.com',
+    lcd: 'https://lcd.terra-classic.hexxagon.io',
     api: 'https://api.terra-classic.hexxagon.io',
     hive: 'https://hive.terra-classic.hexxagon.io/graphql',
     gasAdjustment: 2.5,
