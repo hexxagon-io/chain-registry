@@ -1955,5 +1955,13 @@ module.exports = [
         token: "terra1advhdyzja37d3ppgnzgr66p2sgct84kzjdzcaqrx70z8ekj6gd5q6n8a9e",
         icon : "https://i.ibb.co.com/S3hJ6bg/BETTING-Token.jpg",
         decimal: 6,
+    },
+    {
+        protocol: "The Boys",
+        name: "TheBoys",
+        symbol: "BOYS",
+        token: "terra1a4x7t4w7a5hwqph0q0m5maqu45j99cpkgt82rllvrh4hc6g53k7spulsqj",
+        icon : "https://i.ibb.co.com/g4BGpG9/IMG-0646.jpg",
+        decimal: 6,
     }
 ]
