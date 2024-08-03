@@ -2320,4 +2320,10 @@ module.exports = [
     name: "BETTING",
     icon: "https://i.ibb.co.com/S3hJ6bg/BETTING-Token.jpg",
    },
+   {
+    contract: "terra1a4x7t4w7a5hwqph0q0m5maqu45j99cpkgt82rllvrh4hc6g53k7spulsqj",
+    protocol : "THE BOYS",
+    name: "BOYS",
+    icon: "https://i.ibb.co.com/g4BGpG9/IMG-0646.jpg",
+   },
 ]
