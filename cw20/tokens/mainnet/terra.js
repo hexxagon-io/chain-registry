@@ -1661,9 +1661,9 @@ module.exports = [
         decimals: 6
     },
     {
-        protocol: "RakoffToken",
-        symbol: "Rakoff",
-        name: "RakoffToken",
+        protocol: "Juris",
+        symbol: "Juris",
+        name: "Juris",
         token: "terra1vhgq25vwuhdhn9xjll0rhl2s67jzw78a4g2t78y5kz89q9lsdskq2pxcj2",
         icon: "https://raw.githubusercontent.com/RakoffToken/assets/main/rakoff.png",
         decimals: 6

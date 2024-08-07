@@ -2226,8 +2226,8 @@ module.exports = [
     },
     {
         contract: "terra1vhgq25vwuhdhn9xjll0rhl2s67jzw78a4g2t78y5kz89q9lsdskq2pxcj2",
-        protocol: "RakoffToken",
-        name: "RakoffToken",
+        protocol: "Juris",
+        name: "Juris",
         icon: "https://raw.githubusercontent.com/RakoffToken/assets/main/rakoff.png"
     },
     {
@@ -2298,32 +2298,32 @@ module.exports = [
     },
     {
         contract: "terra1nk4dcnslulewmeed9v7ykypk4tgw0adn77dp989mq9zmah2es69s7k5gvh",
-        protocol : "SUUN",
+        protocol: "SUUN",
         name: "VSUUN",
         icon: "https://i.ibb.co.com/tqLtdPC/IMG-0154.png",
-   },
-   {
+    },
+    {
         contract: "terra1cdj2hvk7fxdryt4upw256t5wadradwxzvma37uzz0zz0mkusyn0ssgrh2l",
-        protocol : "TomJerry",
+        protocol: "TomJerry",
         name: "SPIKE",
         icon: "https://i.ibb.co.com/fkW390Y/SPIKE.jpg",
-   },
-   {
-    contract: "terra1nv36kq4dpxf4d00w4mv4w095ek8kv48f54v46qduruy4fwd2dtzq2uk70j",
-    protocol : "TUTAN KHAMUN",
-    name: "TKMN",
-    icon: "https://i.ibb.co.com/wR2spDZ/TKMN.jpg",
-   },
-   {
-    contract: "terra1advhdyzja37d3ppgnzgr66p2sgct84kzjdzcaqrx70z8ekj6gd5q6n8a9e",
-    protocol : "BETTING TOKEN",
-    name: "BETTING",
-    icon: "https://i.ibb.co.com/S3hJ6bg/BETTING-Token.jpg",
-   },
-   {
-    contract: "terra1a4x7t4w7a5hwqph0q0m5maqu45j99cpkgt82rllvrh4hc6g53k7spulsqj",
-    protocol : "THE BOYS",
-    name: "BOYS",
-    icon: "https://i.ibb.co.com/g4BGpG9/IMG-0646.jpg",
-   },
+    },
+    {
+        contract: "terra1nv36kq4dpxf4d00w4mv4w095ek8kv48f54v46qduruy4fwd2dtzq2uk70j",
+        protocol: "TUTAN KHAMUN",
+        name: "TKMN",
+        icon: "https://i.ibb.co.com/wR2spDZ/TKMN.jpg",
+    },
+    {
+        contract: "terra1advhdyzja37d3ppgnzgr66p2sgct84kzjdzcaqrx70z8ekj6gd5q6n8a9e",
+        protocol: "BETTING TOKEN",
+        name: "BETTING",
+        icon: "https://i.ibb.co.com/S3hJ6bg/BETTING-Token.jpg",
+    },
+    {
+        contract: "terra1a4x7t4w7a5hwqph0q0m5maqu45j99cpkgt82rllvrh4hc6g53k7spulsqj",
+        protocol: "THE BOYS",
+        name: "BOYS",
+        icon: "https://i.ibb.co.com/g4BGpG9/IMG-0646.jpg",
+    },
 ]
