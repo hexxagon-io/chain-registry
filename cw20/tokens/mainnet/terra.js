@@ -1963,5 +1963,13 @@ module.exports = [
         token: "terra1a4x7t4w7a5hwqph0q0m5maqu45j99cpkgt82rllvrh4hc6g53k7spulsqj",
         icon : "https://i.ibb.co.com/g4BGpG9/IMG-0646.jpg",
         decimal: 6,
-    }
+    },
+    {
+        protocol: "ALPHA",
+        name: "ALPHA",
+        symbol: "ALPHA",
+        token: "terra1x6e64es6yhauhvs3prvpdg2gkqdtfru840wgnhs935x8axr7zxkqzysuxz",
+        icon: "https://i.ibb.co/nmCs7kc/alpha.jpg",
+        decimal: 6,
+    },
 ]
