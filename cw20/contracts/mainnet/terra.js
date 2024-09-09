@@ -2326,4 +2326,10 @@ module.exports = [
         name: "BOYS",
         icon: "https://i.ibb.co.com/g4BGpG9/IMG-0646.jpg",
     },
+    {
+        contract: "terra1x6e64es6yhauhvs3prvpdg2gkqdtfru840wgnhs935x8axr7zxkqzysuxz",
+        protocol: "ALPHA",
+        name: "ALPHA",
+        icon: "https://i.ibb.co/nmCs7kc/alpha.jpg",
+    },
 ]
