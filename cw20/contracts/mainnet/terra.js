@@ -2326,4 +2326,10 @@ module.exports = [
     name: "BOYS",
     icon: "https://i.ibb.co.com/g4BGpG9/IMG-0646.jpg",
    },
+   {
+    contract: "terra1dxnh60j7qsnvh6pnxs97h6ndkdu6q93f6qwwsdn6zvfrddz3dvcqu56a6n",
+    protocol : "FORTIVA REWARDS",
+    name: "FORTIVA",
+    icon: "https://i.ibb.co.com/0Kc5wxw/FORTIVA.jpg",
+   },
 ]
