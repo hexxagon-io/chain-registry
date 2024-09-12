@@ -1665,7 +1665,7 @@ module.exports = [
         symbol: "Juris",
         name: "Juris Protocol",
         token: "terra1vhgq25vwuhdhn9xjll0rhl2s67jzw78a4g2t78y5kz89q9lsdskq2pxcj2",
-        icon: "https://raw.githubusercontent.com/RakoffToken/assets/main/rakoff.png",
+        icon: "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/juris.png",
         decimals: 6
     },
     {
