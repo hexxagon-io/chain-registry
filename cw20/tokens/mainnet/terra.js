@@ -1972,4 +1972,12 @@ module.exports = [
         icon: "https://i.ibb.co/nmCs7kc/alpha.jpg",
         decimal: 6,
     },
+    {
+        protocol: "ULP",
+        name: "CatWifHat-LUNC ULP",
+        symbol: "CWH-LUNC ULP",
+        token: "terra1rzthsdppvfgx25l4snwlgvn4l5u9l32rmyr0nwndljvdajxpyz7sayq980",
+        icon: "https://i.ibb.co/hdBpkvW/Untitled.png",
+        decimal: 6,
+    },
 ]
