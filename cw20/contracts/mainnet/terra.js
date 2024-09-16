@@ -2332,4 +2332,10 @@ module.exports = [
         name: "ALPHA",
         icon: "https://i.ibb.co/nmCs7kc/alpha.jpg",
     },
+    {
+        contract: "terra1l435jetw69mxym6enacraelpsp85se4mhkpcea8342s3vanqv9yqp74p42",
+        protocol: "CODE",
+        name: "CODE TOKEN",
+        icon: "https://i.ibb.co/D7rf2bM/IMG-220240623-182215-932.jpg",
+    },
 ]
