@@ -1980,4 +1980,12 @@ module.exports = [
         icon: "https://i.ibb.co/hdBpkvW/Untitled.png",
         decimal: 6,
     },
+        {
+        protocol: "ULP",
+        name: "Catnip-LUNC ULP",
+        symbol: "CNIP-LUNC ULP",
+        token: "terra1hzgrzsfzepqm9fzsden8dz8akpydmjkz8dl78nc8zcaeh7ta9v7qcwrz8g",
+        icon: "https://i.ibb.co/3RcRxmL/Untitled.png",
+        decimal: 6,
+    },
 ]
