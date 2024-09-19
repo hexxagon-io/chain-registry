@@ -1983,7 +1983,7 @@ module.exports = [
         {
         protocol: "ULP",
         name: "Catnip-LUNC ULP",
-        symbol: "CNIP-LUNC ULP",
+        symbol: "NIP-LUNC ULP",
         token: "terra1hzgrzsfzepqm9fzsden8dz8akpydmjkz8dl78nc8zcaeh7ta9v7qcwrz8g",
         icon: "https://i.ibb.co/3RcRxmL/Untitled.png",
         decimal: 6,
