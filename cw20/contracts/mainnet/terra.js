@@ -2332,4 +2332,16 @@ module.exports = [
     name: "FORTIVA",
     icon: "https://i.ibb.co.com/0Kc5wxw/FORTIVA.jpg",
    },
+   {
+    contract: "terra1le9l8gpwl2f48xluphnwkqrnhwxqt27xhducfzqvncmsh9swavlqjpy7c9",
+    protocol : "FUN",
+    name: "FUN",
+    icon: "https://i.ibb.co/YjH9BS1/Go-Art-1726502578253.png",
+   },
+   {
+    contract: "terra1pyf0rp73neeyunvelqe2ps029pk3at5xg9sn8hnzvv3pehrjqf2qwx7grv",
+    protocol : "REX",
+    name: "REX",
+    icon: "https://i.ibb.co.com/PhXGRCn/REX-token.jpg",
+   },
 ]
