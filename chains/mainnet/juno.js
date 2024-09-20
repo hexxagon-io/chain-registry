@@ -2,7 +2,7 @@ module.exports = {
     chainID: 'juno-1',
     lcd: 'https://juno-rest.publicnode.com',
     gasAdjustment: 1.75,
-    gasPrices: {ujuno: 0.075},
+    gasPrices: {ujuno: 0.1},
     prefix: 'juno',
     coinType: '118',
     baseAsset: 'ujuno',

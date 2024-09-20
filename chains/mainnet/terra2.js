@@ -1,6 +1,6 @@
 module.exports = {
     chainID: 'phoenix-1',
-    lcd: 'https://lcd-terra.tfl.foundation',
+    lcd: 'https://terra-rest.publicnode.com',
     gasAdjustment: 1.75,
     gasPrices: {
         uluna: 0.015,
