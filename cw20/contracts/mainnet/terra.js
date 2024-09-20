@@ -2226,19 +2226,19 @@ module.exports = [
     },
     {
         contract: "terra1vhgq25vwuhdhn9xjll0rhl2s67jzw78a4g2t78y5kz89q9lsdskq2pxcj2",
-        protocol: "RakoffToken",
-        name: "RakoffToken",
+        protocol: "Juris",
+        name: "Juris Protocol",
         icon: "https://raw.githubusercontent.com/RakoffToken/assets/main/rakoff.png"
     },
     {
         contract: "terra1m58hc296srr6xygrrfyu6u0e32pl8d459nfs55pmegke8zlv94rqsjz882",
-        protocol: "Cat Wif Hat",
-        name: "Cat Wif Hat",
+        protocol: "CatWifHat",
+        name: "CatWifHat",
         icon: "https://i.ibb.co/Drv3V8p/Lion-Cat-5.png"
     },
     {
         contract: "terra10quf590wyr8tuf3pp05hgwm94n3dgfnma377uwaynl3tj47df7nskwdxgs",
-        protocol: "Cat Wif Hat",
+        protocol: "Catnip",
         name: "Catnip",
         icon: "https://i.ibb.co/Cz2mHQ4/catnip-token.png"
     },
@@ -2298,13 +2298,13 @@ module.exports = [
     },
     {
         contract: "terra1nk4dcnslulewmeed9v7ykypk4tgw0adn77dp989mq9zmah2es69s7k5gvh",
-        protocol : "SUUN",
+        protocol: "SUUN",
         name: "VSUUN",
         icon: "https://i.ibb.co.com/tqLtdPC/IMG-0154.png",
-   },
-   {
+    },
+    {
         contract: "terra1cdj2hvk7fxdryt4upw256t5wadradwxzvma37uzz0zz0mkusyn0ssgrh2l",
-        protocol : "TomJerry",
+        protocol: "TomJerry",
         name: "SPIKE",
         icon: "https://i.ibb.co.com/fkW390Y/SPIKE.jpg",
    },
@@ -2331,11 +2331,5 @@ module.exports = [
     protocol : "FORTIVA REWARDS",
     name: "FORTIVA",
     icon: "https://i.ibb.co.com/0Kc5wxw/FORTIVA.jpg",
-   },
-   {
-    contract:"terra1pyf0rp73neeyunvelqe2ps029pk3at5xg9sn8hnzvv3pehrjqf2qwx7grv",
-    protocol: "REX",
-    name: "REX",
-    icon: "https://i.ibb.co.com/PhXGRCn/REX-token.jpg",
    },
 ]

@@ -1,6 +1,6 @@
 module.exports = {
     chainID: 'osmosis-1',
-    lcd: 'https://lcd-osmosis.tfl.foundation',
+    lcd: 'https://lcd.osmosis.zone',
     gasAdjustment: 2.2,
     gasPrices: {uosmo: 0.025},
     prefix: 'osmo',

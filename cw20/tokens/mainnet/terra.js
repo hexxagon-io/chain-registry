@@ -1661,11 +1661,11 @@ module.exports = [
         decimals: 6
     },
     {
-        protocol: "RakoffToken",
-        symbol: "Rakoff",
-        name: "RakoffToken",
+        protocol: "Juris Protocol",
+        symbol: "Juris",
+        name: "Juris Protocol",
         token: "terra1vhgq25vwuhdhn9xjll0rhl2s67jzw78a4g2t78y5kz89q9lsdskq2pxcj2",
-        icon: "https://raw.githubusercontent.com/RakoffToken/assets/main/rakoff.png",
+        icon: "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/juris.png",
         decimals: 6
     },
     {
@@ -1837,15 +1837,15 @@ module.exports = [
         decimals: 6
     },
     {
-        protocol: "Cat Wif Hat",
-        name: "Cat Wif Hat",
+        protocol: "CatWifHat",
+        name: "CatWifHat",
         symbol: "CatWifHat",
         token: "terra1m58hc296srr6xygrrfyu6u0e32pl8d459nfs55pmegke8zlv94rqsjz882",
         icon: "https://i.ibb.co/Drv3V8p/Lion-Cat-5.png",
         decimals: 6
     },
     {
-        protocol: "Cat Wif Hat",
+        protocol: "Catnip",
         name: "Catnip",
         symbol: "CNip",
         token: "terra10quf590wyr8tuf3pp05hgwm94n3dgfnma377uwaynl3tj47df7nskwdxgs",
@@ -1963,5 +1963,29 @@ module.exports = [
         token: "terra1a4x7t4w7a5hwqph0q0m5maqu45j99cpkgt82rllvrh4hc6g53k7spulsqj",
         icon : "https://i.ibb.co.com/g4BGpG9/IMG-0646.jpg",
         decimal: 6,
-    }
+    },
+    {
+        protocol: "ALPHA",
+        name: "ALPHA",
+        symbol: "ALPHA",
+        token: "terra1x6e64es6yhauhvs3prvpdg2gkqdtfru840wgnhs935x8axr7zxkqzysuxz",
+        icon: "https://i.ibb.co/nmCs7kc/alpha.jpg",
+        decimal: 6,
+    },
+    {
+        protocol: "ULP",
+        name: "CatWifHat-LUNC ULP",
+        symbol: "CWH-LUNC ULP",
+        token: "terra1rzthsdppvfgx25l4snwlgvn4l5u9l32rmyr0nwndljvdajxpyz7sayq980",
+        icon: "https://i.ibb.co/hdBpkvW/Untitled.png",
+        decimal: 6,
+    },
+        {
+        protocol: "ULP",
+        name: "Catnip-LUNC ULP",
+        symbol: "NIP-LUNC ULP",
+        token: "terra1hzgrzsfzepqm9fzsden8dz8akpydmjkz8dl78nc8zcaeh7ta9v7qcwrz8g",
+        icon: "https://i.ibb.co/3RcRxmL/Untitled.png",
+        decimal: 6,
+    },
 ]
