@@ -1980,12 +1980,36 @@ module.exports = [
         icon: "https://i.ibb.co/hdBpkvW/Untitled.png",
         decimal: 6,
     },
-        {
+    {
         protocol: "ULP",
         name: "Catnip-LUNC ULP",
         symbol: "NIP-LUNC ULP",
         token: "terra1hzgrzsfzepqm9fzsden8dz8akpydmjkz8dl78nc8zcaeh7ta9v7qcwrz8g",
         icon: "https://i.ibb.co/3RcRxmL/Untitled.png",
+        decimal: 6,
+    },
+    {
+        protocol: "FUN",
+        name: "FUN TOKEN",
+        symbol: "FUN",
+        token: "terra1le9l8gpwl2f48xluphnwkqrnhwxqt27xhducfzqvncmsh9swavlqjpy7c9",
+        icon: "https://i.ibb.co/YjH9BS1/Go-Art-1726502578253.png",
+        decimal: 6,
+    },
+    {
+        protocol: "FORTIVA REWARDS",
+        name: "FORTIVA REWARDS",
+        symbol: "FORTIVA",
+        token: "terra1dxnh60j7qsnvh6pnxs97h6ndkdu6q93f6qwwsdn6zvfrddz3dvcqu56a6n",
+        icon: "https://i.ibb.co.com/0Kc5wxw/FORTIVA.jpg",
+        decimal: 6,
+    },
+    {
+        protocol: "REX",
+        name: "REX",
+        symbol: "REX",
+        token: "terra1pyf0rp73neeyunvelqe2ps029pk3at5xg9sn8hnzvv3pehrjqf2qwx7grv",
+        icon: "https://i.ibb.co.com/PhXGRCn/REX-token.jpg",
         decimal: 6,
     },
 ]
