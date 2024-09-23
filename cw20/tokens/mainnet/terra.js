@@ -2012,4 +2012,12 @@ module.exports = [
         icon: "https://i.ibb.co.com/PhXGRCn/REX-token.jpg",
         decimal: 6,
     },
+    {
+        protocol: "HERA",
+        name: "HERA",
+        symbol: "NHERA",
+        token: "terra15juucad3k2npsj53crl6qhra9f65s9jkas9nzpqypj38en4ht32qczde4a",
+        icon: "https://i.ibb.co.com/8c1fmGM/IMG-20240921-202013-833.jpg",
+        decimal: 6,
+    },
 ]
