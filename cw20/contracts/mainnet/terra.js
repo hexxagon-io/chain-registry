@@ -2228,7 +2228,7 @@ module.exports = [
         contract: "terra1vhgq25vwuhdhn9xjll0rhl2s67jzw78a4g2t78y5kz89q9lsdskq2pxcj2",
         protocol: "Juris",
         name: "Juris Protocol",
-        icon: "https://raw.githubusercontent.com/RakoffToken/assets/main/rakoff.png"
+        icon: "https://24.143.179.94/juris-internal/resource/img/juris-logo.png"
     },
     {
         contract: "terra1m58hc296srr6xygrrfyu6u0e32pl8d459nfs55pmegke8zlv94rqsjz882",
