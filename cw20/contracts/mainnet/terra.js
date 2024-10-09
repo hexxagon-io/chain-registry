@@ -2354,6 +2354,6 @@ module.exports = [
     contract: "terra1vhgq25vwuhdhn9xjll0rhl2s67jzw78a4g2t78y5kz89q9lsdskq2pxcj2",
     protocol : "Juris Protocol",
     name: "Juris Protocol",
-    icon: "https://github.com/JurisProtocol/assets/blob/main/jurislogo.png",
+    icon: "https://raw.githubusercontent.com/JurisProtocol/assets/refs/heads/main/jurislogo.png",
    }
 ]
