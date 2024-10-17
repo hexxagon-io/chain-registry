@@ -1661,14 +1661,6 @@ module.exports = [
         decimals: 6
     },
     {
-        protocol: "Juris Protocol",
-        symbol: "Juris",
-        name: "Juris Protocol",
-        token: "terra1vhgq25vwuhdhn9xjll0rhl2s67jzw78a4g2t78y5kz89q9lsdskq2pxcj2",
-        icon: "https://24.143.179.94/juris-internal/resource/img/juris-logo.pngg",
-        decimals: 6
-    },
-    {
         protocol: "Terra Farming",
         symbol: "FOOD",
         name: "FOOD Token",
