@@ -2019,5 +2019,13 @@ module.exports = [
         token: "terra1vhgq25vwuhdhn9xjll0rhl2s67jzw78a4g2t78y5kz89q9lsdskq2pxcj2",
         icon: "https://raw.githubusercontent.com/JurisProtocol/assets/refs/heads/main/jurislogo.png",
         decimals: 6,
+    },
+    {
+        protocol: "Make America Great Again",
+        name: "Make America Great Again",
+        symbol: "MAGA",
+        token: "terra17tr43u9je863jd4ppt40rhuh78twdqef3v76mc7qc4fkfaa7c59szu0npv",
+        icon: "https://i.ibb.co.com/SXC0mqr/MAGA.png",
+        decimals: 6,
     }
 ]
