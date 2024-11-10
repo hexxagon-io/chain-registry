@@ -2350,4 +2350,10 @@ module.exports = [
     name: "Juris Protocol",
     icon: "https://raw.githubusercontent.com/JurisProtocol/assets/refs/heads/main/jurislogo.png",
    }
+    {
+    contract: "terra17tr43u9je863jd4ppt40rhuh78twdqef3v76mc7qc4fkfaa7c59szu0npv",
+    protocol : "Make America Great Again",
+    name: "MAGA",
+    icon: "https://i.ibb.co.com/SXC0mqr/MAGA.png",
+   }
 ]
