@@ -2355,5 +2355,11 @@ module.exports = [
     protocol : "Make America Great Again",
     name: "MAGA",
     icon: "https://i.ibb.co.com/SXC0mqr/MAGA.png",
+   },
+   {
+    contract: "terra1wx48f5g06l9qxw8k4gn3200lmseu85vkgangwyn9xdu66mtfsfxq60hkdt",
+    protocol : "Luna Classic World",
+    name: "LCW",
+    icon: "https://i.ibb.co.com/kg3xvgv/LCW.jpg",
    }
 ]
