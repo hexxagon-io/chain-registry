@@ -2344,13 +2344,13 @@ module.exports = [
     name: "NHERA",
     icon: "https://i.ibb.co.com/8c1fmGM/IMG-20240921-202013-833.jpg",
    },
-    {
+   {
     contract: "terra1vhgq25vwuhdhn9xjll0rhl2s67jzw78a4g2t78y5kz89q9lsdskq2pxcj2",
     protocol : "Juris Protocol",
     name: "Juris Protocol",
     icon: "https://raw.githubusercontent.com/JurisProtocol/assets/refs/heads/main/jurislogo.png",
-   }
-    {
+   },
+   {
     contract: "terra17tr43u9je863jd4ppt40rhuh78twdqef3v76mc7qc4fkfaa7c59szu0npv",
     protocol : "Make America Great Again",
     name: "MAGA",
