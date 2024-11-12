@@ -1661,14 +1661,6 @@ module.exports = [
         decimals: 6
     },
     {
-        protocol: "Juris Protocol",
-        symbol: "Juris",
-        name: "Juris Protocol",
-        token: "terra1vhgq25vwuhdhn9xjll0rhl2s67jzw78a4g2t78y5kz89q9lsdskq2pxcj2",
-        icon: "https://24.143.179.94/juris-internal/resource/img/juris-logo.pngg",
-        decimals: 6
-    },
-    {
         protocol: "Terra Farming",
         symbol: "FOOD",
         name: "FOOD Token",
@@ -1906,7 +1898,7 @@ module.exports = [
         symbol: "COOKIE",
         token: "terra15p8su45k45axng8ue59rl6zph4at27s49u3agr6uqrx3dhcxpg3qt0ekdt",
         icon: "https://i.ibb.co.com/mbzBZC3/Cookie.jpg",
-        decimal: 6,
+        decimals: 6,
     },
     {
         protocol: "Vegas Dao Coin",
@@ -1914,7 +1906,7 @@ module.exports = [
         symbol: "VEGAS",
         token: "terra1cgmv3h23t9mrg7q5w5lkfcpkdrxm2csnc03afe5q6xd9x7et0desfeawx2",
         icon: "https://ibb.co/1LJDWQP",
-        decimal: 6,
+        decimals: 6,
     },
     {
         protocol: "Pizzaboy",
@@ -1922,7 +1914,7 @@ module.exports = [
         symbol: "PIZZAB",
         token: "terra1vxhnzlr44ajzq84xra07gtvyv5saxmsyz6cd5cewqm479znvsepqzdkk05",
         icon: "https://i.ibb.co/pys3sWy/IMG-20240526-194226-080.jpg",
-        decimal: 6,
+        decimals: 6,
     },
     {
         protocol: "VSUUN",
@@ -1930,7 +1922,7 @@ module.exports = [
         symbol: "SUUN",
         token: "terra1nk4dcnslulewmeed9v7ykypk4tgw0adn77dp989mq9zmah2es69s7k5gvh",
         icon : "https://i.ibb.co.com/tqLtdPC/IMG-0154.png",
-        decimal: 6,
+        decimals: 6,
     },
     {
         protocol: "TomJerry",
@@ -1938,7 +1930,7 @@ module.exports = [
         symbol: "SPIKE",
         token: "terra1cdj2hvk7fxdryt4upw256t5wadradwxzvma37uzz0zz0mkusyn0ssgrh2l",
         icon : "https://i.ibb.co.com/fkW390Y/SPIKE.jpg",
-        decimal: 6,
+        decimals: 6,
     },
     {
         protocol: "TUTAN KHAMUN",
@@ -1946,7 +1938,7 @@ module.exports = [
         symbol: "TKMN",
         token: "terra1nv36kq4dpxf4d00w4mv4w095ek8kv48f54v46qduruy4fwd2dtzq2uk70j",
         icon : "https://i.ibb.co.com/wR2spDZ/TKMN.jpg",
-        decimal: 6,
+        decimals: 6,
     },
     {
         protocol: "BETTING TOKEN",
@@ -1954,7 +1946,7 @@ module.exports = [
         symbol: "BETTING",
         token: "terra1advhdyzja37d3ppgnzgr66p2sgct84kzjdzcaqrx70z8ekj6gd5q6n8a9e",
         icon : "https://i.ibb.co.com/S3hJ6bg/BETTING-Token.jpg",
-        decimal: 6,
+        decimals: 6,
     },
     {
         protocol: "The Boys",
@@ -1962,7 +1954,7 @@ module.exports = [
         symbol: "BOYS",
         token: "terra1a4x7t4w7a5hwqph0q0m5maqu45j99cpkgt82rllvrh4hc6g53k7spulsqj",
         icon : "https://i.ibb.co.com/g4BGpG9/IMG-0646.jpg",
-        decimal: 6,
+        decimals: 6,
     },
     {
         protocol: "ALPHA",
@@ -1970,7 +1962,7 @@ module.exports = [
         symbol: "ALPHA",
         token: "terra1x6e64es6yhauhvs3prvpdg2gkqdtfru840wgnhs935x8axr7zxkqzysuxz",
         icon: "https://i.ibb.co/nmCs7kc/alpha.jpg",
-        decimal: 6,
+        decimals: 6,
     },
     {
         protocol: "ULP",
@@ -1978,7 +1970,7 @@ module.exports = [
         symbol: "CWH-LUNC ULP",
         token: "terra1rzthsdppvfgx25l4snwlgvn4l5u9l32rmyr0nwndljvdajxpyz7sayq980",
         icon: "https://i.ibb.co/hdBpkvW/Untitled.png",
-        decimal: 6,
+        decimals: 6,
     },
     {
         protocol: "ULP",
@@ -1986,7 +1978,7 @@ module.exports = [
         symbol: "NIP-LUNC ULP",
         token: "terra1hzgrzsfzepqm9fzsden8dz8akpydmjkz8dl78nc8zcaeh7ta9v7qcwrz8g",
         icon: "https://i.ibb.co/3RcRxmL/Untitled.png",
-        decimal: 6,
+        decimals: 6,
     },
     {
         protocol: "FUN",
@@ -1994,7 +1986,7 @@ module.exports = [
         symbol: "FUN",
         token: "terra1le9l8gpwl2f48xluphnwkqrnhwxqt27xhducfzqvncmsh9swavlqjpy7c9",
         icon: "https://i.ibb.co/YjH9BS1/Go-Art-1726502578253.png",
-        decimal: 6,
+        decimals: 6,
     },
     {
         protocol: "FORTIVA REWARDS",
@@ -2002,7 +1994,7 @@ module.exports = [
         symbol: "FORTIVA",
         token: "terra1dxnh60j7qsnvh6pnxs97h6ndkdu6q93f6qwwsdn6zvfrddz3dvcqu56a6n",
         icon: "https://i.ibb.co.com/0Kc5wxw/FORTIVA.jpg",
-        decimal: 6,
+        decimals: 6,
     },
     {
         protocol: "REX",
@@ -2010,7 +2002,7 @@ module.exports = [
         symbol: "REX",
         token: "terra1pyf0rp73neeyunvelqe2ps029pk3at5xg9sn8hnzvv3pehrjqf2qwx7grv",
         icon: "https://i.ibb.co.com/PhXGRCn/REX-token.jpg",
-        decimal: 6,
+        decimals: 6,
     },
     {
         protocol: "HERA",
@@ -2018,6 +2010,22 @@ module.exports = [
         symbol: "NHERA",
         token: "terra15juucad3k2npsj53crl6qhra9f65s9jkas9nzpqypj38en4ht32qczde4a",
         icon: "https://i.ibb.co.com/8c1fmGM/IMG-20240921-202013-833.jpg",
-        decimal: 6,
+        decimals: 6,
     },
+     {
+        protocol: "Juris Protocol",
+        name: "Juris Protocol",
+        symbol: "JURIS",
+        token: "terra1vhgq25vwuhdhn9xjll0rhl2s67jzw78a4g2t78y5kz89q9lsdskq2pxcj2",
+        icon: "https://raw.githubusercontent.com/JurisProtocol/assets/refs/heads/main/jurislogo.png",
+        decimals: 6,
+    },
+    {
+        protocol: "Make America Great Again",
+        name: "Make America Great Again",
+        symbol: "MAGA",
+        token: "terra17tr43u9je863jd4ppt40rhuh78twdqef3v76mc7qc4fkfaa7c59szu0npv",
+        icon: "https://i.ibb.co.com/SXC0mqr/MAGA.png",
+        decimals: 6,
+    }
 ]

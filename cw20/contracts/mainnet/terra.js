@@ -2225,12 +2225,6 @@ module.exports = [
         icon: "https://i.ibb.co/hWH7rzM/photo-2024-04-06-09-51-19-1.png"
     },
     {
-        contract: "terra1vhgq25vwuhdhn9xjll0rhl2s67jzw78a4g2t78y5kz89q9lsdskq2pxcj2",
-        protocol: "Juris",
-        name: "Juris Protocol",
-        icon: "https://24.143.179.94/juris-internal/resource/img/juris-logo.png"
-    },
-    {
         contract: "terra1m58hc296srr6xygrrfyu6u0e32pl8d459nfs55pmegke8zlv94rqsjz882",
         protocol: "CatWifHat",
         name: "CatWifHat",
@@ -2350,4 +2344,16 @@ module.exports = [
     name: "NHERA",
     icon: "https://i.ibb.co.com/8c1fmGM/IMG-20240921-202013-833.jpg",
    },
+    {
+    contract: "terra1vhgq25vwuhdhn9xjll0rhl2s67jzw78a4g2t78y5kz89q9lsdskq2pxcj2",
+    protocol : "Juris Protocol",
+    name: "Juris Protocol",
+    icon: "https://raw.githubusercontent.com/JurisProtocol/assets/refs/heads/main/jurislogo.png",
+   }
+    {
+    contract: "terra17tr43u9je863jd4ppt40rhuh78twdqef3v76mc7qc4fkfaa7c59szu0npv",
+    protocol : "Make America Great Again",
+    name: "MAGA",
+    icon: "https://i.ibb.co.com/SXC0mqr/MAGA.png",
+   }
 ]
