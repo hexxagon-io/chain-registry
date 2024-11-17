@@ -2035,5 +2035,13 @@ module.exports = [
         token: "terra1wx48f5g06l9qxw8k4gn3200lmseu85vkgangwyn9xdu66mtfsfxq60hkdt",
         icon: "https://i.ibb.co.com/kg3xvgv/LCW.jpg",
         decimals: 6,
+    },
+    {        
+        protocol : "GARUDA DEX",
+        name: "GARUDA DEX",
+        symbol: "GDEX",
+        token: "terra16hzl7lge3jjnlazvut2ypt7upk68z5dycc9rwy608fah8q0y3fuslkenzc",
+        icon: "https://i.ibb.co.com/txb6Lz6/GDEX.png",
+        decimals: 6,
     }
 ]
