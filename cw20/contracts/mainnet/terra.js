@@ -2361,5 +2361,11 @@ module.exports = [
     protocol : "Luna Classic World",
     name: "LCW",
     icon: "https://i.ibb.co.com/kg3xvgv/LCW.jpg",
+   },
+    {
+    contract: "terra16hzl7lge3jjnlazvut2ypt7upk68z5dycc9rwy608fah8q0y3fuslkenzc",
+    protocol : "GARUDA DEX",
+    name: "GDEX",
+    icon: "https://i.ibb.co.com/txb6Lz6/GDEX.png",
    }
 ]
