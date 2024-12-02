@@ -2367,5 +2367,11 @@ module.exports = [
     protocol : "GARUDA DEX",
     name: "GDEX",
     icon: "https://i.ibb.co.com/txb6Lz6/GDEX.png",
+   },
+     {
+    contract: "terra1gpxjwzpv0pedh0eyx7zw0amlss074ptukuvnf3dweg0wthwam0jqcc9lm4",
+    protocol : "MEME MAKER",
+    name: "JIL",
+    icon: "https://i.ibb.co.com/Hx3FLqc/JIL-new.png",
    }
 ]
