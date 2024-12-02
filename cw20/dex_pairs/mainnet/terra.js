@@ -1203,5 +1203,14 @@ module.exports = [
             "terra1wx48f5g06l9qxw8k4gn3200lmseu85vkgangwyn9xdu66mtfsfxq60hkdt",
             "uluna"
         ]
+    },
+    {
+        token: "terra1hj3q6v3t7qktzxdksyzmp2f6nf0xp29ju4hmgyp8sk4zqajtsy0qc2fywc",
+        dex: "terraport",
+        type: "xyk",
+        assets: [
+            "terra1gpxjwzpv0pedh0eyx7zw0amlss074ptukuvnf3dweg0wthwam0jqcc9lm4",
+            "uluna"
+        ]
     }
 ]

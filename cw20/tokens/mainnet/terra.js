@@ -2043,5 +2043,13 @@ module.exports = [
         token: "terra16hzl7lge3jjnlazvut2ypt7upk68z5dycc9rwy608fah8q0y3fuslkenzc",
         icon: "https://i.ibb.co.com/txb6Lz6/GDEX.png",
         decimals: 6,
+    },
+    {        
+        protocol : "MEME MAKER",
+        name: "JIL",
+        symbol: "JIL",
+        token: "terra1gpxjwzpv0pedh0eyx7zw0amlss074ptukuvnf3dweg0wthwam0jqcc9lm4",
+        icon: "https://i.ibb.co.com/Hx3FLqc/JIL-new.png",
+        decimals: 6,
     }
 ]
