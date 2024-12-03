@@ -2024,8 +2024,8 @@ module.exports = [
         protocol: "SANTA KLAUS",
         name: "KLAUS",
         symbol: "SANTAKLAUS",
-        token: "terra15juucad3k2npsj53crl6qhra9f65s9jkas9nzpqypj38en4ht32qczde4a",
-        icon: "https://i.ibb.co.com/8c1fmGM/IMG-20240921-202013-833.jpg",
+        token: "terra16vr6egq7p0eduy0d8jzp9gcea5v24p4ul5uky90za5052nr2gvcs5947ux",
+        icon: "https://i.ibb.co/TqZfQZn/6995cc70-6043-46c7-90a7-8aca84122fc3.jpg",
         decimal: 6,
     },
 ]
