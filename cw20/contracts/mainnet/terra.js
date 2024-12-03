@@ -2225,12 +2225,6 @@ module.exports = [
         icon: "https://i.ibb.co/hWH7rzM/photo-2024-04-06-09-51-19-1.png"
     },
     {
-        contract: "terra1vhgq25vwuhdhn9xjll0rhl2s67jzw78a4g2t78y5kz89q9lsdskq2pxcj2",
-        protocol: "Juris",
-        name: "Juris Protocol",
-        icon: "https://raw.githubusercontent.com/RakoffToken/assets/main/rakoff.png"
-    },
-    {
         contract: "terra1m58hc296srr6xygrrfyu6u0e32pl8d459nfs55pmegke8zlv94rqsjz882",
         protocol: "CatWifHat",
         name: "CatWifHat",
@@ -2356,4 +2350,34 @@ module.exports = [
     name: "KLAUS",
     icon: "https://i.ibb.co.com/8c1fmGM/IMG-20240921-202013-833.jpg",
    },
+   {
+    contract: "terra1vhgq25vwuhdhn9xjll0rhl2s67jzw78a4g2t78y5kz89q9lsdskq2pxcj2",
+    protocol : "Juris Protocol",
+    name: "Juris Protocol",
+    icon: "https://raw.githubusercontent.com/JurisProtocol/assets/refs/heads/main/jurislogo.png",
+   },
+   {
+    contract: "terra17tr43u9je863jd4ppt40rhuh78twdqef3v76mc7qc4fkfaa7c59szu0npv",
+    protocol : "Make America Great Again",
+    name: "MAGA",
+    icon: "https://i.ibb.co.com/SXC0mqr/MAGA.png",
+   },
+   {
+    contract: "terra1wx48f5g06l9qxw8k4gn3200lmseu85vkgangwyn9xdu66mtfsfxq60hkdt",
+    protocol : "Luna Classic World",
+    name: "LCW",
+    icon: "https://i.ibb.co.com/kg3xvgv/LCW.jpg",
+   },
+    {
+    contract: "terra16hzl7lge3jjnlazvut2ypt7upk68z5dycc9rwy608fah8q0y3fuslkenzc",
+    protocol : "GARUDA DEX",
+    name: "GDEX",
+    icon: "https://i.ibb.co.com/txb6Lz6/GDEX.png",
+   },
+     {
+    contract: "terra1gpxjwzpv0pedh0eyx7zw0amlss074ptukuvnf3dweg0wthwam0jqcc9lm4",
+    protocol : "MEME MAKER",
+    name: "JIL",
+    icon: "https://i.ibb.co.com/Hx3FLqc/JIL-new.png",
+   }
 ]

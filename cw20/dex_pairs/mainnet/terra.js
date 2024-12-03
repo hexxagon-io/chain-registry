@@ -1186,4 +1186,39 @@ module.exports = [
             "uluna"
         ]
     },
+        token: "terra1t9eleddtsrndxgjcu8n0vn0zne6tlar8n8r605p9089nkwj9v0js2xcun4",
+        dex: "terraport",
+        type: "xyk",
+        assets: [
+            "terra1nv36kq4dpxf4d00w4mv4w095ek8kv48f54v46qduruy4fwd2dtzq2uk70j",
+            "uluna"
+        ]
+    },
+    {
+        token: "terra18wdx2reznmt7g9mmc644vftseqnztygmv27e9kmaast3ctj6gxeqsc8lge",
+        dex: "terraswap",
+        type: "xyk",
+        assets: [
+            "terra17tr43u9je863jd4ppt40rhuh78twdqef3v76mc7qc4fkfaa7c59szu0npv",
+            "uluna"
+        ]
+    },
+    {
+        token: "terra13mg8pvsrhutgw06khvq43pcuhra8cwmxqftlfpxscfqlwxt6yxuqdtqp2f",
+        dex: "terraswap",
+        type: "xyk",
+        assets: [
+            "terra1wx48f5g06l9qxw8k4gn3200lmseu85vkgangwyn9xdu66mtfsfxq60hkdt",
+            "uluna"
+        ]
+    },
+    {
+        token: "terra1hj3q6v3t7qktzxdksyzmp2f6nf0xp29ju4hmgyp8sk4zqajtsy0qc2fywc",
+        dex: "terraport",
+        type: "xyk",
+        assets: [
+            "terra1gpxjwzpv0pedh0eyx7zw0amlss074ptukuvnf3dweg0wthwam0jqcc9lm4",
+            "uluna"
+        ]
+    }
 ]
