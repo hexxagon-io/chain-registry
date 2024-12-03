@@ -2344,6 +2344,12 @@ module.exports = [
     name: "NHERA",
     icon: "https://i.ibb.co.com/8c1fmGM/IMG-20240921-202013-833.jpg",
    },
+    {
+    contract: "terra16vr6egq7p0eduy0d8jzp9gcea5v24p4ul5uky90za5052nr2gvcs5947ux",
+    protocol : "SANTA KLAUS",
+    name: "KLAUS",
+    icon: "https://i.ibb.co.com/8c1fmGM/IMG-20240921-202013-833.jpg",
+   },
    {
     contract: "terra1vhgq25vwuhdhn9xjll0rhl2s67jzw78a4g2t78y5kz89q9lsdskq2pxcj2",
     protocol : "Juris Protocol",
