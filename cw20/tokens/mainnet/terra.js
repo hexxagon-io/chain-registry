@@ -2020,6 +2020,7 @@ module.exports = [
         icon: "https://i.ibb.co/TqZfQZn/6995cc70-6043-46c7-90a7-8aca84122fc3.jpg",
         decimal: 6,
     },
+    {
         protocol: "Juris Protocol",
         name: "Juris Protocol",
         symbol: "JURIS",
