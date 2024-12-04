@@ -2059,5 +2059,13 @@ module.exports = [
         token: "terra1gpxjwzpv0pedh0eyx7zw0amlss074ptukuvnf3dweg0wthwam0jqcc9lm4",
         icon: "https://i.ibb.co.com/Hx3FLqc/JIL-new.png",
         decimals: 6,
+    },
+        {        
+        protocol : "Historia Nova Token",
+        name: "Historia Nova Token",
+        symbol: "HNT",
+        token: "terra1gm4fzalxdhjt0hl398dhe9ln9ecj50m9dmr4x5558w59js02v9psqncdgd",
+        icon: "https://i.ibb.co/D5skyJr/Historia-Nova-Token.jpg",
+        decimals: 6,
     }
 ]
