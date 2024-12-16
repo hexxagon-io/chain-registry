@@ -2379,5 +2379,11 @@ module.exports = [
     protocol : "MEME MAKER",
     name: "JIL",
     icon: "https://i.ibb.co.com/Hx3FLqc/JIL-new.png",
+   },
+    {
+    contract: "terra1syz36q23ga0g22vw5g9wnswqret35zg0mxhgv6vhhtyr8lh3jlcqhyz907",
+    protocol : "ADDVOW",
+    name: "ADDVOW",
+    icon: "https://i.ibb.co.com/1Gm86jt/addvow.jpg",
    }
 ]
