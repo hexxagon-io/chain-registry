@@ -3,7 +3,7 @@ module.exports = {
     lcd: 'https://lcd.terra-classic.hexxagon.io',
     api: 'https://api.terra-classic.hexxagon.io',
     hive: 'https://hive.terra-classic.hexxagon.io/graphql',
-    taxRate: 0.1,
+    taxRate: 0.05,
     gasAdjustment: 2.5,
     gasPrices: {
         uluna: 28.325,
