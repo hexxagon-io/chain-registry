@@ -2026,6 +2026,7 @@ module.exports = [
         symbol: "JURIS",
         token: "terra1vhgq25vwuhdhn9xjll0rhl2s67jzw78a4g2t78y5kz89q9lsdskq2pxcj2",
         icon: "https://raw.githubusercontent.com/JurisProtocol/assets/refs/heads/main/jurislogo.png",
+        coinGeckoID: 'juris-protocol',
         decimals: 6,
     },
     {
