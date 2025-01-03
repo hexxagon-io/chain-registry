@@ -2061,12 +2061,20 @@ module.exports = [
         icon: "https://i.ibb.co.com/Hx3FLqc/JIL-new.png",
         decimals: 6,
     },
-        {        
+    {        
         protocol : "Historia Nova Token",
         name: "Historia Nova Token",
         symbol: "HNT",
         token: "terra1gm4fzalxdhjt0hl398dhe9ln9ecj50m9dmr4x5558w59js02v9psqncdgd",
         icon: "https://i.ibb.co/D5skyJr/Historia-Nova-Token.jpg",
+        decimals: 6,
+    },
+    {        
+        protocol : "ADDVOW",
+        name: "ADDVOW",
+        symbol: "ADDVOW",
+        token: "terra1syz36q23ga0g22vw5g9wnswqret35zg0mxhgv6vhhtyr8lh3jlcqhyz907",
+        icon: "https://i.ibb.co.com/1Gm86jt/addvow.jpg",
         decimals: 6,
     }
 ]
