@@ -1221,5 +1221,23 @@ module.exports = [
             "terra1gpxjwzpv0pedh0eyx7zw0amlss074ptukuvnf3dweg0wthwam0jqcc9lm4",
             "uluna"
         ]
+    },
+    {
+        token: "terra1waqdp69ly93kaj6k923nxzllzcshs8jmkzjk4fu3x3xcp6mqu5hsez0emq",
+        dex: "terraport",
+        type: "xyk",
+        assets: [
+            "terra1syz36q23ga0g22vw5g9wnswqret35zg0mxhgv6vhhtyr8lh3jlcqhyz907",
+            "uluna"
+        ]
+    },
+    {
+        token: "terra1waqdp69ly93kaj6k923nxzllzcshs8jmkzjk4fu3x3xcp6mqu5hsez0emq",
+        dex: "terraport",
+        type: "xyk",
+        assets: [
+            "terra1syz36q23ga0g22vw5g9wnswqret35zg0mxhgv6vhhtyr8lh3jlcqhyz907",
+            "uusd"
+        ]
     }
 ]
