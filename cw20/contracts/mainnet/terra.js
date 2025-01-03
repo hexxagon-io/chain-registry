@@ -2385,5 +2385,11 @@ module.exports = [
     protocol : "ADDVOW",
     name: "ADDVOW",
     icon: "https://i.ibb.co.com/1Gm86jt/addvow.jpg",
+   },
+    {
+    contract: "terra1h9s32drrpq6uvdjpjzmraux4fmqajk063cud3ht88gn5j76rrsgqys8slz",
+    protocol : "DRM Token",
+    name: "DRM",
+    icon: "https://i.ibb.co/pdw5sHT/Picsart-24-03-25-20-12-27-993.jpg",
    }
 ]

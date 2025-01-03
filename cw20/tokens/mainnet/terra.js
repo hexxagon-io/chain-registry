@@ -2076,5 +2076,13 @@ module.exports = [
         token: "terra1syz36q23ga0g22vw5g9wnswqret35zg0mxhgv6vhhtyr8lh3jlcqhyz907",
         icon: "https://i.ibb.co.com/1Gm86jt/addvow.jpg",
         decimals: 6,
+    },
+    {        
+        protocol : "DRM Token",
+        name: "DRM",
+        symbol: "DRM",
+        token: "terra1h9s32drrpq6uvdjpjzmraux4fmqajk063cud3ht88gn5j76rrsgqys8slz",
+        icon: "https://i.ibb.co/pdw5sHT/Picsart-24-03-25-20-12-27-993.jpg",
+        decimals: 6,
     }
 ]
