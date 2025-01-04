@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "node legacy.js && node index.js",
+    "preinstall": "echo '//registry.npmjs.org/:_authToken=${NPM_TOKEN}' > .npmrc",
     "prettier": "prettier --write './**/*.js'"
   },
   "repository": {

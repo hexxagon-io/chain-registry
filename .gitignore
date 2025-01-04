@@ -114,3 +114,5 @@ public
 
 # IntelliJ IDEA folder - webstorm, pycharm, etc
 .idea/
+
+.npmrc
