@@ -2391,5 +2391,11 @@ module.exports = [
     protocol : "DRM Token",
     name: "DRM",
     icon: "https://i.ibb.co/pdw5sHT/Picsart-24-03-25-20-12-27-993.jpg",
+   },
+    {
+    contract: "terra1x6e64es6yhauhvs3prvpdg2gkqdtfru840wgnhs935x8axr7zxkqzysuxz",
+    protocol : "ALPHA LUNC UNIVERSE",
+    name: "ALPHA",
+    icon: "https://i.ibb.co/3ytCxdy/alpha-130-min.png",
    }
 ]
