@@ -2084,5 +2084,13 @@ module.exports = [
         token: "terra1h9s32drrpq6uvdjpjzmraux4fmqajk063cud3ht88gn5j76rrsgqys8slz",
         icon: "https://i.ibb.co/pdw5sHT/Picsart-24-03-25-20-12-27-993.jpg",
         decimals: 6,
+    },
+    {        
+        protocol : "ALPHA LUNC UNIVERSE",
+        name: "ALPHA",
+        symbol: "ALPHA",
+        token: "terra1x6e64es6yhauhvs3prvpdg2gkqdtfru840wgnhs935x8axr7zxkqzysuxz",
+        icon: "https://i.ibb.co/3ytCxdy/alpha-130-min.png",
+        decimals: 6,
     }
 ]
