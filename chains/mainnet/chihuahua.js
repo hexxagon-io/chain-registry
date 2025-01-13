@@ -1,6 +1,6 @@
 module.exports = {
     chainID: 'chihuahua-1',
-    lcd: 'https://api.chihuahua.wtf',
+    lcd: 'https://chihuahua-rest.publicnode.com',
     gasAdjustment: 2,
     gasPrices: {uhuahua: 1250},
     prefix: 'chihuahua',
