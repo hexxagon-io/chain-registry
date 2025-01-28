@@ -12,4 +12,9 @@ module.exports = [
         link: "https://talis.art",
         icon: "https://talis.art/icons/talis/logo.svg",
     },
+    {
+        name: "LunaPunks",
+        link: "https://lunapunks.io",
+        icon: "https://lunapunks.io/hero.jpg",
+    },
 ];
