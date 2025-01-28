@@ -32,7 +32,7 @@ cw721
 └───contracts
 │   │   NFTs collections for display in Galaxy Station.
 │
-└───marketplaces
+└───marketplaces.js
     │   List of open NFT marketplaces.
 ```
 

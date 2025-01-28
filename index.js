@@ -303,6 +303,8 @@ const fs = require('fs').promises
     await fs.writeFile(dexPairsOutPath, dexPairsList)
     const nftContractsList = JSON.stringify(nftContractsOut)
     await fs.writeFile(nftContractsOutPath, nftContractsList)
+    const nftMarketplaces = require('./cw721/marketplaces.js')
+    await fs.writeFile('./build/nft_marketplaces.json', JSON.stringify(nftMarketplaces))
 
     // copy images inside ./build
     const images = [
