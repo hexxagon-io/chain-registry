@@ -222,5 +222,4 @@ module.exports = {
     cw20Contracts: require('../../cw20/contracts/mainnet/terra'),
     dexPairs: require('../../cw20/dex_pairs/mainnet/terra'),
     nftContracts: require('../../cw721/contracts/mainnet/terra'),
-    nftMarketplaces: require('../../cw721/marketplaces/mainnet/terra'),
 }
