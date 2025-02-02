@@ -23,6 +23,7 @@ module.exports = {
             name: 'AtomOne',
             icon: process.env.CF_PAGES_URL + '/img/coins/atomone.svg',
             decimals: 6,
+            coinMarketCapID: 'atomone',
         },
     ],
 }
