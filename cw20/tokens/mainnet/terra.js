@@ -2100,5 +2100,13 @@ module.exports = [
         token: "terra13ryrrlcskwa05cd94h54c8rnztff9l82pp0zqnfvlwt77za8wjjsld36ms",
         icon: "https://i.ibb.co/G2y0wf5/n-Y-sl6-YZ-400x400.jpg",
         decimals: 6,
+    },
+    {        
+        protocol : "SMarioToken",
+        name: "SMarioToken",
+        symbol: "SMT",
+        token: "terra1rc4ef7s6pzuf9pkg8ymnw29pjz2yfm3tjg0kleu4348c2e6upkxqdfdj5u",
+        icon: "https://www.smariotoken.com/SMRT_logo.png",
+        decimals: 6,
     }
 ]
