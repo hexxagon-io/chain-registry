@@ -7,6 +7,7 @@ module.exports = {
     coinType: '118',
     baseAsset: 'udec',
     name: 'Decentr',
+    chainRegistryName: 'decentr',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Decentr.svg',
     gitRepo: 'https://github.com/Decentr-net/decentr',

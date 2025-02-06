@@ -7,6 +7,7 @@ module.exports = {
     coinType: '118',
     baseAsset: 'utia',
     name: 'Celestia',
+    chainRegistryName: 'celestia',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Celestia.svg',
     channels: {

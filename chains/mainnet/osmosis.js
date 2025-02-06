@@ -7,6 +7,7 @@ module.exports = {
     coinType: '118',
     baseAsset: 'uosmo',
     name: 'Osmosis',
+    chainRegistryName: 'osmosis',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Osmosis.svg',
     gitRepo: 'https://github.com/osmosis-labs/osmosis',

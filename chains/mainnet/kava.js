@@ -7,6 +7,7 @@ module.exports = {
     coinType: '459',
     baseAsset: 'ukava',
     name: 'Kava',
+    chainRegistryName: 'kava',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Kava.svg',
     channels: {

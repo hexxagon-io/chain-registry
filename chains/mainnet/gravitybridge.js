@@ -7,6 +7,7 @@ module.exports = {
     coinType: '118',
     baseAsset: 'ugraviton',
     name: 'Gravity Bridge',
+    chainRegistryName: 'gravitybridge',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Gravity.svg',
     gitRepo: 'https://github.com/Gravity-Bridge/Gravity-Bridge.git',

@@ -7,6 +7,7 @@ module.exports = {
     coinType: '118',
     baseAsset: 'ucre',
     name: 'Crescent',
+    chainRegistryName: 'crescent',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Crescent.svg',
     gitRepo: 'https://github.com/crescent-network/crescent.git',

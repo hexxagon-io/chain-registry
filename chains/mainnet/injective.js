@@ -7,6 +7,7 @@ module.exports = {
     coinType: '60',
     baseAsset: 'inj',
     name: 'Injective',
+    chainRegistryName: 'injective',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Injective.svg',
     channels: {

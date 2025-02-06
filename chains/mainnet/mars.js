@@ -7,6 +7,7 @@ module.exports = {
     coinType: '330',
     baseAsset: 'umars',
     name: 'Mars',
+    chainRegistryName: 'mars',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Mars.svg',
     gitRepo: 'https://github.com/mars-protocol/hub.git',

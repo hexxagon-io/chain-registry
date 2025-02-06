@@ -22,6 +22,7 @@ module.exports = {
     coinType: '118',
     baseAsset: 'ukuji',
     name: 'Kujira',
+    chainRegistryName: 'kujira',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Kujira.png',
     gitRepo: 'https://github.com/Team-Kujira/core.git',

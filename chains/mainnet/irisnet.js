@@ -8,6 +8,7 @@ module.exports = {
     coinType: '118',
     baseAsset: 'uiris',
     name: 'IRISnet',
+    chainRegistryName: 'irisnet',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Iris.svg',
     gitRepo: 'https://github.com/irisnet/irishub.git',

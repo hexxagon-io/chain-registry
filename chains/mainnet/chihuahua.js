@@ -7,6 +7,7 @@ module.exports = {
     coinType: '118',
     baseAsset: 'uhuahua',
     name: 'Chihuahua',
+    chainRegistryName: 'chihuahua',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/huahua.svg',
     gitRepo: 'https://github.com/ChihuahuaChain/chihuahua.git',

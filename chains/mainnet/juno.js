@@ -7,6 +7,7 @@ module.exports = {
     coinType: '118',
     baseAsset: 'ujuno',
     name: 'Juno',
+    chainRegistryName: 'juno',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Juno.svg',
     gitRepo: 'https://github.com/CosmosContracts/juno.git',

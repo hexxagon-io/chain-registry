@@ -7,6 +7,7 @@ module.exports = {
   coinType: "118",
   baseAsset: "swth",
   name: "Carbon",
+  chainRegistryName: 'carbon',
   disabledModules: ['swap'],
   icon: process.env.CF_PAGES_URL + "/img/chains/Carbon.svg",
   gitRepo: 'https://github.com/Switcheo/carbon-bootstrap',

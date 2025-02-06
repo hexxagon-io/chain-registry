@@ -7,6 +7,7 @@ module.exports = {
     coinType: '118',
     baseAsset: 'ufis',
     name: 'StaFiHub',
+    chainRegistryName: 'stafihub',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/StaFiHub.svg',
     gitRepo: 'https://github.com/stafihub/stafihub',

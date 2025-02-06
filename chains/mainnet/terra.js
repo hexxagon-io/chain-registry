@@ -34,6 +34,7 @@ module.exports = {
     coinType: '330',
     baseAsset: 'uluna',
     name: 'Terra Classic',
+    chainRegistryName: 'terra',
     icon: process.env.CF_PAGES_URL + '/img/chains/TerraClassic.svg',
     gitRepo: 'https://github.com/classic-terra/core',
     isClassic: true,

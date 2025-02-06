@@ -7,6 +7,7 @@ module.exports = {
     coinType: '118',
     baseAsset: 'uatone',
     name: 'AtomOne',
+    chainRegistryName: 'atomone',
     disabledModules: ['swap', 'gov'],
     icon: process.env.CF_PAGES_URL + '/img/chains/atomone.svg',
     gitRepo: 'https://github.com/atomone-hub/atomone',

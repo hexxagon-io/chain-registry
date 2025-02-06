@@ -7,6 +7,7 @@ module.exports = {
     coinType: '118',
     baseAsset: 'uwhale',
     name: 'Migaloo',
+    chainRegistryName: 'migaloo',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Migaloo.svg',
     gitRepo: 'https://github.com/White-Whale-Defi-Platform/migaloo-chain.git',

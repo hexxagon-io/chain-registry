@@ -7,6 +7,7 @@ module.exports = {
     coinType: '118',
     baseAsset: 'uaxl',
     name: 'Axelar',
+    chainRegistryName: 'axelar',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Axelar.svg',
     gitRepo: 'https://github.com/axelarnetwork/axelar-core.git',
