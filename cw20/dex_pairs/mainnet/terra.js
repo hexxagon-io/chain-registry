@@ -1229,8 +1229,6 @@ module.exports = [
     assets: [
         "terra1gm4fzalxdhjt0hl398dhe9ln9ecj50m9dmr4x5558w59js02v9psqncdgd",
         "uluna"
-        
        ]
-}
-
+   }
 ]
