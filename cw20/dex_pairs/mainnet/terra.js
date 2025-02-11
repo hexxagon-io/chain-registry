@@ -1223,12 +1223,84 @@ module.exports = [
         ]
     },
     {
-    token: "terra1fs5kd2u2cw3vcppxnvlkdyehzsgzcj6a3546ym5pcjxs8z7au5pqps54ek",
-    dex: "terraport", 
-    type: "xyk", 
-    assets: [
-        "terra1gm4fzalxdhjt0hl398dhe9ln9ecj50m9dmr4x5558w59js02v9psqncdgd",
-        "uluna"
-       ]
-   }
+        token: "terra1waqdp69ly93kaj6k923nxzllzcshs8jmkzjk4fu3x3xcp6mqu5hsez0emq",
+        dex: "terraport",
+        type: "xyk",
+        assets: [
+            "terra1syz36q23ga0g22vw5g9wnswqret35zg0mxhgv6vhhtyr8lh3jlcqhyz907",
+            "uluna"
+        ]
+    },
+    {
+        token: "terra1waqdp69ly93kaj6k923nxzllzcshs8jmkzjk4fu3x3xcp6mqu5hsez0emq",
+        dex: "terraport",
+        type: "xyk",
+        assets: [
+            "terra1syz36q23ga0g22vw5g9wnswqret35zg0mxhgv6vhhtyr8lh3jlcqhyz907",
+            "uusd"
+        ]
+    },
+    {
+        token: "terra1jn74c2m9zahmep4a9nrjwwqh8tdmk8qljjn3hm52kkwyckzagxpszv6552",
+        dex: "terraport",
+        type: "xyk",
+        assets: [
+            "terra1h9s32drrpq6uvdjpjzmraux4fmqajk063cud3ht88gn5j76rrsgqys8slz",
+            "uluna"
+        ]
+    },
+    {
+        token: "terra1u0q5zm8ewk5zfn5qsruksr94desgtpspanvhses7s0udfpsv2a8susnmdq",
+        dex: "terraport",
+        type: "xyk",
+        assets: [
+            "terra1h9s32drrpq6uvdjpjzmraux4fmqajk063cud3ht88gn5j76rrsgqys8slz",
+            "uusd"
+        ]
+    },
+    {
+        token: "terra12u7khzrzn05a73xkpq6a5zrcazz2xmqn7lvupmqmca06pgcyt5qsa9e7p6",
+        dex: "terraport",
+        type: "xyk",
+        assets: [
+            "terra1x6e64es6yhauhvs3prvpdg2gkqdtfru840wgnhs935x8axr7zxkqzysuxz",
+            "uluna"
+        ]
+    },
+    {
+        token: "terra1gaalee28sqlhy40yhtt7ln3gpuv9j6msva5zn6cvxapx5lnp7qss8hrctc",
+        dex: "terraswap",
+        type: "xyk",
+        assets: [
+            "terra1x6e64es6yhauhvs3prvpdg2gkqdtfru840wgnhs935x8axr7zxkqzysuxz",
+            "uluna"
+        ]
+    },
+    {
+        token: "terra1jg2vu97ssz2ldn6gztyl4fp9lfdtc23ffr65l4gpvuxw4znkmpxsja5wph",
+        dex: "terraport",
+        type: "xyk",
+        assets: [
+            "terra1x6e64es6yhauhvs3prvpdg2gkqdtfru840wgnhs935x8axr7zxkqzysuxz",
+            "uusd"
+        ]
+    },
+    {
+        token: "terra1074crd3zkexwupuz3ry367j8mr87zlamv3cd94ajkcwqd3xvj2ysz97lps",
+        dex: "terraswap",
+        type: "xyk",
+        assets: [
+            "terra1x6e64es6yhauhvs3prvpdg2gkqdtfru840wgnhs935x8axr7zxkqzysuxz",
+            "uusd"
+        ]
+    },
+    {
+        token: "terra1fs5kd2u2cw3vcppxnvlkdyehzsgzcj6a3546ym5pcjxs8z7au5pqps54ek",
+        dex: "terraport", 
+        type: "xyk", 
+        assets: [
+            "terra1gm4fzalxdhjt0hl398dhe9ln9ecj50m9dmr4x5558w59js02v9psqncdgd",
+            "uluna"
+        ]
+    }
 ]

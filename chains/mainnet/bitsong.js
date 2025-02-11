@@ -7,6 +7,7 @@ module.exports = {
     coinType: '118',
     baseAsset: 'ubtsg',
     name: 'BitSong',
+    chainRegistryName: 'bitsong',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/BitSong.svg',
     gitRepo: 'https://github.com/bitsongofficial/go-bitsong.git',

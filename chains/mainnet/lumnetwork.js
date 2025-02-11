@@ -7,6 +7,7 @@ module.exports = {
     coinType: '118',
     baseAsset: 'ulum',
     name: 'Lum Network',
+    chainRegistryName: 'lumnetwork',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Lum.svg',
     gitRepo: 'https://github.com/lum-network/chain.git',

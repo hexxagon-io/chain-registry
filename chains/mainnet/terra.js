@@ -3,7 +3,8 @@ module.exports = {
     lcd: 'https://lcd.terra-classic.hexxagon.io',
     api: 'https://api.terra-classic.hexxagon.io',
     hive: 'https://hive.terra-classic.hexxagon.io/graphql',
-    gasAdjustment: 2.5,
+    taxRate: 0.005,
+    gasAdjustment: 2,
     gasPrices: {
         uluna: 28.325,
         usdr: 0.52469,
@@ -33,6 +34,7 @@ module.exports = {
     coinType: '330',
     baseAsset: 'uluna',
     name: 'Terra Classic',
+    chainRegistryName: 'terra',
     icon: process.env.CF_PAGES_URL + '/img/chains/TerraClassic.svg',
     gitRepo: 'https://github.com/classic-terra/core',
     isClassic: true,
@@ -221,5 +223,4 @@ module.exports = {
     cw20Contracts: require('../../cw20/contracts/mainnet/terra'),
     dexPairs: require('../../cw20/dex_pairs/mainnet/terra'),
     nftContracts: require('../../cw721/contracts/mainnet/terra'),
-    nftMarketplaces: require('../../cw721/marketplaces/mainnet/terra'),
 }

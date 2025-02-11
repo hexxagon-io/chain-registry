@@ -7,6 +7,7 @@ module.exports = {
     coinType: '118',
     baseAsset: 'ustars',
     name: 'Stargaze',
+    chainRegistryName: 'stargaze',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/stargaze.svg',
     channels: {

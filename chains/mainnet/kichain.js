@@ -7,6 +7,7 @@ module.exports = {
     coinType: '118',
     baseAsset: 'uxki',
     name: 'Ki',
+    chainRegistryName: 'kichain',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Kichain.svg',
     gitRepo: 'https://github.com/KiFoundation/ki-tools.git',

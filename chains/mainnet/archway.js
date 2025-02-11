@@ -7,6 +7,7 @@ module.exports = {
     coinType: '118',
     baseAsset: 'aarch',
     name: 'Archway',
+    chainRegistryName: 'archway',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Archway.svg',
     gitRepo: 'https://github.com/archway-network/archway.git',

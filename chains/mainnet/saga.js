@@ -7,6 +7,7 @@ module.exports = {
     coinType: '118',
     baseAsset: 'usaga',
     name: 'Saga',
+    chainRegistryName: 'saga',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/saga.svg',
     gitRepo: 'https://github.com/sagaxyz/ssc.git',

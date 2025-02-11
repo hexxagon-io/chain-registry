@@ -10,7 +10,8 @@ module.exports = {
     coinType: '118',
     baseAsset: 'uusdc',
     name: 'Noble',
-    disabledModules: ['staking', 'gov', 'swap'],
+    chainRegistryName: 'noble',
+    disabledModules: ['gov', 'swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Noble.svg',
     channels: {
         'phoenix-1': 'channel-30',

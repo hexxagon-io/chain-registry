@@ -1,6 +1,6 @@
 {
   "name": "hexxagon-chain-registry",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "🛰️ Hexxagon Chain Registry",
   "main": "index.js",
   "scripts": {

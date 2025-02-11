@@ -7,6 +7,7 @@ module.exports = {
     coinType: '118',
     baseAsset: 'uakt',
     name: 'Akash',
+    chainRegistryName: 'akash',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Akash.svg',
     gitRepo: 'https://github.com/akash-network/node.git',

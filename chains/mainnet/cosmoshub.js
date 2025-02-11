@@ -7,6 +7,7 @@ module.exports = {
     coinType: '118',
     baseAsset: 'uatom',
     name: 'Cosmos',
+    chainRegistryName: 'cosmoshub',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Cosmos.svg',
     gitRepo: 'https://github.com/cosmos/gaia.git',

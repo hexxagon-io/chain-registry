@@ -11,6 +11,7 @@ module.exports = {
     coinType: '330',
     baseAsset: 'uluna',
     name: 'Terra',
+    chainRegistryName: 'terra2',
     // disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Terra.svg',
     alliance: true,

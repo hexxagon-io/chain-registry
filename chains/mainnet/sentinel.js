@@ -7,6 +7,7 @@ module.exports = {
     coinType: '118',
     baseAsset: 'udvpn',
     name: 'Sentinel',
+    chainRegistryName: 'sentinel',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/sentinel.svg',
     gitRepo: 'https://github.com/sentinel-official/hub',

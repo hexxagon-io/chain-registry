@@ -2026,6 +2026,7 @@ module.exports = [
         symbol: "JURIS",
         token: "terra1vhgq25vwuhdhn9xjll0rhl2s67jzw78a4g2t78y5kz89q9lsdskq2pxcj2",
         icon: "https://raw.githubusercontent.com/JurisProtocol/assets/refs/heads/main/jurislogo.png",
+        coinGeckoID: 'juris-protocol',
         decimals: 6,
     },
     {
@@ -2060,12 +2061,52 @@ module.exports = [
         icon: "https://i.ibb.co.com/Hx3FLqc/JIL-new.png",
         decimals: 6,
     },
-        {        
+    {        
         protocol : "Historia Nova Token",
         name: "Historia Nova Token",
         symbol: "HNT",
         token: "terra1gm4fzalxdhjt0hl398dhe9ln9ecj50m9dmr4x5558w59js02v9psqncdgd",
         icon: "https://i.ibb.co/D5skyJr/Historia-Nova-Token.jpg",
+        decimals: 6,
+    },
+    {        
+        protocol : "ADDVOW",
+        name: "ADDVOW",
+        symbol: "ADDVOW",
+        token: "terra1syz36q23ga0g22vw5g9wnswqret35zg0mxhgv6vhhtyr8lh3jlcqhyz907",
+        icon: "https://i.ibb.co.com/1Gm86jt/addvow.jpg",
+        decimals: 6,
+    },
+    {        
+        protocol : "DRM Token",
+        name: "DRM",
+        symbol: "DRM",
+        token: "terra1h9s32drrpq6uvdjpjzmraux4fmqajk063cud3ht88gn5j76rrsgqys8slz",
+        icon: "https://i.ibb.co/pdw5sHT/Picsart-24-03-25-20-12-27-993.jpg",
+        decimals: 6,
+    },
+    {        
+        protocol : "ALPHA LUNC UNIVERSE",
+        name: "ALPHA",
+        symbol: "ALPHA",
+        token: "terra1x6e64es6yhauhvs3prvpdg2gkqdtfru840wgnhs935x8axr7zxkqzysuxz",
+        icon: "https://i.ibb.co/3ytCxdy/alpha-130-min.png",
+        decimals: 6,
+    },
+    {        
+        protocol : "WESO Token",
+        name: "WESO Token",
+        symbol: "WESO",
+        token: "terra13ryrrlcskwa05cd94h54c8rnztff9l82pp0zqnfvlwt77za8wjjsld36ms",
+        icon: "https://i.ibb.co/G2y0wf5/n-Y-sl6-YZ-400x400.jpg",
+        decimals: 6,
+    },
+    {        
+        protocol : "SMarioToken",
+        name: "SMarioToken",
+        symbol: "SMT",
+        token: "terra1rc4ef7s6pzuf9pkg8ymnw29pjz2yfm3tjg0kleu4348c2e6upkxqdfdj5u",
+        icon: "https://www.smariotoken.com/SMRT_logo.png",
         decimals: 6,
     }
 ]

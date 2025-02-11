@@ -12,7 +12,9 @@ const fs = require('fs').promises
 
     // convert chains to json
     const chains = {}
+    const chains2 = {};
     const chainsOutPath = './build/chains.json'
+    const chains2OutPath = './build/chains2.json'
 
     const chainFiles = await glob('./chains/*/*.js')
     const tokens = []
@@ -23,9 +25,11 @@ const fs = require('fs').promises
     await Promise.all(
         chainFiles.map(async (file) => {
             const [_, folder, network, fileName] = file.split('/')
+            const filenameWithoutExtension = path.basename(file, path.extname(file));
 
             if (typeof chains[network] === 'undefined') {
                 chains[network] = {}
+                chains2[network] = {};
             }
 
             const fullPath = `./${file}`
@@ -111,6 +115,7 @@ const fs = require('fs').promises
             )
 
             chains[network][chainData.chainID] = {...chainData, gasPrices}
+            chains2[network][filenameWithoutExtension] = { ...chainData, gasPrices };
         })
     )
 
@@ -270,6 +275,8 @@ const fs = require('fs').promises
     // Format the JSON with indentions before writing.
     const jsonList = JSON.stringify(chains)
     await fs.writeFile(chainsOutPath, jsonList)
+    const jsonList2 = JSON.stringify(chains2)
+    await fs.writeFile(chains2OutPath, jsonList2)
     const coinsList = JSON.stringify(coinsOut)
     await fs.writeFile(coinsOutPath, coinsList)
     const ibcList = JSON.stringify(
@@ -296,6 +303,8 @@ const fs = require('fs').promises
     await fs.writeFile(dexPairsOutPath, dexPairsList)
     const nftContractsList = JSON.stringify(nftContractsOut)
     await fs.writeFile(nftContractsOutPath, nftContractsList)
+    const nftMarketplaces = require('./cw721/marketplaces.js')
+    await fs.writeFile('./build/nft_marketplaces.json', JSON.stringify(nftMarketplaces))
 
     // copy images inside ./build
     const images = [

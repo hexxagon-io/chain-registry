@@ -7,6 +7,7 @@ module.exports = {
     coinType: '118',
     baseAsset: 'ustrd',
     name: 'Stride',
+    chainRegistryName: 'stride',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/stride.svg',
     gitRepo: 'https://github.com/Stride-Labs/stride',
