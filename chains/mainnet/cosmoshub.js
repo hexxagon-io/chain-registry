@@ -11,6 +11,10 @@ module.exports = {
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Cosmos.svg',
     gitRepo: 'https://github.com/cosmos/gaia.git',
+    autoCompound: {
+        enabled: true,
+        minRewards: 1000000
+    },
     ibc: {
         fromTerra: 'channel-2',
         toTerra: 'channel-219',

@@ -11,6 +11,10 @@ module.exports = {
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/BitSong.svg',
     gitRepo: 'https://github.com/bitsongofficial/go-bitsong.git',
+    autoCompound: {
+        enabled: true,
+        minRewards: 1000000
+    },
     explorer: {
         address: 'https://www.mintscan.io/bitsong/account/{}',
         tx: 'https://www.mintscan.io/bitsong/txs/{}',

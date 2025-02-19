@@ -11,6 +11,10 @@ module.exports = {
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Juno.svg',
     gitRepo: 'https://github.com/CosmosContracts/juno.git',
+    autoCompound: {
+        enabled: true,
+        minRewards: 1000000
+    },
     ibc: {
         fromTerra: 'channel-20',
         toTerra: 'channel-27',

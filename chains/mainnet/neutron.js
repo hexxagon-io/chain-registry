@@ -15,6 +15,10 @@ module.exports = {
     disabledModules: ['staking', 'gov', 'swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Neutron.png',
     gitRepo: 'https://github.com/neutron-org/neutron',
+    autoCompound: {
+        enabled: true,
+        minRewards: 1000000
+    },
     channels: {
         'osmosis-1': 'channel-10',
         'stride-1': 'channel-8',

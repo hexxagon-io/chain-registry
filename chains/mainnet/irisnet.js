@@ -12,6 +12,10 @@ module.exports = {
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Iris.svg',
     gitRepo: 'https://github.com/irisnet/irishub.git',
+    autoCompound: {
+        enabled: true,
+        minRewards: 1000000
+    },
     // ibc: {
     //   fromTerra: 'channel-45',
     //   toTerra: 'channel-56',

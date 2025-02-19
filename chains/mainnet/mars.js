@@ -11,6 +11,10 @@ module.exports = {
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Mars.svg',
     gitRepo: 'https://github.com/mars-protocol/hub.git',
+    autoCompound: {
+        enabled: true,
+        minRewards: 1000000
+    },
     // ibc: {
     //   fromTerra: 'channel-78',
     //   toTerra: 'channel-2',

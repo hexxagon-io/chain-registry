@@ -11,6 +11,10 @@ module.exports = {
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Crescent.svg',
     gitRepo: 'https://github.com/crescent-network/crescent.git',
+    autoCompound: {
+        enabled: true,
+        minRewards: 1000000
+    },
     ibc: {
         fromTerra: 'channel-49',
         toTerra: 'channel-0',

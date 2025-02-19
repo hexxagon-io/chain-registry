@@ -14,6 +14,10 @@ module.exports = {
     chainRegistryName: 'dydx',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/dydx.svg',
+    autoCompound: {
+        enabled: true,
+        minRewards: 1000000
+    },
     channels: {
         'kaiyo-1': 'channel-5',
         'noble-1': 'channel-0',

@@ -11,6 +11,10 @@ module.exports = {
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/stride.svg',
     gitRepo: 'https://github.com/Stride-Labs/stride',
+    autoCompound: {
+        enabled: false,
+        minRewards: 1000000
+    },
     // ibc: {
     //   fromTerra: 'channel-46',
     //   toTerra: 'channel-52',

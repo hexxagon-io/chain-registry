@@ -11,6 +11,10 @@ module.exports = {
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/sei.svg',
     gitRepo: 'https://github.com/sei-protocol/sei-chain',
+    autoCompound: {
+        enabled: true,
+        minRewards: 1000000
+    },
     // ibc: {
     //   fromTerra: 'channel-158',
     //   toTerra: 'channel-3',

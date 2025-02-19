@@ -14,6 +14,10 @@ module.exports = {
     chainRegistryName: 'terra2',
     // disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Terra.svg',
+    autoCompound: {
+        enabled: true,
+        minRewards: 1000000
+    },
     alliance: true,
     channels: {
         'akashnet-2': 'channel-273',

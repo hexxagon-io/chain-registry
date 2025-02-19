@@ -11,6 +11,10 @@ module.exports = {
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Archway.svg',
     gitRepo: 'https://github.com/archway-network/archway.git',
+    autoCompound: {
+        enabled: true,
+        minRewards: 100000000000000000
+    },
     ibc: {},
     channels: {
         'axelar-dojo-1': 'channel-13',

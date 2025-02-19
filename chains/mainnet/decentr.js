@@ -11,6 +11,10 @@ module.exports = {
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Decentr.svg',
     gitRepo: 'https://github.com/Decentr-net/decentr',
+    autoCompound: {
+        enabled: true,
+        minRewards: 1000000
+    },
     // ibc: {
     //   fromTerra: 'channel-5',
     //   toTerra: 'channel-99',

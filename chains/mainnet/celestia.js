@@ -10,6 +10,10 @@ module.exports = {
     chainRegistryName: 'celestia',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Celestia.svg',
+    autoCompound: {
+        enabled: false,
+        minRewards: 1000000
+    },
     channels: {
         'osmosis-1': 'channel-2',
         'phoenix-1': 'channel-15'

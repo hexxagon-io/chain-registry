@@ -10,6 +10,10 @@ module.exports = {
     chainRegistryName: 'kava',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Kava.svg',
+    autoCompound: {
+        enabled: true,
+        minRewards: 1000000
+    },
     channels: {
         'celestia': 'channel-140',
         'cosmoshub-4': 'channel-0',

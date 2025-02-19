@@ -11,6 +11,10 @@ module.exports = {
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Axelar.svg',
     gitRepo: 'https://github.com/axelarnetwork/axelar-core.git',
+    autoCompound: {
+        enabled: false,
+        minRewards: 100000
+    },
     ibc: {
         fromTerra: 'channel-19',
         toTerra: 'channel-0',

@@ -11,6 +11,10 @@ module.exports = {
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/StaFiHub.svg',
     gitRepo: 'https://github.com/stafihub/stafihub',
+    autoCompound: {
+        enabled: false,
+        minRewards: 1000000
+    },
     // ibc: {
     //   fromTerra: 'channel-204',
     //   toTerra: 'channel-9',

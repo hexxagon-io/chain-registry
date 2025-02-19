@@ -11,6 +11,10 @@ module.exports = {
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Lum.svg',
     gitRepo: 'https://github.com/lum-network/chain.git',
+    autoCompound: {
+        enabled: true,
+        minRewards: 1000000
+    },
     explorer: {
         address: 'https://www.mintscan.io/lum/account/{}',
         tx: 'https://www.mintscan.io/lum/txs/{}',

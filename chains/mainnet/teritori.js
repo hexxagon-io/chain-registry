@@ -11,6 +11,10 @@ module.exports = {
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Teritori.svg',
     gitRepo: 'https://github.com/TERITORI/teritori-chain.git',
+    autoCompound: {
+        enabled: true,
+        minRewards: 1000000
+    },
     explorer: {
         address: 'https://www.mintscan.io/teritori/account/{}',
         tx: 'https://www.mintscan.io/teritori/txs/{}',

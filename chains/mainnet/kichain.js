@@ -11,6 +11,10 @@ module.exports = {
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Kichain.svg',
     gitRepo: 'https://github.com/KiFoundation/ki-tools.git',
+    autoCompound: {
+        enabled: true,
+        minRewards: 1000000
+    },
     explorer: {
         address: 'https://www.mintscan.io/ki-chain/account/{}',
         tx: 'https://www.mintscan.io/ki-chain/txs/{}',

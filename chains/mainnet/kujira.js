@@ -26,6 +26,10 @@ module.exports = {
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Kujira.png',
     gitRepo: 'https://github.com/Team-Kujira/core.git',
+    autoCompound: {
+        enabled: true,
+        minRewards: 1000000
+    },
     // ibc: {
     //   fromTerra: 'channel-10',
     //   toTerra: 'channel-5',

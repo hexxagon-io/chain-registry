@@ -10,6 +10,10 @@ module.exports = {
     chainRegistryName: 'injective',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Injective.svg',
+    autoCompound: {
+        enabled: true,
+        minRewards: 1000000
+    },
     channels: {
         'phoenix-1': 'channel-151',
         'axelar-dojo-1': 'channel-84',

@@ -13,6 +13,10 @@ module.exports = {
     chainRegistryName: 'noble',
     disabledModules: ['gov', 'swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Noble.svg',
+    autoCompound: {
+        enabled: true,
+        minRewards: 1000000
+    },
     channels: {
         'phoenix-1': 'channel-30',
         'migaloo-1': 'channel-14',

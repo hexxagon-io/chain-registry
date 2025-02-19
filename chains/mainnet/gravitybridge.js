@@ -11,6 +11,10 @@ module.exports = {
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Gravity.svg',
     gitRepo: 'https://github.com/Gravity-Bridge/Gravity-Bridge.git',
+    autoCompound: {
+        enabled: true,
+        minRewards: 1000000
+    },
     explorer: {
         address: 'https://www.mintscan.io/gravity-bridge/account/{}',
         tx: 'https://www.mintscan.io/gravity-bridge/txs/{}',

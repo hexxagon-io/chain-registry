@@ -37,6 +37,10 @@ module.exports = {
     chainRegistryName: 'terra',
     icon: process.env.CF_PAGES_URL + '/img/chains/TerraClassic.svg',
     gitRepo: 'https://github.com/classic-terra/core',
+    autoCompound: {
+        enabled: true,
+        minRewards: 1000000
+    },
     isClassic: true,
     alliance: false,
     burnAddress: 'terra1sk06e3dyexuq4shw77y3dsv480xv42mq73anxu',

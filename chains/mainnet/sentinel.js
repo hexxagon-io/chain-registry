@@ -11,6 +11,10 @@ module.exports = {
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/sentinel.svg',
     gitRepo: 'https://github.com/sentinel-official/hub',
+    autoCompound: {
+        enabled: false,
+        minRewards: 1000000
+    },
     explorer: {
         address: 'https://www.mintscan.io/sentinel/account/{}',
         tx: 'https://www.mintscan.io/sentinel/txs/{}',

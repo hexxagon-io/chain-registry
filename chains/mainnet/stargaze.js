@@ -10,6 +10,10 @@ module.exports = {
     chainRegistryName: 'stargaze',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/stargaze.svg',
+    autoCompound: {
+        enabled: true,
+        minRewards: 1000000
+    },
     channels: {
         'phoenix-1': 'channel-266',
         'carbon-1': 'channel-123',

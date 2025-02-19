@@ -11,6 +11,10 @@ module.exports = {
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/saga.svg',
     gitRepo: 'https://github.com/sagaxyz/ssc.git',
+    autoCompound: {
+        enabled: true,
+        minRewards: 1000000
+    },
     explorer: {
         address: 'https://www.mintscan.io/saga/account/{}',
         tx: 'https://www.mintscan.io/saga/txs/{}',

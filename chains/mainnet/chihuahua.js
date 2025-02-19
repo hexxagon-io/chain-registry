@@ -11,6 +11,10 @@ module.exports = {
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/huahua.svg',
     gitRepo: 'https://github.com/ChihuahuaChain/chihuahua.git',
+    autoCompound: {
+        enabled: true,
+        minRewards: 1000000
+    },
     channels: {
         'phoenix-1': 'channel-34',
         'juno-1': 'channel-11',

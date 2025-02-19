@@ -11,6 +11,10 @@ module.exports = {
   disabledModules: ['swap'],
   icon: process.env.CF_PAGES_URL + "/img/chains/Carbon.svg",
   gitRepo: 'https://github.com/Switcheo/carbon-bootstrap',
+  autoCompound: {
+    enabled: true,
+    minRewards: 1000000
+  },
   alliance: true,
   // ibc: {
   //   fromTerra: "channel-36",
