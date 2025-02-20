@@ -12,7 +12,7 @@ module.exports = {
     icon: process.env.CF_PAGES_URL + '/img/chains/Cheqd.svg',
     gitRepo: 'https://github.com/cheqd/cheqd-node.git',
     autoCompound: {
-        enabled: false,
+        enabled: true,
         minRewards: 1000000
     },
     // ibc: {
