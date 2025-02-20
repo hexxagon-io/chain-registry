@@ -11,7 +11,7 @@ module.exports = {
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Comdex.svg',
     autoCompound: {
-        enabled: true,
+        enabled: false,
         minRewards: 1000000
     },
     channels: {

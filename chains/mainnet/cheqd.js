@@ -2,7 +2,7 @@ module.exports = {
     chainID: 'cheqd-mainnet-1',
     lcd: 'https://cheqd.api.m.stavr.tech',
     gasAdjustment: 1.75,
-    gasPrices: {ncheq: 75},
+    gasPrices: { ncheq: 7500 },
     prefix: 'cheqd',
     coinType: '118',
     baseAsset: 'ncheq',
