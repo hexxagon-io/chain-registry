@@ -12,7 +12,7 @@ module.exports = {
     icon: process.env.CF_PAGES_URL + '/img/chains/Kava.svg',
     autoCompound: {
         enabled: true,
-        minRewards: 1000000
+        minRewards: 100000
     },
     channels: {
         'celestia': 'channel-140',

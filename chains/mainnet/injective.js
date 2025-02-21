@@ -12,7 +12,7 @@ module.exports = {
     icon: process.env.CF_PAGES_URL + '/img/chains/Injective.svg',
     autoCompound: {
         enabled: true,
-        minRewards: 1000000
+        minRewards: 100000000000000000
     },
     channels: {
         'phoenix-1': 'channel-151',

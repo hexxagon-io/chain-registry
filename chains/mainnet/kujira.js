@@ -28,7 +28,7 @@ module.exports = {
     gitRepo: 'https://github.com/Team-Kujira/core.git',
     autoCompound: {
         enabled: true,
-        minRewards: 1000000
+        minRewards: 100000
     },
     // ibc: {
     //   fromTerra: 'channel-10',

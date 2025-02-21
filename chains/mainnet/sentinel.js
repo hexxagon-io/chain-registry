@@ -13,7 +13,7 @@ module.exports = {
     gitRepo: 'https://github.com/sentinel-official/hub',
     autoCompound: {
         enabled: false,
-        minRewards: 1000000
+        minRewards: 100000
     },
     explorer: {
         address: 'https://www.mintscan.io/sentinel/account/{}',

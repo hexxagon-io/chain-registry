@@ -12,7 +12,7 @@ module.exports = {
     icon: process.env.CF_PAGES_URL + '/img/chains/stargaze.svg',
     autoCompound: {
         enabled: true,
-        minRewards: 1000000
+        minRewards: 100000
     },
     channels: {
         'phoenix-1': 'channel-266',

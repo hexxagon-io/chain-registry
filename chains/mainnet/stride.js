@@ -13,7 +13,7 @@ module.exports = {
     gitRepo: 'https://github.com/Stride-Labs/stride',
     autoCompound: {
         enabled: false,
-        minRewards: 1000000
+        minRewards: 100000
     },
     // ibc: {
     //   fromTerra: 'channel-46',

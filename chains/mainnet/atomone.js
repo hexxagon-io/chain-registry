@@ -13,7 +13,7 @@ module.exports = {
     gitRepo: 'https://github.com/atomone-hub/atomone',
     autoCompound: {
         enabled: true,
-        minRewards: 1000000
+        minRewards: 100000
     },
     explorer: {
         address: 'https://www.mintscan.io/atomone/account/{}',

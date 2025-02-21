@@ -12,7 +12,7 @@ module.exports = {
     icon: process.env.CF_PAGES_URL + '/img/chains/Celestia.svg',
     autoCompound: {
         enabled: false,
-        minRewards: 1000000
+        minRewards: 100000
     },
     channels: {
         'osmosis-1': 'channel-2',

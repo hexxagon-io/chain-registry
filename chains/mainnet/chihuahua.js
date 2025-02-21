@@ -13,7 +13,7 @@ module.exports = {
     gitRepo: 'https://github.com/ChihuahuaChain/chihuahua.git',
     autoCompound: {
         enabled: true,
-        minRewards: 1000000
+        minRewards: 100000
     },
     channels: {
         'phoenix-1': 'channel-34',

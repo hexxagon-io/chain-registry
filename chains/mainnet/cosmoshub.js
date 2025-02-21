@@ -13,7 +13,7 @@ module.exports = {
     gitRepo: 'https://github.com/cosmos/gaia.git',
     autoCompound: {
         enabled: true,
-        minRewards: 1000000
+        minRewards: 200000
     },
     ibc: {
         fromTerra: 'channel-2',

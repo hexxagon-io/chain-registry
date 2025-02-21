@@ -13,7 +13,7 @@ module.exports = {
     gitRepo: 'https://github.com/mars-protocol/hub.git',
     autoCompound: {
         enabled: true,
-        minRewards: 1000000
+        minRewards: 100000
     },
     // ibc: {
     //   fromTerra: 'channel-78',
