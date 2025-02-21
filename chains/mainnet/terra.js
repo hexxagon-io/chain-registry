@@ -39,7 +39,7 @@ module.exports = {
     gitRepo: 'https://github.com/classic-terra/core',
     autoCompound: {
         enabled: true,
-        minRewards: 1000000
+        minRewards: 1000000000
     },
     isClassic: true,
     alliance: false,
