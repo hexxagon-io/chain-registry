@@ -2,7 +2,7 @@ module.exports = {
     chainID: 'atomone-1',
     lcd: 'https://atomone-rest.publicnode.com',
     gasAdjustment: 1.75,
-    gasPrices: {uatone: 0.006},
+    gasPrices: {uatone: 0.025},
     prefix: 'atone',
     coinType: '118',
     baseAsset: 'uatone',
