@@ -28,7 +28,7 @@ module.exports = {
             name: 'Oraichain',
             icon: process.env.CF_PAGES_URL + '/img/coins/orai.svg',
             decimals: 6,
-            coinGeckoID: 'orai',
+            coinGeckoID: 'oraichain-token',
         },
     ],
 }
