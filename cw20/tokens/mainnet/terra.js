@@ -2108,5 +2108,13 @@ module.exports = [
         token: "terra1rc4ef7s6pzuf9pkg8ymnw29pjz2yfm3tjg0kleu4348c2e6upkxqdfdj5u",
         icon: "https://www.smariotoken.com/SMRT_logo.png",
         decimals: 6,
+    },
+    {
+        protocol : "Terra Classic Revival",
+        name: "TCR",
+        symbol: "TCR",
+        token: "terra1c3m0mfshydl4dc27xmwun2g938delmpcd6tm7qr3vln8kh7ahwxsz526jm",
+        icon: "https://ipfs.bigbangx.io/ipfs/QmdWTNuK7kDxHFv9kmTo7N4pM5dJTmXg2LzR9Se2EHCBce",
+        decimals: 6,
     }
 ]

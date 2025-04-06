@@ -2344,7 +2344,7 @@ module.exports = [
     name: "NHERA",
     icon: "https://i.ibb.co.com/8c1fmGM/IMG-20240921-202013-833.jpg",
    },
-    {
+   {
     contract: "terra16vr6egq7p0eduy0d8jzp9gcea5v24p4ul5uky90za5052nr2gvcs5947ux",
     protocol : "SANTA KLAUS",
     name: "KLAUS",
@@ -2368,34 +2368,40 @@ module.exports = [
     name: "LCW",
     icon: "https://i.ibb.co.com/kg3xvgv/LCW.jpg",
    },
-    {
+   {
     contract: "terra16hzl7lge3jjnlazvut2ypt7upk68z5dycc9rwy608fah8q0y3fuslkenzc",
     protocol : "GARUDA DEX",
     name: "GDEX",
     icon: "https://i.ibb.co.com/txb6Lz6/GDEX.png",
    },
-     {
+   {
     contract: "terra1gpxjwzpv0pedh0eyx7zw0amlss074ptukuvnf3dweg0wthwam0jqcc9lm4",
     protocol : "MEME MAKER",
     name: "JIL",
     icon: "https://i.ibb.co.com/Hx3FLqc/JIL-new.png",
    },
-    {
+   {
     contract: "terra1syz36q23ga0g22vw5g9wnswqret35zg0mxhgv6vhhtyr8lh3jlcqhyz907",
     protocol : "ADDVOW",
     name: "ADDVOW",
     icon: "https://i.ibb.co.com/1Gm86jt/addvow.jpg",
    },
-    {
+   {
     contract: "terra1h9s32drrpq6uvdjpjzmraux4fmqajk063cud3ht88gn5j76rrsgqys8slz",
     protocol : "DRM Token",
     name: "DRM",
     icon: "https://i.ibb.co/pdw5sHT/Picsart-24-03-25-20-12-27-993.jpg",
    },
-    {
+   {
     contract: "terra1x6e64es6yhauhvs3prvpdg2gkqdtfru840wgnhs935x8axr7zxkqzysuxz",
     protocol : "ALPHA LUNC UNIVERSE",
     name: "ALPHA",
     icon: "https://i.ibb.co/3ytCxdy/alpha-130-min.png",
+   },
+   {
+    contract: "terra1c3m0mfshydl4dc27xmwun2g938delmpcd6tm7qr3vln8kh7ahwxsz526jm",
+    protocol : "Terra Classic Revival",
+    name: "TCR",
+    icon: "https://ipfs.bigbangx.io/ipfs/QmdWTNuK7kDxHFv9kmTo7N4pM5dJTmXg2LzR9Se2EHCBce",
    }
 ]
