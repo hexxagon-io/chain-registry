@@ -1,6 +1,6 @@
 module.exports = {
     chainID: 'lum-network-1',
-    lcd: 'https://rest.node0.mainnet.lum.network',
+    lcd: 'https://lum.api.m.stavr.tech',
     gasAdjustment: 1.75,
     gasPrices: {ulum: 0.025},
     prefix: 'lum',
