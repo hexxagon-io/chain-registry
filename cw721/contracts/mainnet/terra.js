@@ -1,5 +1,38 @@
 module.exports = [
     {
+        contract: "terra13c6r0mml6cv05ujh8yn7a6zx4tmg5zm4fc3vzun0l3pw2yz09qaq9jwfsj",
+        protocol: "CatWifHat NFT Collection",
+        name: "LUNC Cats Wif hats Collection 1",
+        symbol: "CWH1",
+        icon: "https://i.ibb.co/LS8HmHz/Stoned-Cat-1-2.jpg",
+        homepage: "https://bigbangx.io/collection/lunc-cats-wif-hats-collection-1-e5azw",
+        marketplace: [
+            "https://bigbangx.io/"
+        ]
+    },
+        {
+        contract: "terra1pf8ek5228ryt7aqxsyupj6zsd9dwk5zzh8qfvwm0xeftene8wu4szjwpad",
+        protocol: "CatWifHat NFT Collection",
+        name: "Down Bad Cats Garuda Defi Avatar Collection",
+        symbol: "DBCats",
+        icon: "https://i.ibb.co/RTGXnsFs/download.jpg",
+        homepage: "https://bigbangx.io/collection/down-bad-cats-garuda-defi-avatar-collection",
+        marketplace: [
+            "https://bigbangx.io/"
+        ]
+    },
+            {
+        contract: "terra1ltg5alpwwk2cqv2nar03vwv8n24wq85n598hl36u6z3tnhwnrr4s08df7x",
+        protocol: "CatWifHat NFT Collection",
+        name: "CatWifHat & Catnip Liquidity Partnership Collection",
+        symbol: "CATLPB",
+        icon: "https://i.ibb.co/v40C2WX4/image-5.jpg",
+        homepage: "https://bigbangx.io/collection/catwifhat--catnip-liquidity-partnership-collection-sfsoq",
+        marketplace: [
+            "https://bigbangx.io/"
+        ]
+    },
+    {
         contract: "terra1sc8tz0delrw32f58nhaxqj4k2gar9thnhlwpzx",
         protocol: "LUNCPenguins",
         name: "LUNCPenguins",
