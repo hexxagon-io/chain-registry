@@ -1,4 +1,22 @@
 module.exports = [
+        {
+        contract: "terra1m58hc296srr6xygrrfyu6u0e32pl8d459nfs55pmegke8zlv94rqsjz882",
+        protocol: "Terraswap",
+        name: "CatWifHat",
+        icon: "https://i.ibb.co/Drv3V8p/Lion-Cat-5.png"
+    },
+    {
+        contract: "terra10quf590wyr8tuf3pp05hgwm94n3dgfnma377uwaynl3tj47df7nskwdxgs",
+        protocol: "Terraswap",
+        name: "Catnip",
+        icon: "https://i.ibb.co/Cz2mHQ4/catnip-token.png"
+    },
+        {
+        contract: "terra1vzhhsddfe558ug43kn5ct5d3aqj48wnvavlaue4d279eltsp9nnql6q549",
+        protocol: "LUNCPump.fun",
+        name: "ampCatWifHat",
+        icon: "https://i.ibb.co/RTGXnsFs/download.jpg"
+    },
     {
         contract: "terra1dq03ugtd40zu9hcgdzrsq6z2z4hwhc9tqk2uy5",
         protocol: "Wormhole",
@@ -2223,18 +2241,6 @@ module.exports = [
         protocol: "Nmeme",
         name: "Neutronmeme",
         icon: "https://i.ibb.co/hWH7rzM/photo-2024-04-06-09-51-19-1.png"
-    },
-    {
-        contract: "terra1m58hc296srr6xygrrfyu6u0e32pl8d459nfs55pmegke8zlv94rqsjz882",
-        protocol: "CatWifHat",
-        name: "CatWifHat",
-        icon: "https://i.ibb.co/Drv3V8p/Lion-Cat-5.png"
-    },
-    {
-        contract: "terra10quf590wyr8tuf3pp05hgwm94n3dgfnma377uwaynl3tj47df7nskwdxgs",
-        protocol: "Catnip",
-        name: "Catnip",
-        icon: "https://i.ibb.co/Cz2mHQ4/catnip-token.png"
     },
     {
         contract: "terra19fufgpaec6c85nrw9j2a40rshdgcm9rhn6hlj2zmx03utpqkh2ls8jnxkz",
