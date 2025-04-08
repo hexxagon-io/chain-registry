@@ -1294,6 +1294,15 @@ module.exports = [
             "uusd"
         ]
     },
+        {
+        token: "terra15p8su45k45axng8ue59rl6zph4at27s49u3agr6uqrx3dhcxpg3qt0ekdt",
+        dex: "terraswap",
+        type: "xyk",
+        assets: [
+            "terra15p8su45k45axng8ue59rl6zph4at27s49u3agr6uqrx3dhcxpg3qt0ekdt",
+            "terra1m58hc296srr6xygrrfyu6u0e32pl8d459nfs55pmegke8zlv94rqsjz882"
+        ]
+    },
     {
         token: "terra1fs5kd2u2cw3vcppxnvlkdyehzsgzcj6a3546ym5pcjxs8z7au5pqps54ek",
         dex: "terraport", 
