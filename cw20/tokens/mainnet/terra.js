@@ -1,4 +1,28 @@
 module.exports = [
+        {
+        protocol: "uLP",
+        name: "Liquidity Token",
+        symbol: "CWH-LUNC ULP",
+        token: "terra1rzthsdppvfgx25l4snwlgvn4l5u9l32rmyr0nwndljvdajxpyz7sayq980",
+        icon: "https://i.ibb.co/hdBpkvW/Untitled.png",
+        decimals: 6,
+    },
+    {
+        protocol: "uLP",
+        name: "Liquidity Token",
+        symbol: "NIP-LUNC ULP",
+        token: "terra1hzgrzsfzepqm9fzsden8dz8akpydmjkz8dl78nc8zcaeh7ta9v7qcwrz8g",
+        icon: "https://i.ibb.co/3RcRxmL/Untitled.png",
+        decimals: 6,
+    },
+        {
+        protocol: "uLP",
+        name: "Liquidity Token",
+        symbol: "CWH-COOKIE ULP",
+        token: "terra14hf0j3dntxegk4zpl5aehrkgg3hxnl2zzs9jtvzeennsvtd5gzfspc2ahh",
+        icon: "https://i.ibb.co/F4w0g4Sn/cookie-cat-lp.png",
+        decimals: 6,
+    },
     {
         protocol: "Anchor",
         symbol: "bLuna",
