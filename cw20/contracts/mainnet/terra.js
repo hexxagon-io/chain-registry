@@ -2403,5 +2403,23 @@ module.exports = [
     protocol : "Terra Classic Revival",
     name: "TCR",
     icon: "https://ipfs.bigbangx.io/ipfs/QmdWTNuK7kDxHFv9kmTo7N4pM5dJTmXg2LzR9Se2EHCBce",
-   }
+   },
+    {
+    contract: "terra1gzs0926z2u6f2w9afk6ks4z9gkjpac00x60fy9yu903qjjz6nk9qmu5jx3",
+    protocol : "Saiyan Squad",
+    name: "Saiyan",
+    icon: "https://i.ibb.co.com/bS4K3b2/giphy-1.gif",
+   },
+    {
+    contract: "terra1sl0cgtanapyy449h0hlmt77s8hak7caktvky8t4ct7a7kvjtyyvqzg8rv6",
+    protocol : "Bull Lunc",
+    name: "Bull Lunc",
+    icon: "https://i.ibb.co.com/5hNNhy6D/VIP1-ezgif-com-resize.gif",
+   },
+    {
+    contract: "terra1genyaw32qah4544m0sfgmchegf7emft77u7hug63cc6a72mvpntsfupzmd",
+    protocol : "KNEEL",
+    name: "KNEEL",
+    icon: "https://i.ibb.co.com/qZr1nDX/V-I-P-5.png",
+   },
 ]
