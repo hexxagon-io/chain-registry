@@ -2116,5 +2116,29 @@ module.exports = [
         token: "terra1c3m0mfshydl4dc27xmwun2g938delmpcd6tm7qr3vln8kh7ahwxsz526jm",
         icon: "https://ipfs.bigbangx.io/ipfs/QmdWTNuK7kDxHFv9kmTo7N4pM5dJTmXg2LzR9Se2EHCBce",
         decimals: 6,
-    }
+    },
+    {
+        protocol : "Saiyan Squad",
+        name: "Saiyan Squad",
+        symbol: "Saiyan",
+        token: "terra1gzs0926z2u6f2w9afk6ks4z9gkjpac00x60fy9yu903qjjz6nk9qmu5jx3",
+        icon: "https://i.ibb.co.com/bS4K3b2/giphy-1.gif",
+        decimals: 6,
+    },
+    {
+        protocol : "Bull Lunc",
+        name: "Bull Lunc",
+        symbol: "BULL",
+        token: "terra1sl0cgtanapyy449h0hlmt77s8hak7caktvky8t4ct7a7kvjtyyvqzg8rv6",
+        icon: "https://i.ibb.co.com/5hNNhy6D/VIP1-ezgif-com-resize.gif",
+        decimals: 6,
+    },
+    {
+        protocol : "KNEEL",
+        name: "KNEEL",
+        symbol: "KNEEL",
+        token: "terra1genyaw32qah4544m0sfgmchegf7emft77u7hug63cc6a72mvpntsfupzmd",
+        icon: "https://i.ibb.co.com/qZr1nDX/V-I-P-5.png",
+        decimals: 6,
+    },
 ]
