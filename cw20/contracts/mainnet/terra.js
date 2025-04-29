@@ -2422,4 +2422,16 @@ module.exports = [
     name: "KNEEL",
     icon: "https://i.ibb.co.com/qZr1nDX/V-I-P-5.png",
    },
+    {
+    contract:  "terra1v0z94pr8ynzq8zmuyv3j0eraqjs4m5zpm4ptgru459y5fye2at7q0e4jtd",
+    protocol: "Selenium",
+    name: "SELE",
+    icon: "https://i.ibb.co/zWVfLFx3/Tqyj-N0s-Z-400x400.jpg",
+   },
+    {
+    contract:  "terra1cgmv3h23t9mrg7q5w5lkfcpkdrxm2csnc03afe5q6xd9x7et0desfeawx2",
+    protocol: "Vegas Protocol",
+    name: "Vegas",
+    icon: "https://i.ibb.co/hxGPBXrY/vegalogo.jpg",
+   },
 ]
