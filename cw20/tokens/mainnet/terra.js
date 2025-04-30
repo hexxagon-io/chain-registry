@@ -1909,6 +1909,14 @@ module.exports = [
         decimals: 6,
     },
     {
+      protocol: "selenium.finance",
+      symbol: "SELE",
+      name: "selenium protocol",
+      token: "terra1v0z94pr8ynzq8zmuyv3j0eraqjs4m5zpm4ptgru459y5fye2at7q0e4jtd",
+      icon: "https://i.ibb.co/zWVfLFx3/Tqyj-N0s-Z-400x400.jpg",
+      decimals: 6,
+    },
+    {
         protocol: "Pizzaboy",
         name: "Pizzaboy",
         symbol: "PIZZAB",
