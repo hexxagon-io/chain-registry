@@ -1905,7 +1905,7 @@ module.exports = [
         name: "Vegas Dao Coin",
         symbol: "VEGAS",
         token: "terra1cgmv3h23t9mrg7q5w5lkfcpkdrxm2csnc03afe5q6xd9x7et0desfeawx2",
-        icon: "https://ibb.co/1LJDWQP",
+        icon: "https://i.ibb.co/Lz2gyRWB/Pngtree-letter-v-logo-6869537.png",
         decimals: 6,
     },
     {
