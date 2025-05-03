@@ -2096,7 +2096,7 @@ module.exports = [
         contract: "terra10sfn80av99qkcx3rdpm4rt9hsguadyra5ewyxr",
         protocol: "Sonikchain",
         name: "SON",
-        icon: "https://swap.sonikchain.com/sonic32.png"
+        icon: "https://raw.githubusercontent.com/visux/logos/main/sonic32.png"
     },
     {
         contract: "terra1ex0hjv3wurhj4wgup4jzlzaqj4av6xqd8le4etml7rg9rs207y4s8cdvrp",
