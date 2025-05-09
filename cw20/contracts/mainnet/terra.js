@@ -2434,4 +2434,10 @@ module.exports = [
     name: "Vegas",
     icon: "https://i.ibb.co/hxGPBXrY/vegalogo.jpg",
    },
+    {
+    contract:  "terra19eytmx0yd3m5udlv7rh6u429g6ddjm2cndwv5cxndcymrztx4krqz9p4t6",
+    protocol: "COFFEE BEAN",
+    name: "COFFEE",
+    icon: "https://i.ibb.co.com/Z63cbqDM/Garuda-67.png",
+   },
 ]
