@@ -2149,4 +2149,12 @@ module.exports = [
         icon: "https://i.ibb.co.com/qZr1nDX/V-I-P-5.png",
         decimals: 6,
     },
+    {
+        protocol : "COFFEE BEAN",
+        name: "COFFEE",
+        symbol: "COFFEE",
+        token: "terra19eytmx0yd3m5udlv7rh6u429g6ddjm2cndwv5cxndcymrztx4krqz9p4t6",
+        icon: "https://i.ibb.co.com/Z63cbqDM/Garuda-67.png",
+        decimals: 6,
+    },
 ]
