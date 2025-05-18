@@ -1625,7 +1625,7 @@ module.exports = [
         symbol: "SON",
         name: "Sonic Token",
         token: "terra10sfn80av99qkcx3rdpm4rt9hsguadyra5ewyxr",
-        icon: "https://swap.sonikchain.com/sonic32.png",
+        icon: "https://raw.githubusercontent.com/visux/logos/main/sonic32.png",
         decimals: 6
     },
     {
@@ -1905,8 +1905,16 @@ module.exports = [
         name: "Vegas Dao Coin",
         symbol: "VEGAS",
         token: "terra1cgmv3h23t9mrg7q5w5lkfcpkdrxm2csnc03afe5q6xd9x7et0desfeawx2",
-        icon: "https://ibb.co/1LJDWQP",
+        icon: "https://i.ibb.co/Lz2gyRWB/Pngtree-letter-v-logo-6869537.png",
         decimals: 6,
+    },
+    {
+      protocol: "selenium.finance",
+      symbol: "SELE",
+      name: "selenium protocol",
+      token: "terra1v0z94pr8ynzq8zmuyv3j0eraqjs4m5zpm4ptgru459y5fye2at7q0e4jtd",
+      icon: "https://i.ibb.co/zWVfLFx3/Tqyj-N0s-Z-400x400.jpg",
+      decimals: 6,
     },
     {
         protocol: "Pizzaboy",
@@ -2116,5 +2124,37 @@ module.exports = [
         token: "terra1c3m0mfshydl4dc27xmwun2g938delmpcd6tm7qr3vln8kh7ahwxsz526jm",
         icon: "https://ipfs.bigbangx.io/ipfs/QmdWTNuK7kDxHFv9kmTo7N4pM5dJTmXg2LzR9Se2EHCBce",
         decimals: 6,
-    }
+    },
+    {
+        protocol : "Saiyan Squad",
+        name: "Saiyan Squad",
+        symbol: "Saiyan",
+        token: "terra1gzs0926z2u6f2w9afk6ks4z9gkjpac00x60fy9yu903qjjz6nk9qmu5jx3",
+        icon: "https://i.ibb.co.com/bS4K3b2/giphy-1.gif",
+        decimals: 6,
+    },
+    {
+        protocol : "Bull Lunc",
+        name: "Bull Lunc",
+        symbol: "BULL",
+        token: "terra1sl0cgtanapyy449h0hlmt77s8hak7caktvky8t4ct7a7kvjtyyvqzg8rv6",
+        icon: "https://i.ibb.co.com/5hNNhy6D/VIP1-ezgif-com-resize.gif",
+        decimals: 6,
+    },
+    {
+        protocol : "KNEEL",
+        name: "KNEEL",
+        symbol: "KNEEL",
+        token: "terra1genyaw32qah4544m0sfgmchegf7emft77u7hug63cc6a72mvpntsfupzmd",
+        icon: "https://i.ibb.co.com/qZr1nDX/V-I-P-5.png",
+        decimals: 6,
+    },
+    {
+        protocol : "COFFEE BEAN",
+        name: "COFFEE",
+        symbol: "COFFEE",
+        token: "terra19eytmx0yd3m5udlv7rh6u429g6ddjm2cndwv5cxndcymrztx4krqz9p4t6",
+        icon: "https://i.ibb.co.com/Z63cbqDM/Garuda-67.png",
+        decimals: 6,
+    },
 ]
