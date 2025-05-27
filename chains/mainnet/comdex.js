@@ -22,6 +22,7 @@ module.exports = {
         'migaloo-1': 'channel-63',
         'osmosis-1': 'channel-1',
         'stride-1': 'channel-45',
+        'arkh': 'channel-64',
     },
     explorer: {
         address: 'https://www.mintscan.io/comdex/account/{}',

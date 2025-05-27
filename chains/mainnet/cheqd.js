@@ -22,6 +22,7 @@ module.exports = {
     channels: {
         'phoenix-1': 'channel-9',
         'osmosis-1': 'channel-0',
+        'arkh': 'channel-23',
     },
     explorer: {
         address: 'https://explorer.cheqd.io/accounts/{}',

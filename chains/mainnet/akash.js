@@ -26,6 +26,7 @@ module.exports = {
         'juno-1': 'channel-35',
         'kaiyo-1': 'channel-63',
         'osmosis-1': 'channel-9',
+        'arkh': 'channel-65',
     },
     explorer: {
         address: 'https://www.mintscan.io/akash/account/{}',
