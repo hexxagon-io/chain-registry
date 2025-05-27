@@ -16,8 +16,7 @@ module.exports = {
         minRewards: 1000000
     },
     channels: {
-        'osmosis-1': 'channel-0',
-        'phoenix-1': 'channel-8',
+        'osmosis-1': 'channel-12',
     },
     explorer: {
         address: 'https://main.anode.team/arkh/account/{}',
