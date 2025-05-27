@@ -32,7 +32,6 @@ module.exports = {
         'stride-1': 'channel-139',
         'archway-1': 'channel-290',
         'noble-1': 'channel-224',
-        'arkh': 'channel-62',
     },
     explorer: {
         address: 'https://www.mintscan.io/juno/account/{}',

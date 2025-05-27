@@ -15,9 +15,6 @@ module.exports = {
         enabled: true,
         minRewards: 1000000
     },
-    channels: {
-        'arkh': 'channel-20',
-    },
     explorer: {
         address: 'https://www.mintscan.io/bitsong/account/{}',
         tx: 'https://www.mintscan.io/bitsong/txs/{}',

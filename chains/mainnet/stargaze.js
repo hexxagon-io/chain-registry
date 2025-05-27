@@ -24,7 +24,6 @@ module.exports = {
         'noble-1': 'channel-204',
         'osmosis-1': 'channel-0',
         'stride-1': 'channel-106',
-        'arkh': 'channel-63',
     },
     explorer: {
         address: 'https://www.mintscan.io/stargaze/account/{}',
