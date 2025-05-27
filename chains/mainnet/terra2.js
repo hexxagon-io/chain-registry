@@ -46,6 +46,7 @@ module.exports = {
         'andromeda-1': 'channel-351',
         'kava_2222-10': 'channel-272',
         'columbus-5': 'channel-314',
+        'arkh': 'channel-8',
     },
     // NEW ICS CHANNELS
     ics20Channels: {
