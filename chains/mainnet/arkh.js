@@ -48,10 +48,10 @@ module.exports = {
         'umee-1': 'channel-9',
     },
     explorer: {
-        address: 'https://main.anode.team//arkh/account/{}',
-        tx: 'https://main.anode.team//arkh/tx/{}',
-        validator: 'https://main.anode.team//arkh/staking/{}',
-        block: 'https://main.anode.team//arkh/blocks/{}',
+        address: 'https://main.anode.team/arkh/account/{}',
+        tx: 'https://main.anode.team/arkh/tx/{}',
+        validator: 'https://main.anode.team/arkh/staking/{}',
+        block: 'https://main.anode.team/arkh/blocks/{}',
     },
     tokens: [
         {
