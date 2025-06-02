@@ -1311,5 +1311,14 @@ module.exports = [
             "terra1gm4fzalxdhjt0hl398dhe9ln9ecj50m9dmr4x5558w59js02v9psqncdgd",
             "uluna"
         ]
-    }
+    },
+    {
+        token: "terra19h62lw77rluxf6yg4szcclcgk9tsalx72cv7dlzvzs8gy20g70js7c9jkc",
+        dex: "terraswap",
+        type: "xyk",
+        assets: [
+            "uluna",
+            "ibc/0BB9D8513E8E8E9AE6A9D211D9136E6DA42288DDE6CFAA453A150A4566054DC5"
+        ]
+    },    
 ]
