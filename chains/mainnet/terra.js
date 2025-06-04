@@ -57,6 +57,7 @@ module.exports = {
         'cosmoshub-4': 'channel-2',
         'osmosis-1': 'channel-1',
         'phoenix-1': 'channel-85',
+        'noble-1': 'channel-149',
     },
     tokens: [
         {

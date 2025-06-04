@@ -27,6 +27,7 @@ module.exports = {
         'kaiyo-1': 'channel-2',
         'dydx-mainnet-1': 'channel-33',
         'stargaze-1': 'channel-11',
+        'columbus-5': 'channel-113',
     },
     explorer: {
         address: 'https://www.mintscan.io/noble/account/{}',
