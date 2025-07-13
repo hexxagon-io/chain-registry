@@ -2157,7 +2157,7 @@ module.exports = [
         icon: "https://i.ibb.co.com/Z63cbqDM/Garuda-67.png",
         decimals: 6,
     },
-        {
+    {
         protocol : "Lunctoken",
         name: "Lunctoken",
         symbol: "LTK",
