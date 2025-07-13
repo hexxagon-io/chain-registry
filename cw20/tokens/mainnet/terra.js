@@ -2157,4 +2157,12 @@ module.exports = [
         icon: "https://i.ibb.co.com/Z63cbqDM/Garuda-67.png",
         decimals: 6,
     },
+    {
+        protocol : "Lunctoken",
+        name: "Lunctoken",
+        symbol: "LTK",
+        token: "terra1mm8tdp40r2slzwqxk8jsz66ayc4zp69muxeateq37x2xquttzsaqy7275a",
+        icon: "https://i.ibb.co/gL8fMHdF/logo-ltk-lunctoken-256x256.png",
+        decimals: 6,
+    },
 ]
