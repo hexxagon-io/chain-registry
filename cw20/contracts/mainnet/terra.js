@@ -2439,5 +2439,10 @@ module.exports = [
     protocol: "COFFEE BEAN",
     name: "COFFEE",
     icon: "https://i.ibb.co.com/Z63cbqDM/Garuda-67.png",
+   },{
+    contract:  "terra1a8rmymsc58p9jg45p8ghy2ueqhmmhsxgd2tvuxma0pxa3g40tw8s0tjg82",
+    protocol: "MIOFF",
+    name: "MIOFF",
+    icon: "https://i.ibb.co.com/gLf6wzLy/mioffnew.jpg",
    },
 ]
