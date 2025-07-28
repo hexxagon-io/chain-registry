@@ -2140,5 +2140,12 @@ module.exports = [
         token: "terra1genyaw32qah4544m0sfgmchegf7emft77u7hug63cc6a72mvpntsfupzmd",
         icon: "https://i.ibb.co.com/qZr1nDX/V-I-P-5.png",
         decimals: 6,
+    },{
+        protocol : "MIOFF",
+        name: "MIOFF",
+        symbol: "MIOFF",
+        token: "terra1a8rmymsc58p9jg45p8ghy2ueqhmmhsxgd2tvuxma0pxa3g40tw8s0tjg82",
+        icon: "https://i.ibb.co.com/gLf6wzLy/mioffnew.jpg",
+        decimals: 6,
     },
 ]
