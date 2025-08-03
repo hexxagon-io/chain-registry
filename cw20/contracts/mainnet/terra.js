@@ -2404,49 +2404,49 @@ module.exports = [
     name: "TCR",
     icon: "https://ipfs.bigbangx.io/ipfs/QmdWTNuK7kDxHFv9kmTo7N4pM5dJTmXg2LzR9Se2EHCBce",
    },
-    {
+   {
     contract: "terra1gzs0926z2u6f2w9afk6ks4z9gkjpac00x60fy9yu903qjjz6nk9qmu5jx3",
     protocol : "Saiyan Squad",
     name: "Saiyan",
     icon: "https://i.ibb.co.com/bS4K3b2/giphy-1.gif",
    },
-    {
+   {
     contract: "terra1sl0cgtanapyy449h0hlmt77s8hak7caktvky8t4ct7a7kvjtyyvqzg8rv6",
     protocol : "Bull Lunc",
     name: "Bull Lunc",
     icon: "https://i.ibb.co.com/5hNNhy6D/VIP1-ezgif-com-resize.gif",
    },
-    {
+   {
     contract: "terra1genyaw32qah4544m0sfgmchegf7emft77u7hug63cc6a72mvpntsfupzmd",
     protocol : "KNEEL",
     name: "KNEEL",
     icon: "https://i.ibb.co.com/qZr1nDX/V-I-P-5.png",
    },
-    {
+   {
     contract:  "terra1v0z94pr8ynzq8zmuyv3j0eraqjs4m5zpm4ptgru459y5fye2at7q0e4jtd",
     protocol: "Selenium",
     name: "SELE",
     icon: "https://i.ibb.co/zWVfLFx3/Tqyj-N0s-Z-400x400.jpg",
    },
-    {
+   {
     contract:  "terra1cgmv3h23t9mrg7q5w5lkfcpkdrxm2csnc03afe5q6xd9x7et0desfeawx2",
     protocol: "Vegas Protocol",
     name: "Vegas",
     icon: "https://i.ibb.co/hxGPBXrY/vegalogo.jpg",
    },
-    {
+   {
     contract:  "terra19eytmx0yd3m5udlv7rh6u429g6ddjm2cndwv5cxndcymrztx4krqz9p4t6",
     protocol: "COFFEE BEAN",
     name: "COFFEE",
     icon: "https://i.ibb.co.com/Z63cbqDM/Garuda-67.png",
    },
-    {
+   {
     contract:  "terra1a8rmymsc58p9jg45p8ghy2ueqhmmhsxgd2tvuxma0pxa3g40tw8s0tjg82",
     protocol: "MIOFF",
     name: "MIOFF",
     icon: "https://i.ibb.co.com/gLf6wzLy/mioffnew.jpg",
    },
-        {
+   {
     contract:  "terra1nnmlzhgw92kwyk036r0m3j3u0ydt3enad4vtxlggly886cujq5csrs6k9u",
     protocol: "Amplified Catnip",
     name: "ampNIP",
