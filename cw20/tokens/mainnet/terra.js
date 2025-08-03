@@ -2173,7 +2173,7 @@ module.exports = [
         icon: "https://i.ibb.co.com/gLf6wzLy/mioffnew.jpg",
         decimals: 6,
     },
-        {
+    {
         protocol : "Amplified Catnip",
         name: "Amplified Catnip",
         symbol: "ampNIP",
