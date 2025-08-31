@@ -23,10 +23,10 @@ module.exports = {
         'stafihub-1': 'channel-25',
     },
     explorer: {
-        address: 'https://www.mintscan.io/chihuahua/account/{}',
-        tx: 'https://www.mintscan.io/chihuahua/txs/{}',
-        validator: 'https://www.mintscan.io/chihuahua/validators/{}',
-        block: 'https://www.mintscan.io/chihuahua/blocks/id/{}',
+        address: 'https://ping.pub/chihuahua/account/{}',
+        tx: 'https://ping.pub/chihuahua/tx/{}',
+        validator: 'https://ping.pub/chihuahua/staking/{}',
+        block: 'https://ping.pub/chihuahua/block/{}',
     },
     tokens: [
         {

@@ -34,10 +34,10 @@ module.exports = {
         'noble-1': 'channel-224',
     },
     explorer: {
-        address: 'https://www.mintscan.io/juno/account/{}',
-        tx: 'https://www.mintscan.io/juno/txs/{}',
-        validator: 'https://www.mintscan.io/juno/validators/{}',
-        block: 'https://www.mintscan.io/juno/blocks/id/{}',
+        address: 'https://ping.pub/juno/account/{}',
+        tx: 'https://ping.pub/juno/tx/{}',
+        validator: 'https://ping.pub/juno/staking/{}',
+        block: 'https://ping.pub/juno/block/{}',
     },
     tokens: [
         {

@@ -34,10 +34,10 @@ module.exports = {
         'archway-1': 'channel-111',
     },
     explorer: {
-        address: 'https://www.mintscan.io/axelar/account/{}',
-        tx: 'https://www.mintscan.io/axelar/txs/{}',
-        validator: 'https://www.mintscan.io/axelar/validators/{}',
-        block: 'https://www.mintscan.io/axelar/blocks/id/{}',
+        address: 'https://ping.pub/axelar/account/{}',
+        tx: 'https://ping.pub/axelar/tx/{}',
+        validator: 'https://ping.pub/axelar/staking/{}',
+        block: 'https://ping.pub/axelar/block/{}',
     },
     tokens: [
         {

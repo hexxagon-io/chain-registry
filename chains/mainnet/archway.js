@@ -25,10 +25,10 @@ module.exports = {
         'crescent-1': 'channel-6',
     },
     explorer: {
-        address: 'https://www.mintscan.io/archway/account/{}',
-        tx: 'https://www.mintscan.io/archway/txs/{}',
-        validator: 'https://www.mintscan.io/archway/validators/{}',
-        block: 'https://www.mintscan.io/archway/blocks/id/{}',
+        address: 'https://ping.pub/archway/account/{}',
+        tx: 'https://ping.pub/archway/tx/{}',
+        validator: 'https://ping.pub/archway/staking/{}',
+        block: 'https://ping.pub/archway/block/{}',
     },
     tokens: [
         {

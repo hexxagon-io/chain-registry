@@ -25,10 +25,10 @@ module.exports = {
         'kaiyo-1': 'channel-98',
     },
     explorer: {
-        address: 'https://www.mintscan.io/injective/account/{}',
-        tx: 'https://www.mintscan.io/injective/txs/{}',
-        validator: 'https://www.mintscan.io/injective/validators/{}',
-        block: 'https://www.mintscan.io/injective/blocks/id/{}',
+        address: 'https://ping.pub/injective/account/{}',
+        tx: 'https://ping.pub/injective/tx/{}',
+        validator: 'https://ping.pub/injective/staking/{}',
+        block: 'https://ping.pub/injective/block/{}',
     },
     tokens: [
         {

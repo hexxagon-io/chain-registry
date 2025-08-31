@@ -28,10 +28,10 @@ module.exports = {
         'osmosis-1': 'channel-9',
     },
     explorer: {
-        address: 'https://www.mintscan.io/akash/account/{}',
-        tx: 'https://www.mintscan.io/akash/txs/{}',
-        validator: 'https://www.mintscan.io/akash/validators/{}',
-        block: 'https://www.mintscan.io/akash/blocks/id/{}',
+        address: 'https://ping.pub/akash/account/{}',
+        tx: 'https://ping.pub/akash/tx/{}',
+        validator: 'https://ping.pub/akash/staking/{}',
+        block: 'https://ping.pub/akash/block/{}',
     },
     tokens: [
         {

@@ -48,10 +48,10 @@ module.exports = {
         'arkh': 'channel-1278',
     },
     explorer: {
-        address: 'https://www.mintscan.io/osmosis/account/{}',
-        tx: 'https://www.mintscan.io/osmosis/txs/{}',
-        validator: 'https://www.mintscan.io/osmosis/validators/{}',
-        block: 'https://www.mintscan.io/osmosis/blocks/id/{}',
+        address: 'https://ping.pub/osmosis/account/{}',
+        tx: 'https://ping.pub/osmosis/tx/{}',
+        validator: 'https://ping.pub/osmosis/staking/{}',
+        block: 'https://ping.pub/osmosis/block/{}',
     },
     tokens: [
         {

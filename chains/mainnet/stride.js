@@ -33,10 +33,10 @@ module.exports = {
         'pacific-1': 'channel-149',
     },
     explorer: {
-        address: 'https://www.mintscan.io/stride/account/{}',
-        tx: 'https://www.mintscan.io/stride/txs/{}',
-        validator: 'https://www.mintscan.io/stride/validators/{}',
-        block: 'https://www.mintscan.io/stride/blocks/id/{}',
+        address: 'https://ping.pub/stride/account/{}',
+        tx: 'https://ping.pub/stride/tx/{}',
+        validator: 'https://ping.pub/stride/staking/{}',
+        block: 'https://ping.pub/stride/block/{}',
     },
     tokens: [
         {

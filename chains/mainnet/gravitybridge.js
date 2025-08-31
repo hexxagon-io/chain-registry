@@ -16,10 +16,10 @@ module.exports = {
         minRewards: 1000000
     },
     explorer: {
-        address: 'https://www.mintscan.io/gravity-bridge/account/{}',
-        tx: 'https://www.mintscan.io/gravity-bridge/txs/{}',
-        validator: 'https://www.mintscan.io/gravity-bridge/validators/{}',
-        block: 'https://www.mintscan.io/gravity-bridge/blocks/id/{}',
+        address: 'https://ping.pub/gravity-bridge/account/{}',
+        tx: 'https://ping.pub/gravity-bridge/tx/{}',
+        validator: 'https://ping.pub/gravity-bridge/staking/{}',
+        block: 'https://ping.pub/gravity-bridge/block/{}',
     },
     tokens: [
         {

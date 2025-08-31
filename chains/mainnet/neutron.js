@@ -31,10 +31,10 @@ module.exports = {
     },
     icsChannels: {},
     explorer: {
-        address: 'https://www.mintscan.io/neutron/account/{}',
-        tx: 'https://www.mintscan.io/neutron/tx/{}',
-        validator: 'https://www.mintscan.io/neutron/validators/{}',
-        block: 'https://www.mintscan.io/neutron/blocks/id/{}',
+        address: 'https://ping.pub/neutron/account/{}',
+        tx: 'https://ping.pub/neutron/tx/{}',
+        validator: 'https://ping.pub/neutron/staking/{}',
+        block: 'https://ping.pub/neutron/block/{}',
     },
     tokens: [
         {

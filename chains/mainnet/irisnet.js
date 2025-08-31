@@ -29,10 +29,10 @@ module.exports = {
     //   'osmosis-1': 'channel-9',
     // },
     explorer: {
-        address: 'https://www.mintscan.io/iris/account/{}',
-        tx: 'https://www.mintscan.io/iris/txs/{}',
-        validator: 'https://www.mintscan.io/iris/validators/{}',
-        block: 'https://www.mintscan.io/iris/blocks/id/{}',
+        address: 'https://ping.pub/iris/account/{}',
+        tx: 'https://ping.pub/iris/tx/{}',
+        validator: 'https://ping.pub/iris/staking/{}',
+        block: 'https://ping.pub/iris/block/{}',
     },
     tokens: [
         {

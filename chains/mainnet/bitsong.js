@@ -16,10 +16,10 @@ module.exports = {
         minRewards: 1000000
     },
     explorer: {
-        address: 'https://www.mintscan.io/bitsong/account/{}',
-        tx: 'https://www.mintscan.io/bitsong/txs/{}',
-        validator: 'https://www.mintscan.io/bitsong/validators/{}',
-        block: 'https://www.mintscan.io/bitsong/blocks/id/{}',
+        address: 'https://ping.pub/bitsong/account/{}',
+        tx: 'https://ping.pub/bitsong/tx/{}',
+        validator: 'https://ping.pub/bitsong/staking/{}',
+        block: 'https://ping.pub/bitsong/block/{}',
     },
     tokens: [
         {

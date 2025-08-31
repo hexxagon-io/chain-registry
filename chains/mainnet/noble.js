@@ -30,10 +30,10 @@ module.exports = {
         'columbus-5': 'channel-149',
     },
     explorer: {
-        address: 'https://www.mintscan.io/noble/account/{}',
-        tx: 'https://www.mintscan.io/noble/txs/{}',
-        validator: 'https://www.mintscan.io/noble/validators/{}',
-        block: 'https://www.mintscan.io/noble/blocks/id/{}',
+        address: 'https://ping.pub/noble/account/{}',
+        tx: 'https://ping.pub/noble/tx/{}',
+        validator: 'https://ping.pub/noble/staking/{}',
+        block: 'https://ping.pub/noble/block/{}',
     },
     tokens: [
         {

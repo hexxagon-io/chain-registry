@@ -16,10 +16,10 @@ module.exports = {
         minRewards: 1000000
     },
     explorer: {
-        address: 'https://www.mintscan.io/lum/account/{}',
-        tx: 'https://www.mintscan.io/lum/txs/{}',
-        validator: 'https://www.mintscan.io/lum/validators/{}',
-        block: 'https://www.mintscan.io/lum/blocks/id/{}',
+        address: 'https://ping.pub/lum-network/account/{}',
+        tx: 'https://ping.pub/lum-network/tx/{}',
+        validator: 'https://ping.pub/lum-network/staking/{}',
+        block: 'https://ping.pub/lum-network/block/{}',
     },
     tokens: [
         {

@@ -16,10 +16,10 @@ module.exports = {
         minRewards: 100000
     },
     explorer: {
-        address: 'https://www.mintscan.io/atomone/account/{}',
-        tx: 'https://www.mintscan.io/atomone/txs/{}',
-        validator: 'https://www.mintscan.io/atomone/validators/{}',
-        block: 'https://www.mintscan.io/atomone/blocks/id/{}',
+        address: 'https://ping.pub/atomone/account/{}',
+        tx: 'https://ping.pub/atomone/tx/{}',
+        validator: 'https://ping.pub/atomone/staking/{}',
+        block: 'https://ping.pub/atomone/block/{}',
     },
     tokens: [
         {

@@ -16,10 +16,10 @@ module.exports = {
         minRewards: 1000000
     },
     explorer: {
-        address: 'https://www.mintscan.io/ki-chain/account/{}',
-        tx: 'https://www.mintscan.io/ki-chain/txs/{}',
-        validator: 'https://www.mintscan.io/ki-chain/validators/{}',
-        block: 'https://www.mintscan.io/ki-chain/blocks/id/{}',
+        address: 'https://ping.pub/kichain/account/{}',
+        tx: 'https://ping.pub/kichain/tx/{}',
+        validator: 'https://ping.pub/kichain/staking/{}',
+        block: 'https://ping.pub/kichain/block/{}',
     },
     tokens: [
         {

@@ -57,10 +57,10 @@ module.exports = {
     },
     alliance: true,
     explorer: {
-        address: 'https://www.mintscan.io/kujira/account/{}',
-        tx: 'https://www.mintscan.io/kujira/txs/{}',
-        validator: 'https://www.mintscan.io/kujira/validators/{}',
-        block: 'https://www.mintscan.io/kujira/blocks/id/{}',
+        address: 'https://ping.pub/kujira/account/{}',
+        tx: 'https://ping.pub/kujira/tx/{}',
+        validator: 'https://ping.pub/kujira/staking/{}',
+        block: 'https://ping.pub/kujira/block/{}',
     },
     tokens: [
         {

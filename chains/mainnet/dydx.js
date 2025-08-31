@@ -27,10 +27,10 @@ module.exports = {
     },
     icsChannels: {},
     explorer: {
-        address: 'https://www.mintscan.io/dydx/account/{}',
-        tx: 'https://www.mintscan.io/dydx/txs/{}',
-        validator: 'https://www.mintscan.io/dydx/validators/{}',
-        block: 'https://www.mintscan.io/dydx/blocks/id/{}',
+        address: 'https://ping.pub/dydx/account/{}',
+        tx: 'https://ping.pub/dydx/tx/{}',
+        validator: 'https://ping.pub/dydx/staking/{}',
+        block: 'https://ping.pub/dydx/block/{}',
     },
     tokens: [
         {

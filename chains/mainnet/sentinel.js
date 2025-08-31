@@ -16,10 +16,10 @@ module.exports = {
         minRewards: 100000
     },
     explorer: {
-        address: 'https://www.mintscan.io/sentinel/account/{}',
-        tx: 'https://www.mintscan.io/sentinel/txs/{}',
-        validator: 'https://www.mintscan.io/sentinel/validators/{}',
-        block: 'https://www.mintscan.io/sentinel/blocks/id/{}',
+        address: 'https://ping.pub/sentinel/account/{}',
+        tx: 'https://ping.pub/sentinel/tx/{}',
+        validator: 'https://ping.pub/sentinel/staking/{}',
+        block: 'https://ping.pub/sentinel/block/{}',
     },
     tokens: [
         {

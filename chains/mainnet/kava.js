@@ -28,10 +28,10 @@ module.exports = {
         'akashnet-2': 'channel-5',
     },
     explorer: {
-        address: 'https://www.mintscan.io/kava/account/{}',
-        tx: 'https://www.mintscan.io/kava/txs/{}',
-        validator: 'https://www.mintscan.io/kava/validators/{}',
-        block: 'https://www.mintscan.io/kava/blocks/id/{}',
+        address: 'https://ping.pub/kava/account/{}',
+        tx: 'https://ping.pub/kava/tx/{}',
+        validator: 'https://ping.pub/kava/staking/{}',
+        block: 'https://ping.pub/kava/block/{}',
     },
     tokens: [
         {

@@ -37,10 +37,10 @@ module.exports = {
         'arkh': 'channel-253',
     },
     explorer: {
-        address: 'https://www.mintscan.io/cosmos/account/{}',
-        tx: 'https://www.mintscan.io/cosmos/txs/{}',
-        validator: 'https://www.mintscan.io/cosmos/validators/{}',
-        block: 'https://www.mintscan.io/cosmos/blocks/id/{}',
+        address: 'https://ping.pub/cosmos/account/{}',
+        tx: 'https://ping.pub/cosmos/tx/{}',
+        validator: 'https://ping.pub/cosmos/staking/{}',
+        block: 'https://ping.pub/cosmos/block/{}',
     },
     tokens: [
         {

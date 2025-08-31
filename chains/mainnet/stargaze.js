@@ -26,10 +26,10 @@ module.exports = {
         'stride-1': 'channel-106',
     },
     explorer: {
-        address: 'https://www.mintscan.io/stargaze/account/{}',
-        tx: 'https://www.mintscan.io/stargaze/txs/{}',
-        validator: 'https://www.mintscan.io/stargaze/validators/{}',
-        block: 'https://www.mintscan.io/stargaze/blocks/id/{}',
+        address: 'https://ping.pub/stargaze/account/{}',
+        tx: 'https://ping.pub/stargaze/tx/{}',
+        validator: 'https://ping.pub/stargaze/staking/{}',
+        block: 'https://ping.pub/stargaze/block/{}',
     },
     tokens: [
         {

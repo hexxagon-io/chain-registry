@@ -24,10 +24,10 @@ module.exports = {
         'stride-1': 'channel-45',
     },
     explorer: {
-        address: 'https://www.mintscan.io/comdex/account/{}',
-        tx: 'https://www.mintscan.io/comdex/txs/{}',
-        validator: 'https://www.mintscan.io/comdex/validators/{}',
-        block: 'https://www.mintscan.io/comdex/blocks/id/{}',
+        address: 'https://ping.pub/comdex/account/{}',
+        tx: 'https://ping.pub/comdex/tx/{}',
+        validator: 'https://ping.pub/comdex/staking/{}',
+        block: 'https://ping.pub/comdex/block/{}',
     },
     tokens: [
         {

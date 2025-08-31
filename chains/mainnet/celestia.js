@@ -20,10 +20,10 @@ module.exports = {
     },
     icsChannels: {},
     explorer: {
-        address: 'https://www.mintscan.io/celestia/account/{}',
-        tx: 'https://www.mintscan.io/celestia/txs/{}',
-        validator: 'https://www.mintscan.io/celestia/validators/{}',
-        block: 'https://www.mintscan.io/celestia/blocks/id/{}',
+        address: 'https://ping.pub/celestia/account/{}',
+        tx: 'https://ping.pub/celestia/tx/{}',
+        validator: 'https://ping.pub/celestia/staking/{}',
+        block: 'https://ping.pub/celestia/block/{}',
     },
     tokens: [
         {
