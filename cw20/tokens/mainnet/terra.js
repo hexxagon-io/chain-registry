@@ -2157,4 +2157,28 @@ module.exports = [
         icon: "https://i.ibb.co.com/Z63cbqDM/Garuda-67.png",
         decimals: 6,
     },
+    {
+        protocol : "Lunctoken",
+        name: "Lunctoken",
+        symbol: "LTK",
+        token: "terra1mm8tdp40r2slzwqxk8jsz66ayc4zp69muxeateq37x2xquttzsaqy7275a",
+        icon: "https://i.ibb.co/gL8fMHdF/logo-ltk-lunctoken-256x256.png",
+        decimals: 6,
+    },
+    {
+        protocol : "MIOFF",
+        name: "MIOFF",
+        symbol: "MIOFF",
+        token: "terra1a8rmymsc58p9jg45p8ghy2ueqhmmhsxgd2tvuxma0pxa3g40tw8s0tjg82",
+        icon: "https://i.ibb.co.com/gLf6wzLy/mioffnew.jpg",
+        decimals: 6,
+    },
+    {
+        protocol : "Amplified Catnip",
+        name: "Amplified Catnip",
+        symbol: "ampNIP",
+        token: "terra1nnmlzhgw92kwyk036r0m3j3u0ydt3enad4vtxlggly886cujq5csrs6k9u",
+        icon: "https://i.ibb.co/DfDtjLgw/amp-NIP-NFT.png",
+        decimals: 6,
+    },
 ]
