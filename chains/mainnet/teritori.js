@@ -16,10 +16,10 @@ module.exports = {
         minRewards: 100000
     },
     explorer: {
-        address: 'https://www.mintscan.io/teritori/account/{}',
-        tx: 'https://www.mintscan.io/teritori/txs/{}',
-        validator: 'https://www.mintscan.io/teritori/validators/{}',
-        block: 'https://www.mintscan.io/teritori/blocks/id/{}',
+        address: 'https://ping.pub/teritori/account/{}',
+        tx: 'https://ping.pub/teritori/tx/{}',
+        validator: 'https://ping.pub/teritori/staking/{}',
+        block: 'https://ping.pub/teritori/block/{}',
     },
     tokens: [
         {
