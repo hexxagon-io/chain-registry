@@ -1,6 +1,7 @@
 module.exports = {
     chainID: 'dydx-mainnet-1',
     lcd: 'https://dydx-rest.publicnode.com',
+    rpc: 'https://dydx-rpc.publicnode.com',
     gasAdjustment: 1.75,
     gasPrices: {
         adydx: 12500000000,

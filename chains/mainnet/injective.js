@@ -1,6 +1,7 @@
 module.exports = {
     chainID: 'injective-1',
     lcd: 'https://injective-rest.publicnode.com',
+    rpc: 'https://injective-rpc.publicnode.com',
     gasAdjustment: 1.75,
     gasPrices: {inj: 1000000000},
     prefix: 'inj',

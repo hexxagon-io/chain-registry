@@ -1,6 +1,7 @@
 module.exports = {
     chainID: 'pacific-1',
     lcd: 'https://sei-api.polkachu.com',
+    rpc: 'https://sei-rpc.polkachu.com',
     gasAdjustment: 2,
     gasPrices: {usei: 0.1},
     prefix: 'sei',

@@ -1,6 +1,7 @@
 module.exports = {
     chainID: 'atomone-1',
     lcd: 'https://atomone-rest.publicnode.com',
+    rpc: 'https://atomone-rpc.publicnode.com',
     gasAdjustment: 1.75,
     gasPrices: {uatone: 0.025},
     prefix: 'atone',

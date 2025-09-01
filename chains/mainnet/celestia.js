@@ -1,6 +1,7 @@
 module.exports = {
     chainID: 'celestia',
     lcd: 'https://celestia-rest.publicnode.com',
+    rpc: 'https://celestia-rpc.publicnode.com',
     gasAdjustment: 1.75,
     gasPrices: { utia: 0.02 },
     prefix: 'celestia',

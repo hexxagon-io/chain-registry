@@ -1,6 +1,7 @@
 module.exports = {
     chainID: 'bitsong-2b',
     lcd: 'https://lcd.explorebitsong.com',
+    rpc: 'https://rpc.explorebitsong.com',
     gasAdjustment: 1.75,
     gasPrices: {ubtsg: 3.0},
     prefix: 'bitsong',

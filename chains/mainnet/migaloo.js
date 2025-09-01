@@ -1,6 +1,7 @@
 module.exports = {
     chainID: 'migaloo-1',
     lcd: 'https://migaloo-api.polkachu.com',
+    rpc: 'https://migaloo-rpc.polkachu.com',
     gasAdjustment: 1.75,
     gasPrices: {uwhale: 0.25},
     prefix: 'migaloo',

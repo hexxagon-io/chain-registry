@@ -1,6 +1,7 @@
 module.exports = {
     chainID: 'stargaze-1',
     lcd: 'https://stargaze-api.polkachu.com',
+    rpc: 'https://stargaze-rpc.polkachu.com',
     gasAdjustment: 1.5,
     gasPrices: {ustars: 1.2},
     prefix: 'stars',

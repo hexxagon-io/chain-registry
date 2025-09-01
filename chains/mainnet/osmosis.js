@@ -1,6 +1,7 @@
 module.exports = {
     chainID: 'osmosis-1',
     lcd: 'https://lcd.osmosis.zone',
+    rpc: 'https://rpc.osmosis.zone',
     gasAdjustment: 2.2,
     gasPrices: {uosmo: 0.025},
     prefix: 'osmo',

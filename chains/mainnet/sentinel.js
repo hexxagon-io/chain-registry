@@ -1,6 +1,7 @@
 module.exports = {
     chainID: 'sentinelhub-2',
     lcd: 'https://api-sentinel.busurnode.com',
+    rpc: 'https://rpc-sentinel.busurnode.com',
     gasAdjustment: 1.75,
     gasPrices: {udvpn: 0.25},
     prefix: 'sent',

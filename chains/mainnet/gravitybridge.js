@@ -1,6 +1,7 @@
 module.exports = {
     chainID: 'gravity-bridge-3',
     lcd: 'https://gravitychain.io:1317',
+    rpc: 'https://gravitychain.io:26657',
     gasAdjustment: 1.75,
     gasPrices: {ugraviton: 0.0},
     prefix: 'gravity',

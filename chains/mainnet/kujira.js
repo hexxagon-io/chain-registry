@@ -1,6 +1,7 @@
 module.exports = {
     chainID: 'kaiyo-1',
     lcd: 'https://kujira-api.polkachu.com',
+    rpc: 'https://kujira-rpc.polkachu.com',
     gasAdjustment: 1.75,
     gasPrices: {
         ukuji: 0.00119,

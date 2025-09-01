@@ -1,6 +1,7 @@
 module.exports = {
     chainID: 'stride-1',
-    lcd: 'https://stride-fleet.main.stridenet.co/api',
+    lcd: 'https://stride-api.polkachu.com',
+    rpc: 'https://stride-rpc.polkachu.com',
     gasAdjustment: 1.75,
     gasPrices: {ustrd: 0},
     prefix: 'stride',

@@ -1,6 +1,7 @@
 module.exports = {
     chainID: 'teritori-1',
     lcd: 'https://teritori-rest.publicnode.com',
+    rpc: 'https://teritori-rpc.publicnode.com',
     gasAdjustment: 1.75,
     gasPrices: {utori: 0.25},
     prefix: 'tori',

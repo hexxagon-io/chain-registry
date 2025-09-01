@@ -1,6 +1,7 @@
 module.exports = {
     chainID: 'neutron-1',
     lcd: 'https://neutron-rest.publicnode.com',
+    rpc: 'https://neutron-rpc.publicnode.com',
     gasAdjustment: 1.75,
     gasPrices: {
         untrn: 0.84,

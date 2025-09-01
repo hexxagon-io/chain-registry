@@ -1,6 +1,7 @@
 module.exports = {
     chainID: 'Oraichain',
     lcd: 'https://lcd.orai.io',
+    rpc: 'https://rpc.orai.io',
     gasAdjustment: 1.75,
     gasPrices: {orai: 0.005},
     prefix: 'orai',

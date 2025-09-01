@@ -1,6 +1,7 @@
 module.exports = {
     chainID: 'crescent-1',
     lcd: 'https://crescent-api.polkachu.com',
+    rpc: 'https://crescent-rpc.polkachu.com',
     gasAdjustment: 1.75,
     gasPrices: {ucre: 0.01},
     prefix: 'cre',

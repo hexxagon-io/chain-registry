@@ -1,6 +1,7 @@
 module.exports = {
     chainID: 'ssc-1',
     lcd: 'https://saga-rest.publicnode.com',
+    rpc: 'https://saga-rpc.publicnode.com',
     gasAdjustment: 1.75,
     gasPrices: {ulum: 0.025},
     prefix: 'saga',

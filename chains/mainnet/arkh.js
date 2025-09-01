@@ -1,6 +1,7 @@
 module.exports = {
     chainID: 'arkh',
     lcd: 'https://arkh.api.m.anode.team',
+    rpc: 'https://arkh.rpc.m.anode.team',
     gasAdjustment: 1.75,
     gasPrices: {arkh: 0.025},
     prefix: 'arkh',

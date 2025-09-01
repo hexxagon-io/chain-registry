@@ -1,6 +1,7 @@
 module.exports = {
     chainID: 'akashnet-2',
-    lcd: 'https://rest.cosmos.directory/akash',
+    lcd: 'https://akash-api.polkachu.com',
+    rpc: 'https://akash-rpc.polkachu.com',
     gasAdjustment: 1.75,
     gasPrices: {uakt: 0.025},
     prefix: 'akash',

@@ -1,6 +1,7 @@
 module.exports = {
     chainID: 'irishub-1',
     lcd: 'https://api.irishub-1.irisnet.org',
+    rpc: 'https://rpc.irishub-1.irisnet.org',
     gasAdjustment: 1.75,
     gasPrices: {uiris: 0.3},
     prefix: 'iaa',

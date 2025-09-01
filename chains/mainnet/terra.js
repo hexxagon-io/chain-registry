@@ -1,6 +1,7 @@
 module.exports = {
     chainID: 'columbus-5',
     lcd: 'https://lcd.terra-classic.hexxagon.io',
+    rpc: 'https://rpc.terra-classic.hexxagon.io',
     api: 'https://api.terra-classic.hexxagon.io',
     hive: 'https://hive.terra-classic.hexxagon.io/graphql',
     taxRate: 0.005,

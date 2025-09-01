@@ -1,6 +1,7 @@
 module.exports = {
     chainID: 'mainnet-3',
     lcd: 'https://decentr.api.m.stavr.tech',
+    rpc: 'https://decentr.rpc.m.stavr.tech',
     gasAdjustment: 1.75,
     gasPrices: {udec: 0.025},
     prefix: 'decentr',

@@ -1,6 +1,7 @@
 module.exports = {
     chainID: 'kava_2222-10',
     lcd: 'https://api.data.kava.io',
+    rpc: 'https://rpc.data.kava.io',
     gasAdjustment: 1.75,
     gasPrices: {ukava: 0.1},
     prefix: 'kava',

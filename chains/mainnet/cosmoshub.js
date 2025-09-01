@@ -1,6 +1,7 @@
 module.exports = {
     chainID: 'cosmoshub-4',
     lcd: 'https://cosmos-rest.publicnode.com',
+    rpc: 'https://cosmos-rpc.publicnode.com',
     gasAdjustment: 1.75,
     gasPrices: {uatom: 0.025},
     prefix: 'cosmos',

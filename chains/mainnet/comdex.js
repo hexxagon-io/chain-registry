@@ -1,6 +1,7 @@
 module.exports = {
     chainID: 'comdex-1',
     lcd: 'https://comdex-rest.publicnode.com',
+    rpc: 'https://comdex-rpc.publicnode.com',
     gasAdjustment: 1.75,
     gasPrices: {ucmdx: 0.025},
     prefix: 'comdex',

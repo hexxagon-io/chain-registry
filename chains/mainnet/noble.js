@@ -1,6 +1,7 @@
 module.exports = {
     chainID: 'noble-1',
     lcd: 'https://noble-api.polkachu.com',
+    rpc: 'https://noble-rpc.polkachu.com',
     gasAdjustment: 1.75,
     gasPrices: {
         uusdc: 0.1,
