@@ -2452,4 +2452,10 @@ module.exports = [
     name: "ampNIP",
     icon: "https://i.ibb.co/DfDtjLgw/amp-NIP-NFT.png",
    },
+   {
+    contract:  "terra1zra7m9w59sxwxqy8lqs3yeqleedrvtgg2qf938nk2wf8pq2ejkqsn0heln",
+    protocol: "LUNCMOON",
+    name: "LCM",
+    icon: "https://i.ibb.co/HD9PzY3x/IMG-9052.jpg",
+   },
 ]
