@@ -2452,4 +2452,10 @@ module.exports = [
     name: "ampNIP",
     icon: "https://i.ibb.co/DfDtjLgw/amp-NIP-NFT.png",
    },
+   {
+    contract:  "terra17hnu4prwa3varxrws0sy9hffkmqv8tfmfpldg4e9fq58flrmuz2qlhymr5",
+    protocol: "greenfriendlylabs",
+    name: "Greenfriendly Token",
+    icon: "https://www.greenfriendlylabs.com/images/greenfriendlylabs.png",
+   },
 ]
