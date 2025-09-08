@@ -11,7 +11,7 @@ module.exports = {
     chainRegistryName: 'archway',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Archway.svg',
-    gitRepo: 'https://github.com/archway-network/archway.git',
+    gitRepo: 'https://github.com/archway-network/archway',
     autoCompound: {
         enabled: true,
         minRewards: 100000000000000000

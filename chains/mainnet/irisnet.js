@@ -12,7 +12,7 @@ module.exports = {
     chainRegistryName: 'irisnet',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Iris.svg',
-    gitRepo: 'https://github.com/irisnet/irishub.git',
+    gitRepo: 'https://github.com/irisnet/irishub',
     autoCompound: {
         enabled: true,
         minRewards: 100000

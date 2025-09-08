@@ -8,7 +8,7 @@ module.exports = {
   baseAsset: 'ujunox',
   name: 'Juno',
   icon: process.env.CF_PAGES_URL + '/img/chains/Juno.svg',
-  gitRepo: 'https://github.com/CosmosContracts/juno.git',
+  gitRepo: 'https://github.com/CosmosContracts/juno',
   explorer: {
     address: 'https://testnet.juno.explorers.guru/account/{}',
     tx: 'https://testnet.juno.explorers.guru/transaction/{}',

@@ -11,7 +11,7 @@ module.exports = {
     chainRegistryName: 'juno',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Juno.svg',
-    gitRepo: 'https://github.com/CosmosContracts/juno.git',
+    gitRepo: 'https://github.com/CosmosContracts/juno',
     autoCompound: {
         enabled: true,
         minRewards: 100000

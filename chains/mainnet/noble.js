@@ -14,6 +14,7 @@ module.exports = {
     chainRegistryName: 'noble',
     disabledModules: ['gov', 'swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Noble.svg',
+    gitRepo: 'https://github.com/noble-assets/noble',
     autoCompound: {
         enabled: true,
         minRewards: 1000000

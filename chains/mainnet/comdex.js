@@ -11,6 +11,7 @@ module.exports = {
     chainRegistryName: 'comdex',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Comdex.svg',
+    gitRepo: 'https://github.com/comdex-official/comdex',
     autoCompound: {
         enabled: false,
         minRewards: 100000

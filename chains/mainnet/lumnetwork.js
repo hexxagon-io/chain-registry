@@ -11,7 +11,7 @@ module.exports = {
     chainRegistryName: 'lumnetwork',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Lum.svg',
-    gitRepo: 'https://github.com/lum-network/chain.git',
+    gitRepo: 'https://github.com/lum-network/chain',
     autoCompound: {
         enabled: true,
         minRewards: 1000000

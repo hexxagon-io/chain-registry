@@ -11,7 +11,7 @@ module.exports = {
     chainRegistryName: 'cheqd',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Cheqd.svg',
-    gitRepo: 'https://github.com/cheqd/cheqd-node.git',
+    gitRepo: 'https://github.com/cheqd/cheqd-node',
     autoCompound: {
         enabled: true,
         minRewards: 1000000

@@ -11,6 +11,7 @@ module.exports = {
     chainRegistryName: 'stargaze',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/stargaze.svg',
+    gitRepo: 'https://github.com/public-awesome/stargaze',
     autoCompound: {
         enabled: true,
         minRewards: 100000

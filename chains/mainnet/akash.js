@@ -11,7 +11,7 @@ module.exports = {
     chainRegistryName: 'akash',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Akash.svg',
-    gitRepo: 'https://github.com/akash-network/node.git',
+    gitRepo: 'https://github.com/akash-network/node',
     autoCompound: {
         enabled: true,
         minRewards: 100000

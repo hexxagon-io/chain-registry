@@ -10,7 +10,7 @@ module.exports = {
   chainRegistryName: 'haqq',
   disabledModules: ['swap'],
   icon: process.env.CF_PAGES_URL + '/img/chains/haqq.svg',
-  gitRepo: 'https://github.com/haqq-network/haqq.git',
+  gitRepo: 'https://github.com/haqq-network/haqq',
   explorer: {
     address: 'https://haqq.explorers.guru/account/{}',
     tx: 'https://haqq.explorers.guru/transaction/{}',

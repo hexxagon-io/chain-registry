@@ -8,7 +8,7 @@ module.exports = {
   baseAsset: 'uwhale',
   name: 'Migaloo',
   icon: process.env.CF_PAGES_URL + '/img/chains/Migaloo.svg',
-  gitRepo: 'https://github.com/White-Whale-Defi-Platform/migaloo-chain.git',
+  gitRepo: 'https://github.com/White-Whale-Defi-Platform/migaloo-chain',
   explorer: {
     address: 'https://testnet.migaloo.explorers.guru/account/{}',
     tx: 'https://testnet.migaloo.explorers.guru/transaction/{}',

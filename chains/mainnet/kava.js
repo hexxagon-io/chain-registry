@@ -11,6 +11,7 @@ module.exports = {
     chainRegistryName: 'kava',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Kava.svg',
+    gitRepo: 'https://github.com/kava-Labs/kava',
     autoCompound: {
         enabled: true,
         minRewards: 100000

@@ -8,7 +8,7 @@ module.exports = {
   baseAsset: 'umars',
   name: 'Mars',
   icon: process.env.CF_PAGES_URL + '/img/chains/Mars.svg',
-  gitRepo: 'https://github.com/mars-protocol/hub.git',
+  gitRepo: 'https://github.com/mars-protocol/hub',
   ibc: {
     toTerra: 'channel-0',
     fromTerra: 'channel-189',

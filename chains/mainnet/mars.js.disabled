@@ -10,7 +10,7 @@ module.exports = {
     chainRegistryName: 'mars',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Mars.svg',
-    gitRepo: 'https://github.com/mars-protocol/hub.git',
+    gitRepo: 'https://github.com/mars-protocol/hub',
     autoCompound: {
         enabled: true,
         minRewards: 100000

@@ -11,7 +11,7 @@ module.exports = {
     chainRegistryName: 'axelar',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Axelar.svg',
-    gitRepo: 'https://github.com/axelarnetwork/axelar-core.git',
+    gitRepo: 'https://github.com/axelarnetwork/axelar-core',
     autoCompound: {
         enabled: false,
         minRewards: 100000

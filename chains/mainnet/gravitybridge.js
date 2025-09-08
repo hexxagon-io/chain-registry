@@ -11,7 +11,7 @@ module.exports = {
     chainRegistryName: 'gravitybridge',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Gravity.svg',
-    gitRepo: 'https://github.com/Gravity-Bridge/Gravity-Bridge.git',
+    gitRepo: 'https://github.com/Gravity-Bridge/Gravity-Bridge',
     autoCompound: {
         enabled: true,
         minRewards: 1000000

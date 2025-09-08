@@ -11,7 +11,7 @@ module.exports = {
     chainRegistryName: 'crescent',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Crescent.svg',
-    gitRepo: 'https://github.com/crescent-network/crescent.git',
+    gitRepo: 'https://github.com/crescent-network/crescent',
     autoCompound: {
         enabled: true,
         minRewards: 1000000

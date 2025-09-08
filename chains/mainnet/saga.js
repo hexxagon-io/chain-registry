@@ -11,7 +11,7 @@ module.exports = {
     chainRegistryName: 'saga',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/saga.svg',
-    gitRepo: 'https://github.com/sagaxyz/ssc.git',
+    gitRepo: 'https://github.com/sagaxyz/ssc',
     autoCompound: {
         enabled: true,
         minRewards: 1000000

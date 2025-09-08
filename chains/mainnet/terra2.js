@@ -15,6 +15,7 @@ module.exports = {
     chainRegistryName: 'terra2',
     // disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Terra.svg',
+    gitRepo: 'https://github.com/phoenix-directive/core',
     autoCompound: {
         enabled: true,
         minRewards: 1000000

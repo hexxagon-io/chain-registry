@@ -26,7 +26,7 @@ module.exports = {
     chainRegistryName: 'kujira',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Kujira.png',
-    gitRepo: 'https://github.com/Team-Kujira/core.git',
+    gitRepo: 'https://github.com/Team-Kujira/core',
     autoCompound: {
         enabled: true,
         minRewards: 100000

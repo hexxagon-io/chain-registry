@@ -11,7 +11,7 @@ module.exports = {
     chainRegistryName: 'teritori',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Teritori.svg',
-    gitRepo: 'https://github.com/TERITORI/teritori-chain.git',
+    gitRepo: 'https://github.com/TERITORI/teritori-chain',
     autoCompound: {
         enabled: true,
         minRewards: 100000

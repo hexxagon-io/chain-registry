@@ -11,6 +11,7 @@ module.exports = {
     chainRegistryName: 'celestia',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Celestia.svg',
+    gitRepo: 'https://github.com/celestiaorg/celestia-app',
     autoCompound: {
         enabled: false,
         minRewards: 100000

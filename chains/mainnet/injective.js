@@ -11,6 +11,7 @@ module.exports = {
     chainRegistryName: 'injective',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Injective.svg',
+    gitRepo: 'https://github.com/injectivefoundation/injective-core',
     autoCompound: {
         enabled: true,
         minRewards: 100000000000000000

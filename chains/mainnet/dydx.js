@@ -15,6 +15,7 @@ module.exports = {
     chainRegistryName: 'dydx',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/dydx.svg',
+    gitRepo: 'https://github.com/dydxprotocol/v4-chain',
     autoCompound: {
         enabled: true,
         minRewards: 1000000

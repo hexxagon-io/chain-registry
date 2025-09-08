@@ -11,7 +11,7 @@ module.exports = {
     chainRegistryName: 'bitsong',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/BitSong.svg',
-    gitRepo: 'https://github.com/bitsongofficial/go-bitsong.git',
+    gitRepo: 'https://github.com/bitsongofficial/go-bitsong',
     autoCompound: {
         enabled: true,
         minRewards: 1000000

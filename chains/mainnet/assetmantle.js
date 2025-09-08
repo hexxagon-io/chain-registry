@@ -15,7 +15,7 @@ module.exports = {
     "swap"
   ],
   "icon": process.env.CF_PAGES_URL + '/img/chains/assetmantle.svg',
-  "gitRepo": "https://github.com/AssetMantle/node.git",
+  "gitRepo": "https://github.com/AssetMantle/node",
   "autoCompound": {
     "enabled": true,
     "minRewards": 1000000

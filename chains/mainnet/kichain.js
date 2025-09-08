@@ -11,7 +11,7 @@ module.exports = {
     chainRegistryName: 'kichain',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Kichain.svg',
-    gitRepo: 'https://github.com/KiFoundation/ki-tools.git',
+    gitRepo: 'https://github.com/KiFoundation/ki-tools',
     autoCompound: {
         enabled: true,
         minRewards: 1000000

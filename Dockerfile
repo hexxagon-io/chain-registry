@@ -3,7 +3,7 @@ FROM node:18 as assets-builder
 WORKDIR /assets
 
 RUN set -eux && \
-    git clone https://github.com/hexxagon-io/assets.git ./
+    git clone https://github.com/hexxagon-io/assets ./
 
 RUN set -eux && \
     npm install && \

@@ -11,7 +11,7 @@ module.exports = {
     chainRegistryName: 'cosmoshub',
     disabledModules: ['swap'],
     icon: process.env.CF_PAGES_URL + '/img/chains/Cosmos.svg',
-    gitRepo: 'https://github.com/cosmos/gaia.git',
+    gitRepo: 'https://github.com/cosmos/gaia',
     autoCompound: {
         enabled: true,
         minRewards: 200000
