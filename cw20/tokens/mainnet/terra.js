@@ -2189,4 +2189,12 @@ module.exports = [
         icon: "https://i.ibb.co/HD9PzY3x/IMG-9052.jpg",
         decimals: 6,
     },
+    {
+      protocol: "greenfriendlylabs",
+      symbol: "GFT",
+      name: "Greenfriendly Token",
+      token: "terra17hnu4prwa3varxrws0sy9hffkmqv8tfmfpldg4e9fq58flrmuz2qlhymr5",
+      icon: "https://www.greenfriendlylabs.com/images/greenfriendlylabs.png",
+      decimals: 6,
+    },
 ]
