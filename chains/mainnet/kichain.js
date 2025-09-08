@@ -1,7 +1,7 @@
 module.exports = {
     chainID: 'kichain-2',
-    lcd: 'https://api-mainnet.blockchain.ki',
-    rpc: 'https://rpc-mainnet.blockchain.ki',
+    lcd: 'https://kichain-api.polkachu.com',
+    rpc: 'https://kichain-rpc.polkachu.com',
     gasAdjustment: 1.75,
     gasPrices: {uxki: 0.03},
     prefix: 'ki',
