@@ -2181,4 +2181,20 @@ module.exports = [
         icon: "https://i.ibb.co/DfDtjLgw/amp-NIP-NFT.png",
         decimals: 6,
     },
+     {
+        protocol : "LUNCMOON",
+        name: "LUNCMOON",
+        symbol: "LCM",
+        token: "terra1zra7m9w59sxwxqy8lqs3yeqleedrvtgg2qf938nk2wf8pq2ejkqsn0heln",
+        icon: "https://i.ibb.co/HD9PzY3x/IMG-9052.jpg",
+        decimals: 6,
+    },
+    {
+      protocol: "greenfriendlylabs",
+      symbol: "GFT",
+      name: "Greenfriendly Token",
+      token: "terra17hnu4prwa3varxrws0sy9hffkmqv8tfmfpldg4e9fq58flrmuz2qlhymr5",
+      icon: "https://www.greenfriendlylabs.com/images/greenfriendlylabs.png",
+      decimals: 6,
+    },
 ]
