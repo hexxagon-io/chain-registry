@@ -2189,4 +2189,12 @@ module.exports = [
       icon: "https://www.greenfriendlylabs.com/images/greenfriendlylabs.png",
       decimals: 6,
     },
+     {
+        protocol : "LUNCMOON",
+        name: "LUNCMOON",
+        symbol: "LCM",
+        token: "terra1zra7m9w59sxwxqy8lqs3yeqleedrvtgg2qf938nk2wf8pq2ejkqsn0heln",
+        icon: "https://i.ibb.co/HD9PzY3x/IMG-9052.jpg",
+        decimals: 6,
+    },
 ]
