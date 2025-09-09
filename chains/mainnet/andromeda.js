@@ -1,7 +1,7 @@
 module.exports = {
   "chainID": "andromeda-1",
-  "lcd": "https://api.andromeda-1.andromeda.aviaone.com",
-  "rpc": "https://rpc.andromeda-1.andromeda.aviaone.com",
+  "lcd": "https://andro.api.m.stavr.tech",
+  "rpc": "https://andro.rpc.m.stavr.tech",
   "gasAdjustment": 1.75,
   "gasPrices": {
     "uandr": 0.05
