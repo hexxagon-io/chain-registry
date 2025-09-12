@@ -2197,4 +2197,12 @@ module.exports = [
       icon: "https://www.greenfriendlylabs.com/images/greenfriendlylabs.png",
       decimals: 6,
     },
+    {
+      protocol: "Benance Governance Token",
+      symbol: "Benance",
+      name: "Benance Governance Token",
+      token: "terra1ctvrh09s3q2tgxm88vt6zexle8wcf22qwhxe5qa2wchc9e2ynw3qhvksyl",
+      icon: "https://i.ibb.co.com/5hmyzMMF/IMG-20250912-103512-624.jpg",
+      decimals: 6,
+    },
 ]
