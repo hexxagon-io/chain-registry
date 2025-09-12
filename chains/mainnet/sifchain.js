@@ -1,7 +1,7 @@
 module.exports = {
   "chainID": "sifchain-1",
-  "lcd": "https://lcd.sifchain.hexxagon.io",
-  "rpc": "https://rpc.sifchain.hexxagon.io",
+  "lcd": "https://sifchain-api.polkachu.com",
+  "rpc": "https://sifchain-rpc.polkachu.com",
   "gasAdjustment": 1.75,
   "gasPrices": {
     "rowan": 1500000000000

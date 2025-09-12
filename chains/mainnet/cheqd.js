@@ -1,7 +1,7 @@
 module.exports = {
     chainID: 'cheqd-mainnet-1',
-    lcd: 'https://lcd.cheqd.hexxagon.io',
-    rpc: 'https://rpc.cheqd.hexxagon.io',
+    lcd: 'https://cheqd-rest.publicnode.com',
+    rpc: 'https://cheqd-rpc.publicnode.com',
     gasAdjustment: 1.75,
     gasPrices: { ncheq: 7500 },
     prefix: 'cheqd',
