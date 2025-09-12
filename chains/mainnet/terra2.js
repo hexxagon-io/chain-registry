@@ -1,7 +1,7 @@
 module.exports = {
     chainID: 'phoenix-1',
-    lcd: 'https://lcd.terra.hexxagon.io',
-    rpc: 'https://rpc.terra.hexxagon.io',
+    lcd: 'https://terra-rest.publicnode.com',
+    rpc: 'https://terra-rpc.publicnode.com',
     gasAdjustment: 1.75,
     gasPrices: {
         uluna: 0.015,
