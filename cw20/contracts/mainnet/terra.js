@@ -2466,8 +2466,8 @@ module.exports = [
    },
     {
     contract:  "terra1ctvrh09s3q2tgxm88vt6zexle8wcf22qwhxe5qa2wchc9e2ynw3qhvksyl",
-    protocol: "Benance Governance Token"",
-    name: "BENANCE",
+    protocol: "Benance Governance Token",
+    name: "Benance Governance Token",
     icon: "https://i.ibb.co.com/5hmyzMMF/IMG-20250912-103512-624.jpg",
    },
 ]
