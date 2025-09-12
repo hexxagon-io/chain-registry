@@ -32,18 +32,18 @@ const axelar = require("./axelar.js");
       return;
     }
 
-    // if (network === "mainnet") {
-    //     const registryName = chainData.chainRegistryName;
-    //     let mappedName = registryName;
-    //     if (registryName === "terra") {
-    //         mappedName = "terra-classic";
-    //     } else if (registryName === "terra2") {
-    //         mappedName = "terra";
-    //     }
+    if (network === "mainnet") {
+        const registryName = chainData.chainRegistryName;
+        let mappedName = registryName;
+        if (registryName === "terra") {
+            mappedName = "terra-classic";
+        } else if (registryName === "terra2") {
+            mappedName = "terra";
+        }
 
-    //     chainData.lcd = `https://lcd.${mappedName}.hexxagon.io`;
-    //     chainData.rpc = `https://rpc.${mappedName}.hexxagon.io`;
-    // }
+        chainData.lcd = `https://lcd.${mappedName}.hexxagon.io`;
+        chainData.rpc = `https://rpc.${mappedName}.hexxagon.io`;
+    }
 
     tokens.push(
       ...(chainData.tokens ?? []).map((t) => ({
