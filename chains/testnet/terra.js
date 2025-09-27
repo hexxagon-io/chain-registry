@@ -1,6 +1,7 @@
 module.exports = {
   chainID: 'rebel-2',
   lcd: 'https://lcd.terra-classic.hexxagon.dev',
+  rpc: 'https://rpc.terra-classic.hexxagon.dev',
   gasAdjustment: 1.9,
   gasPrices: {
     uluna: 29,
