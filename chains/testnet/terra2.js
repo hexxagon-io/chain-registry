@@ -1,6 +1,7 @@
 module.exports = {
     chainID: 'pisco-1',
-    lcd: 'https://pisco-lcd.terra.dev',
+    lcd: 'https://terra-testnet-api.polkachu.com',
+    rpc: 'https://terra-testnet-rpc.polkachu.com',
     gasAdjustment: 2,
     gasPrices: { uluna: 0.015 },
     prefix: 'terra',
