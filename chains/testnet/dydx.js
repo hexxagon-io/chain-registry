@@ -12,7 +12,9 @@ module.exports = {
     coinType: '118',
     baseAsset: 'adydx',
     name: 'dYdX Protocol',
+    chainRegistryName: 'dydxtestnet',
     icon: process.env.CF_PAGES_URL + '/img/chains/dydx.svg',
+    gitRepo: 'https://github.com/dydxprotocol/v4-chain',
     explorer: {
         address: 'https://testnet.mintscan.io/dydx-testnet/account/{}',
         tx: 'https://testnet.mintscan.io/dydx-testnet/txs/{}',

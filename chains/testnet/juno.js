@@ -8,6 +8,7 @@ module.exports = {
   coinType: '118',
   baseAsset: 'ujunox',
   name: 'Juno',
+  chainRegistryName: 'junotestnet',
   icon: process.env.CF_PAGES_URL + '/img/chains/Juno.svg',
   gitRepo: 'https://github.com/CosmosContracts/juno',
   explorer: {

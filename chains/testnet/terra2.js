@@ -8,7 +8,9 @@ module.exports = {
     coinType: '330',
     baseAsset: 'uluna',
     name: 'Terra',
+    chainRegistryName: 'terra2testnet',
     icon: process.env.CF_PAGES_URL + '/img/chains/Terra.svg',
+    gitRepo: 'https://github.com/phoenix-directive/core',
     alliance: true,
     explorer: {
         address: 'https://terrasco.pe/testnet/address/{}',

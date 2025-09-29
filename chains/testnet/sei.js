@@ -8,6 +8,7 @@ module.exports = {
   coinType: '118',
   baseAsset: 'usei',
   name: 'Sei',
+  chainRegistryName: 'seitestnet',
   icon: process.env.CF_PAGES_URL + '/img/chains/sei.svg',
   gitRepo: 'https://github.com/sei-protocol/sei-chain',
   ibc: {

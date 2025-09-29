@@ -7,6 +7,7 @@ module.exports = {
     coinType: '118',
     baseAsset: 'untrn',
     name: 'Neutron',
+    chainRegistryName: 'neutrontestnet',
     icon: process.env.CF_PAGES_URL + '/img/chains/Neutron.png',
     gitRepo: 'https://github.com/neutron-org/neutron',
     disabledModules: ['staking'],
