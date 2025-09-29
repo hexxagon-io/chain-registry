@@ -1,6 +1,7 @@
 module.exports = {
   chainID: 'uni-6',
   lcd: 'https://juno-testnet-api.polkachu.com',
+  rpc: 'https://juno-testnet-rpc.polkachu.com',
   gasAdjustment: 2,
   gasPrices: { ujunox: 0.015 },
   prefix: 'juno',

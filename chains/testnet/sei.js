@@ -1,6 +1,7 @@
 module.exports = {
   chainID: 'atlantic-2',
   lcd: 'https://sei-testnet-api.polkachu.com',
+  rpc: 'https://sei-testnet-rpc.polkachu.com',
   gasAdjustment: 2,
   gasPrices: { usei: 0.01 },
   prefix: 'sei',

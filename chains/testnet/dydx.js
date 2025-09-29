@@ -1,6 +1,7 @@
 module.exports = {
     chainID: 'dydx-testnet-4',
     lcd: 'https://dydx-testnet-api.polkachu.com',
+    rpc: 'https://dydx-testnet-rpc.polkachu.com',
     gasAdjustment: 1.75,
     gasPrices: {
         adydx: 12500000000,
