@@ -2205,4 +2205,20 @@ module.exports = [
       icon: "https://i.ibb.co.com/5hmyzMMF/IMG-20250912-103512-624.jpg",
       decimals: 6,
     },
+    {
+      protocol: "LENNYR TOKEN",
+      symbol: "LENNYR",
+      name: "LennyV2",
+      token: "terra15uwstq6plhlxm3qcvh6js9sflp8vl9964f9l0mjhuv38dnjkulkq48rgfv",
+      icon: "https://i.imghippo.com/files/SYUq4927Nw.png",
+      decimals: 6,
+    },
+    {
+      protocol: "CREMATR Token",
+      symbol: "CREMATR",
+      name: "CREMATV2",
+      token: "terra15ut7fz0xu8x5crj6tx7p23pz0ejdlt3vnc2h4evqhj5vj8rlelhsvez6p6",
+      icon: "https://i.imghippo.com/files/Zo2721SJU.png",
+      decimals: 6,
+    },
 ]
