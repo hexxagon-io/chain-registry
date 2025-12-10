@@ -47,7 +47,7 @@ module.exports = [
     type: 'xyk',
     assets: [
       'uusd',
-      'ibc/eb2ced20ab0466f18be49285e56b31306d4c60438a022ea995ba65d5e3cf7e09',
+      'ibc/EB2CED20AB0466F18BE49285E56B31306D4C60438A022EA995BA65D5E3CF7E09',
     ],
   },
   {
@@ -56,7 +56,7 @@ module.exports = [
     type: 'xyk',
     assets: [
       'uluna',
-      'ibc/eb2ced20ab0466f18be49285e56b31306d4c60438a022ea995ba65d5e3cf7e09',
+      'ibc/EB2CED20AB0466F18BE49285E56B31306D4C60438A022EA995BA65D5E3CF7E09',
     ],
   },
   {
@@ -766,7 +766,7 @@ module.exports = [
     dex: 'terraport',
     type: 'xyk',
     assets: [
-      'ibc/386a4031d68de6370b85f9ff7e89cef8de7cde01cc193cbd87bd3ed60f6662ce',
+      'ibc/386A4031D68DE6370B85F9FF7E89CEF8DE7CDE01CC193CBD87BD3ED60F6662CE',
       'terra1ex0hjv3wurhj4wgup4jzlzaqj4av6xqd8le4etml7rg9rs207y4s8cdvrp',
     ],
   },
@@ -784,7 +784,7 @@ module.exports = [
     dex: 'terraport',
     type: 'xyk',
     assets: [
-      'ibc/0471f1c4e7afd3f07702bef6dc365268d64570f7c1fdc98ea6098dd6de59817b',
+      'ibc/0471F1C4E7AFD3F07702BEF6DC365268D64570F7C1FDC98EA6098DD6DE59817B',
       'uluna',
     ],
   },
@@ -793,7 +793,7 @@ module.exports = [
     dex: 'terraport',
     type: 'xyk',
     assets: [
-      'ibc/e1e3674a0e4e1ef9c69646f9af8d9497173821826074622d831bab73ccb99a2d',
+      'ibc/E1E3674A0E4E1EF9C69646F9AF8D9497173821826074622D831BAB73CCB99A2D',
       'terra1ex0hjv3wurhj4wgup4jzlzaqj4av6xqd8le4etml7rg9rs207y4s8cdvrp',
     ],
   },
@@ -802,7 +802,7 @@ module.exports = [
     dex: 'terraport',
     type: 'xyk',
     assets: [
-      'ibc/f4b1551a3470d93a725460f109fb57990702b703790d8a21c7dc66aef3bacbf4',
+      'ibc/F4B1551A3470D93A725460F109FB57990702B703790D8A21C7DC66AEF3BACBF4',
       'uluna',
     ],
   },
@@ -1132,7 +1132,7 @@ module.exports = [
     type: 'xyk',
     assets: [
       'uluna',
-      'ibc/0bb9d8513e8e8e9ae6a9d211d9136e6da42288dde6cfaa453a150a4566054dc5',
+      'ibc/0BB9D8513E8E8E9AE6A9D211D9136E6DA42288DDE6CFAA453A150A4566054DC5',
     ],
   },
 ]
