@@ -2221,4 +2221,12 @@ module.exports = [
       icon: "https://i.imghippo.com/files/Zo2721SJU.png",
       decimals: 6,
     },
+    {
+      protocol: "USTC Repeg",
+      symbol: "USTR",
+      name: "USTC Repeg",
+      token: "terra1vy3kc0swag2rhn7jz6n72jp0l2ns0p6r6ez5grxq5uhj2rvs97fqfsetxv",
+      icon: "https://i.imghippo.com/files/Wz6215YHk.png",
+      decimals: 18,
+    },
 ]
