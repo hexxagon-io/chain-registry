@@ -71,4 +71,31 @@ module.exports = [
       'untrn',
     ],
   },
+  {
+    token: 'neutron1735zlph2mjtx4s3pphuh2lmktmhx0crf2z5v7xau3n6qchdxrc5qalk4xh',
+    dex: 'astroport',
+    type: 'xyk',
+    assets: [
+      'factory/neutron1ffus553eet978k024lmssw0czsxwr97mggyv85lpcsdkft8v9ufsz3sa07/astro',
+      'neutron1fe4fd33d0976gqr833xhdxmw5hv8c5s4nv7pvdrdflpr8u4uadjq76tmdq',
+    ],
+  },
+  {
+    token: 'neutron1a7ge6x7yf0dtx543ecjqr9e6f7rdr8xnc8dluk3dkx7kd4pgcumqee48w3',
+    dex: 'astroport',
+    type: 'xyk',
+    assets: [
+      'factory/neutron10sr06r3qkhn7xzpw3339wuj77hu06mzna6uht0/eclip',
+      'neutron10qptxs0v6r5w8d5hej0w9nucct7ewshnn23cn9evdp9xq26gaagsjlr9gg',
+    ],
+  },
+  {
+    token: 'neutron1dac6zred7p98csvdfxk3k7xtmh9q53nk4mnqkamv460ct7k3e3wsawspdy',
+    dex: 'astroport',
+    type: 'xyk',
+    assets: [
+      'neutron19mnfnesrhgvp3tm6aedvexth63tyffmyslkpg94yfhyamqsdav7q305zhd',
+      'factory/neutron1ffus553eet978k024lmssw0czsxwr97mggyv85lpcsdkft8v9ufsz3sa07/astro',
+    ],
+  },
 ]
