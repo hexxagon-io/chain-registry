@@ -1493,4 +1493,148 @@ module.exports = [
       'uluna',
     ],
   },
+  {
+    token: 'terra1uedcdmxu48uncd7ssxqx4cg9a33nvdkwq2x3k2xx4aa66klq2rzqh5srww',
+    dex: 'terraswap',
+    type: 'xyk',
+    assets: [
+      'terra1qx284aak0wl7vrvlsc6cwcsn6xwajragkh6cjqj87m9p34hx5l2s22p3cp',
+      'uluna',
+    ],
+  },
+  {
+    token: 'terra1vs6ywu3h37353a0mtjdjsv4w4cv3ejzlhplj8qdd5suhqrhdwn4qafymj3',
+    dex: 'terraswap',
+    type: 'xyk',
+    assets: [
+      'terra1ysd87nayjuelxj4wvp4wnp9as0mwszzkje6a9z6f3xx2903ghnsq4hm50y',
+      'terra1qj5hs3e86qn4vm9dvtgtlkdp550r0rayk9wpay44mfw3gn3tr8nq5jw3dg',
+    ],
+  },
+  {
+    token: 'terra1pz24phpymvca78rxg4zwmdx8rsatnveyklk4mdccukvw7wegjfjsjjh07z',
+    dex: 'terraswap',
+    type: 'xyk',
+    assets: [
+      'terra1xfkkgwxychgrnq0vcp82u32mecrzj8s64s03cxtmf46k6j2n2wssc7rzjf',
+      'terra1qj5hs3e86qn4vm9dvtgtlkdp550r0rayk9wpay44mfw3gn3tr8nq5jw3dg',
+    ],
+  },
+  {
+    token: 'terra1z8r4k8r9xad049hctzcss2nek8cdugkxxmgg2q59g7dluf0qh7hsfmgfnk',
+    dex: 'terraswap',
+    type: 'xyk',
+    assets: [
+      'terra1vj68f2ntauaj5dfvy5z4tq4we3hsyg363k63js5sae2t7th9aacqan89sr',
+      'terra1qj5hs3e86qn4vm9dvtgtlkdp550r0rayk9wpay44mfw3gn3tr8nq5jw3dg',
+    ],
+  },
+  {
+    token: 'terra1tn0mt9fy32p6z6xu52j5vm5wxh3aetc5nw242unrlymxtrr28qlssw092z',
+    dex: 'terraswap',
+    type: 'xyk',
+    assets: [
+      'terra1swzpenwh39f8aa7qht34r05f8ew6k2vehvqt2aw4fjy0fgghhheqs9l6h7',
+      'terra1qj5hs3e86qn4vm9dvtgtlkdp550r0rayk9wpay44mfw3gn3tr8nq5jw3dg',
+    ],
+  },
+  {
+    token: 'terra14etv2zm8p0d88qzaz7xkplgf8h8gf7pa5jfym7p2q6p5q7hufjgqc8j7v7',
+    dex: 'terraswap',
+    type: 'xyk',
+    assets: [
+      'terra1en42e2vsvtdsvrcqg5s5e5e4djejjaed6fxmvtpweg3tu33h6k5qkg9c40',
+      'terra1qj5hs3e86qn4vm9dvtgtlkdp550r0rayk9wpay44mfw3gn3tr8nq5jw3dg',
+    ],
+  },
+  {
+    token: 'terra1qzu6nc3qq5c7ev4skn4tx8zxv3gjylkvrawpdn8zjpwr6pzslmjs07uf04',
+    dex: 'terraswap',
+    type: 'xyk',
+    assets: [
+      'terra1mqs6mdx0ak7qvjzs6efhg65g4j5pzwpdkcgdsv5tpekln3qhggrq3qzvdp',
+      'terra1qj5hs3e86qn4vm9dvtgtlkdp550r0rayk9wpay44mfw3gn3tr8nq5jw3dg',
+    ],
+  },
+  {
+    token: 'terra19n9cmdamempsdhvw5x0zzm2txnttqedcdu7llh5g2dftad5jfusqvlnnuf',
+    dex: 'terraswap',
+    type: 'xyk',
+    assets: [
+      'terra1ry9f6alqyf9dpj04u9ymq5u4whjndu485agh6gusn89dmqse3ggsnzducj',
+      'ibc/B3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4',
+    ],
+  },
+  {
+    token: 'terra15svuxeq5w58l5g5qkd2yrmpalgp4uwzz0l86mcfg8z2e2nd7fu8scf4cl5',
+    dex: 'terraswap',
+    type: 'xyk',
+    assets: [
+      'terra1ry9f6alqyf9dpj04u9ymq5u4whjndu485agh6gusn89dmqse3ggsnzducj',
+      'terra1d4j9lsl453mkvtlg4ctw8y52rdkhafsaefug0hq0z06phczuvvvs7uq0vg',
+    ],
+  },
+  {
+    token: 'terra1gmdgdku0dvn034cwry64vmrtp387tle6rtdjrngr56e0us4vphkqytu9lj',
+    dex: 'terraswap',
+    type: 'xyk',
+    assets: [
+      'terra1ry9f6alqyf9dpj04u9ymq5u4whjndu485agh6gusn89dmqse3ggsnzducj',
+      'uluna',
+    ],
+  },
+  {
+    token: 'terra1k65yv7527rlpxkff66ckafphdhuuxxenz34c92ldv23ygjt3hh5sqve46v',
+    dex: 'terraswap',
+    type: 'xyk',
+    assets: [
+      'terra1ysd87nayjuelxj4wvp4wnp9as0mwszzkje6a9z6f3xx2903ghnsq4hm50y',
+      'uluna',
+    ],
+  },
+  {
+    token: 'terra1lx77v34gd24krhmnqmhldc36lyanp3ajyx9zyd7qulslnujvcsqslrlspe',
+    dex: 'terraswap',
+    type: 'xyk',
+    assets: [
+      'terra1xp9hrhthzddnl7j5du83gqqr4wmdjm5t0guzg9jp6jwrtpukwfjsjgy4f3',
+      'uluna',
+    ],
+  },
+  {
+    token: 'terra1wmdc884tjwyqexalt89lkrdddpuqhrnzgl9nuq9wh0wmg6ug37ksku43rt',
+    dex: 'terraswap',
+    type: 'xyk',
+    assets: [
+      'terra10k0kuaxr2lrgqlp9wqc0xxs3u5lwx434ttg2avc0mtttavykzh2qssgtku',
+      'uluna',
+    ],
+  },
+  {
+    token: 'terra1zuhretv42g0puey36tsefx8hqt5wpskkr8z5qw4w2q3feyamw8ks4l2e6z',
+    dex: 'terraswap',
+    type: 'xyk',
+    assets: [
+      'terra1ey8nrqhufmj0lfcn33x345hf7zhggz03nss03keavs3nxcml0w8spl0w58',
+      'uluna',
+    ],
+  },
+  {
+    token: 'terra1camm9k9edj8ak39et67saychqq6efrcv5h6efz6lqv0we2fq55jsg32a27',
+    dex: 'terraswap',
+    type: 'xyk',
+    assets: [
+      'terra1e0efrrrj8d55pflme3dmtyuj7klzcef5cfmz6r2jyqz77kk2jz3qa6drg3',
+      'uluna',
+    ],
+  },
+  {
+    token: 'terra18z2zq3vyav0tyg2s3dm8ctftwjqd96f5pkfmp2qgn7fkq0uwaaysaxw3pu',
+    dex: 'terraswap',
+    type: 'xyk',
+    assets: [
+      'terra1a7zeajhk6nnj7jzu2rxynwr3yvp58gj2ffxe9k4dneyte0v5kkeqnmzwvq',
+      'uluna',
+    ],
+  },
 ]
