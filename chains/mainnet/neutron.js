@@ -13,7 +13,7 @@ module.exports = {
   baseAsset: 'untrn',
   name: 'Neutron',
   chainRegistryName: 'neutron',
-  disabledModules: ['staking', 'gov', 'swap'],
+  disabledModules: ['staking', 'gov'],
   icon: process.env.CF_PAGES_URL + '/img/chains/Neutron.png',
   gitRepo: 'https://github.com/neutron-org/neutron',
   autoCompound: {
