@@ -9,6 +9,10 @@ module.exports = {
   name: 'Mars',
   icon: process.env.CF_PAGES_URL + '/img/chains/Mars.svg',
   gitRepo: 'https://github.com/mars-protocol/hub',
+  autoCompound: {
+      enabled: false,
+      minRewards: 100000
+  },
   ibc: {
     toTerra: 'channel-0',
     fromTerra: 'channel-189',

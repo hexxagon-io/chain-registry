@@ -11,6 +11,10 @@ module.exports = {
   chainRegistryName: 'seitestnet',
   icon: process.env.CF_PAGES_URL + '/img/chains/sei.svg',
   gitRepo: 'https://github.com/sei-protocol/sei-chain',
+  autoCompound: {
+    enabled: false,
+    minRewards: 100000,
+  },
   ibc: {
     fromTerra: 'channel-100',
     toTerra: 'channel-11',

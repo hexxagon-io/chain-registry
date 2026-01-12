@@ -18,11 +18,14 @@
   },
   "homepage": "https://github.com/hexxagon-io/chain-registry#readme",
   "dependencies": {
-    "@keplr-wallet/crypto": "^0.11.32",
     "@hexxagon/feather.js": "^2.1.0-beta.20",
+    "@keplr-wallet/crypto": "^0.11.32",
     "buffer": "^6.0.3",
     "glob": "^8.0.3",
     "glob-promise": "^6.0.1",
     "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "dotenv": "^17.2.3"
   }
 }

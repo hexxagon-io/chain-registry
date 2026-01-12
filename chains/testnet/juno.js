@@ -11,6 +11,10 @@ module.exports = {
   chainRegistryName: 'junotestnet',
   icon: process.env.CF_PAGES_URL + '/img/chains/Juno.svg',
   gitRepo: 'https://github.com/CosmosContracts/juno',
+  autoCompound: {
+    enabled: false,
+    minRewards: 100000,
+  },
   explorer: {
     address: 'https://testnet.juno.explorers.guru/account/{}',
     tx: 'https://testnet.juno.explorers.guru/transaction/{}',
