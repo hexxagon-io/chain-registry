@@ -6022,4 +6022,22 @@ module.exports = [
       'terra1ln2z938phz0nc2wepxpzfkwp6ezn9yrz9zv9ep',
     ],
   },
+  {
+    token: 'terra1j30wkxydpalf2h50hlngysckfucqpxz8l9u555exlwwr8w8gzdqqnehd5f',
+    dex: 'terraport',
+    type: 'xyk',
+    assets: [
+      'ibc/9B68CC79EFF12D25AF712EB805C5062B8F97B2CCE5F3FE55B107EE03095514A3',
+      'uluna',
+    ],
+  },
+  {
+    token: 'terra1k7tye8ezprfy2786gaynstfuqqw8erxetvqyee4hw4thfl0wnzjsuuzg38',
+    dex: 'terraport',
+    type: 'xyk',
+    assets: [
+      'ibc/911B721F15A40ABB29636CBF8AE630076DDF62841ACE7E6D879405CA8870CEA2',
+      'uluna',
+    ],
+  },
 ]
