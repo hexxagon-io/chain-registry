@@ -2469,18 +2469,18 @@ module.exports = [
   {
     token:
       'ibc/9B68CC79EFF12D25AF712EB805C5062B8F97B2CCE5F3FE55B107EE03095514A3',
-    protocol: 'axlETH',
-    symbol: 'axlETH',
-    name: 'axlETH',
+    protocol: 'axlWETH',
+    symbol: 'axlWETH',
+    name: 'axlWETH',
     icon: 'https://vyntrex.io/images/tokens/ibc/9B68CC79EFF12D25AF712EB805C5062B8F97B2CCE5F3FE55B107EE03095514A3/logo.svg',
     decimals: 6,
   },
   {
     token:
       'ibc/911B721F15A40ABB29636CBF8AE630076DDF62841ACE7E6D879405CA8870CEA2',
-    protocol: 'axlBTC',
-    symbol: 'axlBTC',
-    name: 'axlBTC',
+    protocol: 'axlWBTC',
+    symbol: 'axlWBTC',
+    name: 'axlWBTC',
     icon: 'https://vyntrex.io/images/tokens/ibc/911B721F15A40ABB29636CBF8AE630076DDF62841ACE7E6D879405CA8870CEA2/logo.svg',
     decimals: 6,
   },

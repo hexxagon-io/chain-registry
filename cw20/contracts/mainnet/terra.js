@@ -2557,18 +2557,4 @@ module.exports = [
     name: 'USTC Repeg',
     icon: 'https://i.imghippo.com/files/Wz6215YHk.png',
   },
-  {
-    contract:
-      'ibc/9B68CC79EFF12D25AF712EB805C5062B8F97B2CCE5F3FE55B107EE03095514A3',
-    protocol: 'axlETH',
-    name: 'axlETH',
-    icon: 'https://vyntrex.io/images/tokens/ibc/9B68CC79EFF12D25AF712EB805C5062B8F97B2CCE5F3FE55B107EE03095514A3/logo.svg',
-  },
-  {
-    contract:
-      'ibc/911B721F15A40ABB29636CBF8AE630076DDF62841ACE7E6D879405CA8870CEA2',
-    protocol: 'axlBTC',
-    name: 'axlBTC',
-    icon: 'https://vyntrex.io/images/tokens/ibc/911B721F15A40ABB29636CBF8AE630076DDF62841ACE7E6D879405CA8870CEA2/logo.svg',
-  },
 ]
