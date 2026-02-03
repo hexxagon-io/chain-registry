@@ -2555,6 +2555,6 @@ module.exports = [
       'terra1vy3kc0swag2rhn7jz6n72jp0l2ns0p6r6ez5grxq5uhj2rvs97fqfsetxv',
     protocol: 'USTR',
     name: 'USTC Repeg',
-    icon: 'https://i.imghippo.com/files/Wz6215YHk.png',
+    icon: 'https://ust1cmm.com/assets/ustr-light.png',
   },
 ]
