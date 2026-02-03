@@ -43,10 +43,10 @@ module.exports = {
   alliance: false,
   burnAddress: 'terra1sk06e3dyexuq4shw77y3dsv480xv42mq73anxu',
   explorer: {
-    address: 'https://finder.terra-classic.hexxagon.dev/testnet/address/{}',
-    tx: 'https://finder.terra-classic.hexxagon.dev/testnet/tx/{}',
-    validator: 'https://finder.terra-classic.hexxagon.dev/testnet/validator/{}',
-    block: 'https://finder.terra-classic.hexxagon.dev/testnet/block/{}',
+    address: 'https://finder.hexxagon.dev/rebel-2/address/{}',
+    tx: 'https://finder.hexxagon.dev/rebel-2/tx/{}',
+    validator: 'https://finder.hexxagon.dev/rebel-2/validator/{}',
+    block: 'https://finder.hexxagon.dev/rebel-2/block/{}',
   },
   channels: {
     'juno-1': 'channel-20',

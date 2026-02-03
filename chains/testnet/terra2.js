@@ -17,10 +17,10 @@ module.exports = {
   },
   alliance: true,
   explorer: {
-    address: 'https://terrasco.pe/testnet/address/{}',
-    tx: 'https://terrasco.pe/testnet/tx/{}',
-    validator: 'https://terrasco.pe/testnet/validator/{}',
-    block: 'https://terrasco.pe/testnet/block/{}',
+    address: 'https://finder.hexxagon.dev/pisco-1/address/{}',
+    tx: 'https://finder.hexxagon.dev/pisco-1/tx/{}',
+    validator: 'https://finder.hexxagon.dev/pisco-1/validator/{}',
+    block: 'https://finder.hexxagon.dev/pisco-1/block/{}',
   },
   channels: {
     'ares-1': 'channel-189',
