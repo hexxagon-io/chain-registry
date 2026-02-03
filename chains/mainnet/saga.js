@@ -17,10 +17,10 @@ module.exports = {
         minRewards: 1000000
     },
     explorer: {
-        address: 'https://www.mintscan.io/saga/account/{}',
-        tx: 'https://www.mintscan.io/saga/txs/{}',
-        validator: 'https://www.mintscan.io/saga/validators/{}',
-        block: 'https://www.mintscan.io/saga/blocks/id/{}',
+      address: 'https://finder.hexxagon.io/ssc-1/address/{}',
+      tx: 'https://finder.hexxagon.io/ssc-1/tx/{}',
+      validator: 'https://finder.hexxagon.io/ssc-1/validator/{}',
+      block: 'https://finder.hexxagon.io/ssc-1/block/{}',
     },
     tokens: [
         {

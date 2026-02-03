@@ -17,10 +17,10 @@ module.exports = {
   },
   alliance: true,
   explorer: {
-    address: 'https://finder.hexxagon.dev/pisco-1/address/{}',
-    tx: 'https://finder.hexxagon.dev/pisco-1/tx/{}',
-    validator: 'https://finder.hexxagon.dev/pisco-1/validator/{}',
-    block: 'https://finder.hexxagon.dev/pisco-1/block/{}',
+    address: 'https://finder.hexxagon.io/pisco-1/address/{}',
+    tx: 'https://finder.hexxagon.io/pisco-1/tx/{}',
+    validator: 'https://finder.hexxagon.io/pisco-1/validator/{}',
+    block: 'https://finder.hexxagon.io/pisco-1/block/{}',
   },
   channels: {
     'ares-1': 'channel-189',

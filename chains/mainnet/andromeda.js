@@ -21,10 +21,10 @@ module.exports = {
     "minRewards": 1000000
   },
   "explorer": {
-    "address": "https://explorer.chainroot.io/andromeda/accounts/{}",
-    "tx": "https://explorer.chainroot.io/andromeda/transactions/{}",
-    "validator": "",
-    "block": ""
+    "address": "https://finder.hexxagon.io/andromeda-1/address/{}",
+    "tx": "https://finder.hexxagon.io/andromeda-1/tx/{}",
+    "validator": "https://finder.hexxagon.io/andromeda-1/validator/{}",
+    "block": "https://finder.hexxagon.io/andromeda-1/block/{}",
   },
   "tokens": [
     {

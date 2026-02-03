@@ -21,10 +21,10 @@ module.exports = {
         'cosmoshub-4': 'channel-9',
     },
     explorer: {
-        address: 'https://main.anode.team/arkh/account/{}',
-        tx: 'https://main.anode.team/arkh/tx/{}',
-        validator: 'https://main.anode.team/arkh/staking/{}',
-        block: 'https://main.anode.team/arkh/blocks/{}',
+      address: 'https://finder.hexxagon.io/arkh/address/{}',
+      tx: 'https://finder.hexxagon.io/arkh/tx/{}',
+      validator: 'https://finder.hexxagon.io/arkh/validator/{}',
+      block: 'https://finder.hexxagon.io/arkh/block/{}',
     },
     tokens: [
         {

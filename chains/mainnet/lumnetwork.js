@@ -17,10 +17,10 @@ module.exports = {
         minRewards: 1000000
     },
     explorer: {
-        address: 'https://ping.pub/lum-network/account/{}',
-        tx: 'https://ping.pub/lum-network/tx/{}',
-        validator: 'https://ping.pub/lum-network/staking/{}',
-        block: 'https://ping.pub/lum-network/block/{}',
+      address: 'https://finder.hexxagon.io/lum-network-1/address/{}',
+      tx: 'https://finder.hexxagon.io/lum-network-1/tx/{}',
+      validator: 'https://finder.hexxagon.io/lum-network-1/validator/{}',
+      block: 'https://finder.hexxagon.io/lum-network-1/block/{}',
     },
     tokens: [
         {

@@ -21,10 +21,10 @@ module.exports = {
     "minRewards": 1000000
   },
   "explorer": {
-    "address": "",
-    "tx": "https://explorer.tcnetwork.io/sunrise/transaction/{}",
-    "validator": "",
-    "block": ""
+    "address": "https://finder.hexxagon.io/sunrise-1/address/{}",
+    "tx": "https://finder.hexxagon.io/sunrise-1/tx/{}",
+    "validator": "https://finder.hexxagon.io/sunrise-1/validator/{}",
+    "block": "https://finder.hexxagon.io/sunrise-1/block/{}",
   },
   "tokens": [
     {

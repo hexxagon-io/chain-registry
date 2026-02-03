@@ -35,10 +35,10 @@ module.exports = {
         'noble-1': 'channel-224',
     },
     explorer: {
-        address: 'https://ping.pub/juno/account/{}',
-        tx: 'https://ping.pub/juno/tx/{}',
-        validator: 'https://ping.pub/juno/staking/{}',
-        block: 'https://ping.pub/juno/block/{}',
+      address: 'https://finder.hexxagon.io/juno-1/address/{}',
+      tx: 'https://finder.hexxagon.io/juno-1/tx/{}',
+      validator: 'https://finder.hexxagon.io/juno-1/validator/{}',
+      block: 'https://finder.hexxagon.io/juno-1/block/{}',
     },
     tokens: [
         {

@@ -32,10 +32,10 @@ module.exports = {
   },
   icsChannels: {},
   explorer: {
-    address: 'https://ping.pub/neutron/account/{}',
-    tx: 'https://ping.pub/neutron/tx/{}',
-    validator: 'https://ping.pub/neutron/staking/{}',
-    block: 'https://ping.pub/neutron/block/{}',
+    address: 'https://finder.hexxagon.io/neutron-1/address/{}',
+    tx: 'https://finder.hexxagon.io/neutron-1/tx/{}',
+    validator: 'https://finder.hexxagon.io/neutron-1/validator/{}',
+    block: 'https://finder.hexxagon.io/neutron-1/block/{}',
   },
   tokens: [
     {

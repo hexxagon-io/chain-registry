@@ -17,10 +17,10 @@ module.exports = {
         minRewards: 1000000
     },
     explorer: {
-        address: 'https://ping.pub/bitsong/account/{}',
-        tx: 'https://ping.pub/bitsong/tx/{}',
-        validator: 'https://ping.pub/bitsong/staking/{}',
-        block: 'https://ping.pub/bitsong/block/{}',
+      address: 'https://finder.hexxagon.io/bitsong-2b/address/{}',
+      tx: 'https://finder.hexxagon.io/bitsong-2b/tx/{}',
+      validator: 'https://finder.hexxagon.io/bitsong-2b/validator/{}',
+      block: 'https://finder.hexxagon.io/bitsong-2b/block/{}',
     },
     tokens: [
         {

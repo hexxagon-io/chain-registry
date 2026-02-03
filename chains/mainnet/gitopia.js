@@ -21,10 +21,10 @@ module.exports = {
     "minRewards": 1000000
   },
   "explorer": {
-    "address": "https://explorer.chainroot.io/gitopia/accounts/{}",
-    "tx": "https://explorer.chainroot.io/gitopia/transactions/{}",
-    "validator": "",
-    "block": ""
+    "address": "https://finder.hexxagon.io/gitopia/address/{}",
+    "tx": "https://finder.hexxagon.io/gitopia/tx/{}",
+    "validator": "https://finder.hexxagon.io/gitopia/validator/{}",
+    "block": "https://finder.hexxagon.io/gitopia/block/{}",
   },
   "tokens": [
     {

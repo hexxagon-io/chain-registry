@@ -21,10 +21,10 @@ module.exports = {
     "minRewards": 1000000
   },
   "explorer": {
-    "address": "https://explorer.allora.network/profile/{}",
-    "tx": "https://explorer.allora.network/explorer/transactions/{}",
-    "validator": "",
-    "block": ""
+    "address": "https://finder.hexxagon.io/allora-mainnet-1/address/{}",
+    "tx": "https://finder.hexxagon.io/allora-mainnet-1/tx/{}",
+    "validator": "https://finder.hexxagon.io/allora-mainnet-1/validator/{}",
+    "block": "https://finder.hexxagon.io/allora-mainnet-1/block/{}",
   },
   "tokens": [
     {

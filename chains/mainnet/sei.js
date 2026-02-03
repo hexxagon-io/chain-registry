@@ -29,10 +29,10 @@ module.exports = {
         'stride-1': 'channel-11',
     },
     explorer: {
-        address: 'https://www.mintscan.io/sei/account/{}',
-        tx: 'https://www.mintscan.io/sei/txs/{}',
-        validator: 'https://www.mintscan.io/sei/validators/{}',
-        block: 'https://www.mintscan.io/sei/blocks/id/{}',
+      address: 'https://finder.hexxagon.io/pacific-1/address/{}',
+      tx: 'https://finder.hexxagon.io/pacific-1/tx/{}',
+      validator: 'https://finder.hexxagon.io/pacific-1/validator/{}',
+      block: 'https://finder.hexxagon.io/pacific-1/block/{}',
     },
     tokens: [
         {

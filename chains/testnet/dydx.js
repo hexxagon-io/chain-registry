@@ -20,10 +20,10 @@ module.exports = {
     minRewards: 100000,
   },
   explorer: {
-    address: 'https://testnet.mintscan.io/dydx-testnet/account/{}',
-    tx: 'https://testnet.mintscan.io/dydx-testnet/txs/{}',
-    validator: 'https://testnet.mintscan.io/dydx-testnet/validators/{}',
-    block: 'https://testnet.mintscan.io/dydx-testnet/blocks/id/{}',
+    address: 'https://finder.hexxagon.io/dydx-testnet-4/address/{}',
+    tx: 'https://finder.hexxagon.io/dydx-testnet-4/tx/{}',
+    validator: 'https://finder.hexxagon.io/dydx-testnet-4/validator/{}',
+    block: 'https://finder.hexxagon.io/dydx-testnet-4/block/{}',
   },
   tokens: [
     {

@@ -16,10 +16,10 @@ module.exports = {
     minRewards: 100000,
   },
   explorer: {
-    address: 'https://testnet.juno.explorers.guru/account/{}',
-    tx: 'https://testnet.juno.explorers.guru/transaction/{}',
-    validator: 'https://testnet.juno.explorers.guru/validator/{}',
-    block: 'https://testnet.juno.explorers.guru/block/{}',
+    address: 'https://finder.hexxagon.io/uni-6/address/{}',
+    tx: 'https://finder.hexxagon.io/uni-6/tx/{}',
+    validator: 'https://finder.hexxagon.io/uni-6/validator/{}',
+    block: 'https://finder.hexxagon.io/uni-6/block/{}',
   },
   tokens: [
     {

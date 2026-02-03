@@ -58,10 +58,10 @@ module.exports = {
     },
     alliance: true,
     explorer: {
-        address: 'https://ping.pub/kujira/account/{}',
-        tx: 'https://ping.pub/kujira/tx/{}',
-        validator: 'https://ping.pub/kujira/staking/{}',
-        block: 'https://ping.pub/kujira/block/{}',
+      address: 'https://finder.hexxagon.io/kaiyo-1/address/{}',
+      tx: 'https://finder.hexxagon.io/kaiyo-1/tx/{}',
+      validator: 'https://finder.hexxagon.io/kaiyo-1/validator/{}',
+      block: 'https://finder.hexxagon.io/kaiyo-1/block/{}',
     },
     tokens: [
         {

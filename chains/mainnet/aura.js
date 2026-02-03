@@ -21,10 +21,10 @@ module.exports = {
     "minRewards": 1000000
   },
   "explorer": {
-    "address": "https://explorer.chainroot.io/aura/accounts/{}",
-    "tx": "https://explorer.chainroot.io/aura/transactions/{}",
-    "validator": "",
-    "block": ""
+    "address": "https://finder.hexxagon.io/aura_6322-2/address/{}",
+    "tx": "https://finder.hexxagon.io/aura_6322-2/tx/{}",
+    "validator": "https://finder.hexxagon.io/aura_6322-2/validator/{}",
+    "block": "https://finder.hexxagon.io/aura_6322-2/block/{}",
   },
   "tokens": [
     {

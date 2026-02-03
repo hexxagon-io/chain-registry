@@ -38,10 +38,10 @@ module.exports = {
         'arkh': 'channel-253',
     },
     explorer: {
-        address: 'https://ping.pub/cosmos/account/{}',
-        tx: 'https://ping.pub/cosmos/tx/{}',
-        validator: 'https://ping.pub/cosmos/staking/{}',
-        block: 'https://ping.pub/cosmos/block/{}',
+      address: 'https://finder.hexxagon.io/cosmoshub-4/address/{}',
+      tx: 'https://finder.hexxagon.io/cosmoshub-4/tx/{}',
+      validator: 'https://finder.hexxagon.io/cosmoshub-4/validator/{}',
+      block: 'https://finder.hexxagon.io/cosmoshub-4/block/{}',
     },
     tokens: [
         {

@@ -21,10 +21,10 @@ module.exports = {
     "minRewards": 1000000
   },
   "explorer": {
-    "address": "https://explorer.chainroot.io/kyve/accounts/{}",
-    "tx": "https://explorer.chainroot.io/kyve/transactions/{}",
-    "validator": "",
-    "block": ""
+    "address": "https://finder.hexxagon.io/kyve-1/address/{}",
+    "tx": "https://finder.hexxagon.io/kyve-1/tx/{}",
+    "validator": "https://finder.hexxagon.io/kyve-1/validator/{}",
+    "block": "https://finder.hexxagon.io/kyve-1/block/{}",
   },
   "tokens": [
     {

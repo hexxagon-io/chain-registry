@@ -25,10 +25,10 @@ module.exports = {
         'osmosis-1': 'channel-0',
     },
     explorer: {
-        address: 'https://explorer.cheqd.io/accounts/{}',
-        tx: 'https://explorer.cheqd.io/transactions/{}',
-        validator: 'https://explorer.cheqd.io/validators/{}',
-        block: 'https://explorer.cheqd.io/blocks/{}',
+      address: 'https://finder.hexxagon.io/cheqd-mainnet-1/address/{}',
+      tx: 'https://finder.hexxagon.io/cheqd-mainnet-1/tx/{}',
+      validator: 'https://finder.hexxagon.io/cheqd-mainnet-1/validator/{}',
+      block: 'https://finder.hexxagon.io/cheqd-mainnet-1/block/{}',
     },
     tokens: [
         {

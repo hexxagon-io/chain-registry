@@ -17,10 +17,10 @@ module.exports = {
         minRewards: 100000
     },
     explorer: {
-        address: 'https://ping.pub/atomone/account/{}',
-        tx: 'https://ping.pub/atomone/tx/{}',
-        validator: 'https://ping.pub/atomone/staking/{}',
-        block: 'https://ping.pub/atomone/block/{}',
+      address: 'https://finder.hexxagon.io/atomone-1/address/{}',
+      tx: 'https://finder.hexxagon.io/atomone-1/tx/{}',
+      validator: 'https://finder.hexxagon.io/atomone-1/validator/{}',
+      block: 'https://finder.hexxagon.io/atomone-1/block/{}',
     },
     tokens: [
         {

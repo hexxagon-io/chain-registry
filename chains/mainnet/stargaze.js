@@ -28,10 +28,10 @@ module.exports = {
         'stride-1': 'channel-106',
     },
     explorer: {
-        address: 'https://ping.pub/stargaze/account/{}',
-        tx: 'https://ping.pub/stargaze/tx/{}',
-        validator: 'https://ping.pub/stargaze/staking/{}',
-        block: 'https://ping.pub/stargaze/block/{}',
+      address: 'https://finder.hexxagon.io/stargaze-1/address/{}',
+      tx: 'https://finder.hexxagon.io/stargaze-1/tx/{}',
+      validator: 'https://finder.hexxagon.io/stargaze-1/validator/{}',
+      block: 'https://finder.hexxagon.io/stargaze-1/block/{}',
     },
     tokens: [
         {

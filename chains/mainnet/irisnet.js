@@ -30,10 +30,10 @@ module.exports = {
     //   'osmosis-1': 'channel-9',
     // },
     explorer: {
-        address: 'https://ping.pub/iris/account/{}',
-        tx: 'https://ping.pub/iris/tx/{}',
-        validator: 'https://ping.pub/iris/staking/{}',
-        block: 'https://ping.pub/iris/block/{}',
+      address: 'https://finder.hexxagon.io/irishub-1/address/{}',
+      tx: 'https://finder.hexxagon.io/irishub-1/tx/{}',
+      validator: 'https://finder.hexxagon.io/irishub-1/validator/{}',
+      block: 'https://finder.hexxagon.io/irishub-1/block/{}',
     },
     tokens: [
         {

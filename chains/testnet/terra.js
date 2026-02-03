@@ -43,10 +43,10 @@ module.exports = {
   alliance: false,
   burnAddress: 'terra1sk06e3dyexuq4shw77y3dsv480xv42mq73anxu',
   explorer: {
-    address: 'https://finder.hexxagon.dev/rebel-2/address/{}',
-    tx: 'https://finder.hexxagon.dev/rebel-2/tx/{}',
-    validator: 'https://finder.hexxagon.dev/rebel-2/validator/{}',
-    block: 'https://finder.hexxagon.dev/rebel-2/block/{}',
+    address: 'https://finder.hexxagon.io/rebel-2/address/{}',
+    tx: 'https://finder.hexxagon.io/rebel-2/tx/{}',
+    validator: 'https://finder.hexxagon.io/rebel-2/validator/{}',
+    block: 'https://finder.hexxagon.io/rebel-2/block/{}',
   },
   channels: {
     'juno-1': 'channel-20',

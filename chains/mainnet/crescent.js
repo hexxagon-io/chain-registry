@@ -36,10 +36,10 @@ module.exports = {
         'noble-1': 'channel-38',
     },
     explorer: {
-        address: 'https://www.mintscan.io/crescent/account/{}',
-        tx: 'https://www.mintscan.io/crescent/txs/{}',
-        validator: 'https://www.mintscan.io/crescent/validators/{}',
-        block: 'https://www.mintscan.io/crescent/blocks/id/{}',
+      address: 'https://finder.hexxagon.io/crescent-1/address/{}',
+      tx: 'https://finder.hexxagon.io/crescent-1/tx/{}',
+      validator: 'https://finder.hexxagon.io/crescent-1/validator/{}',
+      block: 'https://finder.hexxagon.io/crescent-1/block/{}',
     },
     tokens: [
         {

@@ -17,10 +17,10 @@ module.exports = {
         minRewards: 100000
     },
     explorer: {
-        address: 'https://ping.pub/sentinel/account/{}',
-        tx: 'https://ping.pub/sentinel/tx/{}',
-        validator: 'https://ping.pub/sentinel/staking/{}',
-        block: 'https://ping.pub/sentinel/block/{}',
+      address: 'https://finder.hexxagon.io/sentinelhub-2/address/{}',
+      tx: 'https://finder.hexxagon.io/sentinelhub-2/tx/{}',
+      validator: 'https://finder.hexxagon.io/sentinelhub-2/validator/{}',
+      block: 'https://finder.hexxagon.io/sentinelhub-2/block/{}',
     },
     tokens: [
         {

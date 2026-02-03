@@ -17,10 +17,10 @@ module.exports = {
         minRewards: 100000
     },
     explorer: {
-        address: 'https://ping.pub/teritori/account/{}',
-        tx: 'https://ping.pub/teritori/tx/{}',
-        validator: 'https://ping.pub/teritori/staking/{}',
-        block: 'https://ping.pub/teritori/block/{}',
+      address: 'https://finder.hexxagon.io/teritori-1/address/{}',
+      tx: 'https://finder.hexxagon.io/teritori-1/tx/{}',
+      validator: 'https://finder.hexxagon.io/teritori-1/validator/{}',
+      block: 'https://finder.hexxagon.io/teritori-1/block/{}',
     },
     tokens: [
         {

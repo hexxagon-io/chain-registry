@@ -21,10 +21,10 @@ module.exports = {
     "minRewards": 1000000
   },
   "explorer": {
-    "address": "https://river.hippoprotocol.ai/hippo-protocol/account/{}",
-    "tx": "https://river.hippoprotocol.ai/hippo-protocol/tx/{}",
-    "validator": "",
-    "block": ""
+    "address": "https://finder.hexxagon.io/hippo-protocol-1/address/{}",
+    "tx": "https://finder.hexxagon.io/hippo-protocol-1/tx/{}",
+    "validator": "https://finder.hexxagon.io/hippo-protocol-1/validator/{}",
+    "block": "https://finder.hexxagon.io/hippo-protocol-1/block/{}",
   },
   "tokens": [
     {

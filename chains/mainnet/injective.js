@@ -27,10 +27,10 @@ module.exports = {
         'kaiyo-1': 'channel-98',
     },
     explorer: {
-        address: 'https://ping.pub/injective/account/{}',
-        tx: 'https://ping.pub/injective/tx/{}',
-        validator: 'https://ping.pub/injective/staking/{}',
-        block: 'https://ping.pub/injective/block/{}',
+      address: 'https://finder.hexxagon.io/injective-1/address/{}',
+      tx: 'https://finder.hexxagon.io/injective-1/tx/{}',
+      validator: 'https://finder.hexxagon.io/injective-1/validator/{}',
+      block: 'https://finder.hexxagon.io/injective-1/block/{}',
     },
     tokens: [
         {

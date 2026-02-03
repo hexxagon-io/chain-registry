@@ -17,10 +17,10 @@ module.exports = {
         minRewards: 1000000
     },
     explorer: {
-        address: 'https://atomscan.com/orai/blocks/{}',
-        tx: 'https://atomscan.com/orai/blocks/{}',
-        validator: 'https://atomscan.com/orai/validators/{}',
-        block: 'https://atomscan.com/orai/blocks/{}',
+      address: 'https://finder.hexxagon.io/Oraichain/address/{}',
+      tx: 'https://finder.hexxagon.io/Oraichain/tx/{}',
+      validator: 'https://finder.hexxagon.io/Oraichain/validator/{}',
+      block: 'https://finder.hexxagon.io/Oraichain/block/{}',
     },
     tokens: [
         {

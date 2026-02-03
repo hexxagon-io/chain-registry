@@ -28,10 +28,10 @@ module.exports = {
         'kaiyo-1': 'channel-6',
     },
     explorer: {
-        address: 'https://www.mintscan.io/stafi/accounts/{}',
-        tx: 'https://www.mintscan.io/stafi/transactions/{}',
-        validator: 'https://www.mintscan.io/stafi/validators/{}',
-        block: 'https://www.mintscan.io/stafi/blocks/{}',
+      address: 'https://finder.hexxagon.io/stafihub-1/address/{}',
+      tx: 'https://finder.hexxagon.io/stafihub-1/tx/{}',
+      validator: 'https://finder.hexxagon.io/stafihub-1/validator/{}',
+      block: 'https://finder.hexxagon.io/stafihub-1/block/{}',
     },
     tokens: [
         {

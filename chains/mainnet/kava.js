@@ -30,10 +30,10 @@ module.exports = {
         'akashnet-2': 'channel-5',
     },
     explorer: {
-        address: 'https://ping.pub/kava/account/{}',
-        tx: 'https://ping.pub/kava/tx/{}',
-        validator: 'https://ping.pub/kava/staking/{}',
-        block: 'https://ping.pub/kava/block/{}',
+      address: 'https://finder.hexxagon.io/kava_2222-10/address/{}',
+      tx: 'https://finder.hexxagon.io/kava_2222-10/tx/{}',
+      validator: 'https://finder.hexxagon.io/kava_2222-10/validator/{}',
+      block: 'https://finder.hexxagon.io/kava_2222-10/block/{}',
     },
     tokens: [
         {

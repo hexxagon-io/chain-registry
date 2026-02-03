@@ -21,10 +21,10 @@ module.exports = {
     "minRewards": 1000000
   },
   "explorer": {
-    "address": "https://portal.lumera.io/lumera-mainnet-1/account/{}",
-    "tx": "https://portal.lumera.io/lumera-mainnet-1/tx/{}",
-    "validator": "",
-    "block": ""
+    "address": "https://finder.hexxagon.io/lumera-mainnet-1/address/{}",
+    "tx": "https://finder.hexxagon.io/lumera-mainnet-1/tx/{}",
+    "validator": "https://finder.hexxagon.io/lumera-mainnet-1/validator/{}",
+    "block": "https://finder.hexxagon.io/lumera-mainnet-1/block/{}",
   },
   "tokens": [
     {

@@ -17,10 +17,10 @@ module.exports = {
     minRewards: 1000000,
   },
   explorer: {
-    address: 'https://ping.pub/gravity-bridge/account/{}',
-    tx: 'https://ping.pub/gravity-bridge/tx/{}',
-    validator: 'https://ping.pub/gravity-bridge/staking/{}',
-    block: 'https://ping.pub/gravity-bridge/block/{}',
+    address: 'https://finder.hexxagon.io/gravity-bridge-3/address/{}',
+    tx: 'https://finder.hexxagon.io/gravity-bridge-3/tx/{}',
+    validator: 'https://finder.hexxagon.io/gravity-bridge-3/validator/{}',
+    block: 'https://finder.hexxagon.io/gravity-bridge-3/block/{}',
   },
   tokens: [
     {

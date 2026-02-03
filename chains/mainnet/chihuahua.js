@@ -24,10 +24,10 @@ module.exports = {
         'stafihub-1': 'channel-25',
     },
     explorer: {
-        address: 'https://ping.pub/chihuahua/account/{}',
-        tx: 'https://ping.pub/chihuahua/tx/{}',
-        validator: 'https://ping.pub/chihuahua/staking/{}',
-        block: 'https://ping.pub/chihuahua/block/{}',
+      address: 'https://finder.hexxagon.io/chihuahua-1/address/{}',
+      tx: 'https://finder.hexxagon.io/chihuahua-1/tx/{}',
+      validator: 'https://finder.hexxagon.io/chihuahua-1/validator/{}',
+      block: 'https://finder.hexxagon.io/chihuahua-1/block/{}',
     },
     tokens: [
         {

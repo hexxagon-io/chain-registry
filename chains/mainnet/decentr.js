@@ -25,10 +25,10 @@ module.exports = {
         'osmosis-1': 'channel-1',
     },
     explorer: {
-        address: 'https://atomscan.com/decentr/blocks/{}',
-        tx: 'https://atomscan.com/decentr/blocks/{}',
-        validator: 'https://atomscan.com/decentr/validators/{}',
-        block: 'https://atomscan.com/decentr/blocks/{}',
+      address: 'https://finder.hexxagon.io/mainnet-3/address/{}',
+      tx: 'https://finder.hexxagon.io/mainnet-3/tx/{}',
+      validator: 'https://finder.hexxagon.io/mainnet-3/validator/{}',
+      block: 'https://finder.hexxagon.io/mainnet-3/block/{}',
     },
     tokens: [
         {

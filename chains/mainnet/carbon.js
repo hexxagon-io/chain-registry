@@ -37,10 +37,10 @@ module.exports = {
     "stafihub-1": "channel-13",
   },
   explorer: {
-    address: "https://scan.carbon.network/account/{}?net=main",
-    tx: "https://scan.carbon.network/transaction/{}?net=main",
-    validator: "https://scan.carbon.network/validator/{}?net=main",
-    block: "https://scan.carbon.network/block/{}?net=main",
+    address: "https://finder.hexxagon.io/carbon-1/address/{}",
+    tx: "https://finder.hexxagon.io/carbon-1/tx/{}",
+    validator: "https://finder.hexxagon.io/carbon-1/validator/{}",
+    block: "https://finder.hexxagon.io/carbon-1/block/{}",
   },
   tokens: [
     {

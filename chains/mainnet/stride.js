@@ -34,10 +34,10 @@ module.exports = {
         'pacific-1': 'channel-149',
     },
     explorer: {
-        address: 'https://ping.pub/stride/account/{}',
-        tx: 'https://ping.pub/stride/tx/{}',
-        validator: 'https://ping.pub/stride/staking/{}',
-        block: 'https://ping.pub/stride/block/{}',
+      address: 'https://finder.hexxagon.io/stride-1/address/{}',
+      tx: 'https://finder.hexxagon.io/stride-1/tx/{}',
+      validator: 'https://finder.hexxagon.io/stride-1/validator/{}',
+      block: 'https://finder.hexxagon.io/stride-1/block/{}',
     },
     tokens: [
         {

@@ -22,10 +22,10 @@ module.exports = {
     },
     icsChannels: {},
     explorer: {
-        address: 'https://ping.pub/celestia/account/{}',
-        tx: 'https://ping.pub/celestia/tx/{}',
-        validator: 'https://ping.pub/celestia/staking/{}',
-        block: 'https://ping.pub/celestia/block/{}',
+      address: 'https://finder.hexxagon.io/celestia/address/{}',
+      tx: 'https://finder.hexxagon.io/celestia/tx/{}',
+      validator: 'https://finder.hexxagon.io/celestia/validator/{}',
+      block: 'https://finder.hexxagon.io/celestia/block/{}',
     },
     tokens: [
         {

@@ -36,10 +36,10 @@ module.exports = {
         'pacific-1': 'channel-52',
     },
     explorer: {
-        address: 'https://ping.pub/Migaloo/account/{}',
-        tx: 'https://ping.pub/Migaloo/tx/{}',
-        validator: 'https://ping.pub/Migaloo/staking/{}',
-        block: 'https://ping.pub/Migaloo/block/{}',
+      address: 'https://finder.hexxagon.io/migaloo-1/address/{}',
+      tx: 'https://finder.hexxagon.io/migaloo-1/tx/{}',
+      validator: 'https://finder.hexxagon.io/migaloo-1/validator/{}',
+      block: 'https://finder.hexxagon.io/migaloo-1/block/{}',
     },
     tokens: [
         {

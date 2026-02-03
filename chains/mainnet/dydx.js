@@ -29,10 +29,10 @@ module.exports = {
     },
     icsChannels: {},
     explorer: {
-        address: 'https://ping.pub/dydx/account/{}',
-        tx: 'https://ping.pub/dydx/tx/{}',
-        validator: 'https://ping.pub/dydx/staking/{}',
-        block: 'https://ping.pub/dydx/block/{}',
+      address: 'https://finder.hexxagon.io/dydx-mainnet-1/address/{}',
+      tx: 'https://finder.hexxagon.io/dydx-mainnet-1/tx/{}',
+      validator: 'https://finder.hexxagon.io/dydx-mainnet-1/validator/{}',
+      block: 'https://finder.hexxagon.io/dydx-mainnet-1/block/{}',
     },
     tokens: [
         {

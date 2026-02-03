@@ -32,10 +32,10 @@ module.exports = {
         'columbus-5': 'channel-149',
     },
     explorer: {
-        address: 'https://ping.pub/noble/account/{}',
-        tx: 'https://ping.pub/noble/tx/{}',
-        validator: 'https://ping.pub/noble/staking/{}',
-        block: 'https://ping.pub/noble/block/{}',
+      address: 'https://finder.hexxagon.io/noble-1/address/{}',
+      tx: 'https://finder.hexxagon.io/noble-1/tx/{}',
+      validator: 'https://finder.hexxagon.io/noble-1/validator/{}',
+      block: 'https://finder.hexxagon.io/noble-1/block/{}',
     },
     tokens: [
         {

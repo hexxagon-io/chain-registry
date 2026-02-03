@@ -21,10 +21,10 @@ module.exports = {
     "minRewards": 1000000
   },
   "explorer": {
-    "address": "https://explorer.kopi.money/luwak-1/account/{}",
-    "tx": "https://explorer.kopi.money/luwak-1/tx/{}",
-    "validator": "",
-    "block": ""
+    "address": "https://finder.hexxagon.io/luwak-1/address/{}",
+    "tx": "https://finder.hexxagon.io/luwak-1/tx/{}",
+    "validator": "https://finder.hexxagon.io/luwak-1/validator/{}",
+    "block": "https://finder.hexxagon.io/luwak-1/block/{}",
   },
   "tokens": [
     {

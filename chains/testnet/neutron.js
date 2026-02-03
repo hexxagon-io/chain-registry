@@ -18,10 +18,10 @@ module.exports = {
   channels: {},
   ibc: {},
   explorer: {
-    address: 'https://testnet.mintscan.io/neutron-testnet/account/{}',
-    tx: 'https://testnet.mintscan.io/neutron-testnet/tx/{}',
-    validator: 'https://testnet.mintscan.io/neutron-testnet/validators/{}',
-    block: 'https://testnet.mintscan.io/neutron-testnet/blocks/id/{}',
+    address: 'https://finder.hexxagon.io/pion-1/address/{}',
+    tx: 'https://finder.hexxagon.io/pion-1/tx/{}',
+    validator: 'https://finder.hexxagon.io/pion-1/validator/{}',
+    block: 'https://finder.hexxagon.io/pion-1/block/{}',
   },
   tokens: [
     {

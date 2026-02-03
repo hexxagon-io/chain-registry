@@ -26,10 +26,10 @@ module.exports = {
         'stride-1': 'channel-45',
     },
     explorer: {
-        address: 'https://ping.pub/comdex/account/{}',
-        tx: 'https://ping.pub/comdex/tx/{}',
-        validator: 'https://ping.pub/comdex/staking/{}',
-        block: 'https://ping.pub/comdex/block/{}',
+      address: 'https://finder.hexxagon.io/comdex-1/address/{}',
+      tx: 'https://finder.hexxagon.io/comdex-1/tx/{}',
+      validator: 'https://finder.hexxagon.io/comdex-1/validator/{}',
+      block: 'https://finder.hexxagon.io/comdex-1/block/{}',
     },
     tokens: [
         {

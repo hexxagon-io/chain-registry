@@ -35,10 +35,10 @@ module.exports = {
         'archway-1': 'channel-111',
     },
     explorer: {
-        address: 'https://ping.pub/axelar/account/{}',
-        tx: 'https://ping.pub/axelar/tx/{}',
-        validator: 'https://ping.pub/axelar/staking/{}',
-        block: 'https://ping.pub/axelar/block/{}',
+      address: 'https://finder.hexxagon.io/axelar-dojo-1/address/{}',
+      tx: 'https://finder.hexxagon.io/axelar-dojo-1/tx/{}',
+      validator: 'https://finder.hexxagon.io/axelar-dojo-1/validator/{}',
+      block: 'https://finder.hexxagon.io/axelar-dojo-1/block/{}',
     },
     tokens: [
         {

@@ -17,10 +17,10 @@ module.exports = {
         minRewards: 1000000
     },
     explorer: {
-        address: 'https://ping.pub/kichain/account/{}',
-        tx: 'https://ping.pub/kichain/tx/{}',
-        validator: 'https://ping.pub/kichain/staking/{}',
-        block: 'https://ping.pub/kichain/block/{}',
+      address: 'https://finder.hexxagon.io/kichain-2/address/{}',
+      tx: 'https://finder.hexxagon.io/kichain-2/tx/{}',
+      validator: 'https://finder.hexxagon.io/kichain-2/validator/{}',
+      block: 'https://finder.hexxagon.io/kichain-2/block/{}',
     },
     tokens: [
         {

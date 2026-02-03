@@ -21,10 +21,10 @@ module.exports = {
     "minRewards": 1000000
   },
   "explorer": {
-    "address": "https://explorer.chainroot.io/assetmantle/accounts/{}",
-    "tx": "https://explorer.chainroot.io/assetmantle/transactions/{}",
-    "validator": "",
-    "block": ""
+    "address": "https://finder.hexxagon.io/mantle-1/address/{}",
+    "tx": "https://finder.hexxagon.io/mantle-1/tx/{}",
+    "validator": "https://finder.hexxagon.io/mantle-1/validator/{}",
+    "block": "https://finder.hexxagon.io/mantle-1/block/{}",
   },
   "tokens": [
     {

@@ -21,10 +21,10 @@ module.exports = {
     "minRewards": 1000000
   },
   "explorer": {
-    "address": "https://www.mintscan.io/bitbadges/accounts/{}",
-    "tx": "https://www.mintscan.io/bitbadges/transactions/{}",
-    "validator": "",
-    "block": ""
+    "address": "https://finder.hexxagon.io/bitbadges-1/address/{}",
+    "tx": "https://finder.hexxagon.io/bitbadges-1/tx/{}",
+    "validator": "https://finder.hexxagon.io/bitbadges-1/validator/{}",
+    "block": "https://finder.hexxagon.io/bitbadges-1/block/{}",
   },
   "tokens": [
     {

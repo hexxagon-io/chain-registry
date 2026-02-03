@@ -23,10 +23,10 @@ module.exports = {
     'pisco-1': 'channel-11',
   },
   explorer: {
-    address: 'https://sei.explorers.guru/account/{}',
-    tx: 'https://sei.explorers.guru/transaction/{}',
-    validator: 'https://sei.explorers.guru/validator/{}',
-    block: 'https://sei.explorers.guru/block/{}',
+    address: 'https://finder.hexxagon.io/atlantic-2/address/{}',
+    tx: 'https://finder.hexxagon.io/atlantic-2/tx/{}',
+    validator: 'https://finder.hexxagon.io/atlantic-2/validator/{}',
+    block: 'https://finder.hexxagon.io/atlantic-2/block/{}',
   },
   tokens: [
     {

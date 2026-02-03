@@ -33,10 +33,10 @@ module.exports = {
   name: 'LocalTerra',
   icon: process.env.CF_PAGES_URL + '/img/coins/TerraAUDClassic.svg',
   explorer: {
-    address: 'https://finder.terra-classic.hexxagon.io/localterra/address/{}',
-    tx: 'https://finder.terra-classic.hexxagon.io/localterra/tx/{}',
-    validator: 'https://finder.terra-classic.hexxagon.io/localterra/validator/{}',
-    block: 'https://finder.terra-classic.hexxagon.io/localterra/block/{}',
+    address: 'https://finder.hexxagon.io/localterra/address/{}',
+    tx: 'https://finder.hexxagon.io/localterra/tx/{}',
+    validator: 'https://finder.hexxagon.io/localterra/validator/{}',
+    block: 'https://finder.hexxagon.io/localterra/block/{}',
   },
   tokens: [
     {
