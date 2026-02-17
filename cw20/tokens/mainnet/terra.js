@@ -2226,7 +2226,7 @@ module.exports = [
     symbol: 'USTR',
     name: 'USTC Repeg',
     token: 'terra1vy3kc0swag2rhn7jz6n72jp0l2ns0p6r6ez5grxq5uhj2rvs97fqfsetxv',
-    icon: 'hhttps://ust1cmm.com/assets/ustr-light.png',
+    icon: 'https://ust1cmm.com/assets/ustr-light.png',
     decimals: 18,
   },
   {
