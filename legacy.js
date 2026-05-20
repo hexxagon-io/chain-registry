@@ -41,8 +41,8 @@ const axelar = require('./axelar.js')
         mappedName = 'terra'
       }
 
-      chainData.lcd = `https://lcd.${mappedName}.hexxagon.io`
-      chainData.rpc = `https://rpc.${mappedName}.hexxagon.io`
+      // chainData.lcd = `https://lcd.${mappedName}.hexxagon.io`
+      // chainData.rpc = `https://rpc.${mappedName}.hexxagon.io`
     }
 
     tokens.push(

@@ -332,8 +332,8 @@ async function getAstroportData(chainId, prefix) {
           mappedName = 'terra'
         }
 
-        chainData.lcd = `https://lcd.${mappedName}.hexxagon.io`
-        chainData.rpc = `https://rpc.${mappedName}.hexxagon.io`
+        // chainData.lcd = `https://lcd.${mappedName}.hexxagon.io`
+        // chainData.rpc = `https://rpc.${mappedName}.hexxagon.io`
       }
 
       const dexResults = await Promise.all([
