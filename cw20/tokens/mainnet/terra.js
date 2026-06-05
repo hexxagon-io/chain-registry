@@ -2484,4 +2484,12 @@ module.exports = [
     icon: 'https://vyntrex.io/images/tokens/ibc/911B721F15A40ABB29636CBF8AE630076DDF62841ACE7E6D879405CA8870CEA2/logo.svg',
     decimals: 6,
   },
-]
+
+  {
+    protocol: 'Isotropy Protocol',
+    symbol: 'isLUNC',
+    name: 'Isotropy Burned LUNC',
+    token: 'terra1h9dg99v9nt22zsvd959cjtttmfp8x0paqtuegwecsjd3py2f9mqq5vrss3',
+    icon: 'https://isotropy.pro/images/isLUNC_low.png',
+    decimals: 6,
+  },]
