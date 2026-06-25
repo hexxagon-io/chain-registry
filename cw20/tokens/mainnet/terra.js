@@ -2166,11 +2166,11 @@ module.exports = [
     decimals: 6,
   },
   {
-    protocol: 'MIOFF',
-    name: 'MIOFF',
-    symbol: 'MIOFF',
+    protocol: 'ORBIT WIRE',
+    name: 'Orbit Wire',
+    symbol: 'ORBIT',
     token: 'terra1a8rmymsc58p9jg45p8ghy2ueqhmmhsxgd2tvuxma0pxa3g40tw8s0tjg82',
-    icon: 'https://i.ibb.co.com/gLf6wzLy/mioffnew.jpg',
+    icon: 'https://i.ibb.co.com/HDnjy2pf/orbittoken.jpg',
     decimals: 6,
   },
   {
