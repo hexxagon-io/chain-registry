@@ -2504,9 +2504,9 @@ module.exports = [
   {
     contract:
       'terra1a8rmymsc58p9jg45p8ghy2ueqhmmhsxgd2tvuxma0pxa3g40tw8s0tjg82',
-    protocol: 'MIOFF',
-    name: 'MIOFF',
-    icon: 'https://i.ibb.co.com/gLf6wzLy/mioffnew.jpg',
+    protocol: 'Orbit Wire',
+    name: 'ORBIT',
+    icon: 'https://i.ibb.co.com/HDnjy2pf/orbittoken.jpg',
   },
   {
     contract:
