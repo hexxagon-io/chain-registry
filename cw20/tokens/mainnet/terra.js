@@ -2484,7 +2484,6 @@ module.exports = [
     icon: 'https://vyntrex.io/images/tokens/ibc/911B721F15A40ABB29636CBF8AE630076DDF62841ACE7E6D879405CA8870CEA2/logo.svg',
     decimals: 6,
   },
-
   {
     protocol: 'Isotropy Protocol',
     symbol: 'isLUNC',
@@ -2492,4 +2491,46 @@ module.exports = [
     token: 'terra1h9dg99v9nt22zsvd959cjtttmfp8x0paqtuegwecsjd3py2f9mqq5vrss3',
     icon: 'https://isotropy.pro/images/isLUNC_low.png',
     decimals: 6,
-  },]
+  },
+  {
+    protocol: 'CL8Y DEX',
+    symbol: 'CL8Y',
+    name: 'CL8Y',
+    token: 'terra16wtml2q66g82fdkx66tap0qjkahqwp4lwq3ngtygacg5q0kzycgqvhpax3',
+    icon: 'https://gitlab.com/PlasticDigits/cl8y-dex-terraclassic/-/raw/main/tokenlist/images/CL8Y.png',
+    decimals: 18,
+    coinGeckoID: 'ceramicliberty-com',
+  },
+  {
+    protocol: 'CL8Y DEX',
+    symbol: 'UST1',
+    name: 'UST1',
+    token: 'terra1f0eqgy9w7e5e7up97vjudqwx38tesf8ylx75x2lv3nwm0clry0pqmgfy72',
+    icon: 'https://gitlab.com/PlasticDigits/cl8y-dex-terraclassic/-/raw/main/tokenlist/images/UST1.png',
+    decimals: 6,
+  },
+  {
+    protocol: 'CL8Y DEX',
+    symbol: 'cLUNC',
+    name: 'Wrapped Luna Classic',
+    token: 'terra1437qslye72t7qmmahn4t5chz50r8a62g45phwkquwpyu2l62u6ksqssgdg',
+    icon: 'https://gitlab.com/PlasticDigits/cl8y-dex-terraclassic/-/raw/main/tokenlist/images/CLUNC.png',
+    decimals: 6,
+  },
+  {
+    protocol: 'CL8Y DEX',
+    symbol: 'cUSTC',
+    name: 'Wrapped TerraClassicUSD',
+    token: 'terra1nap4dxh9tv35v0ynd9m4k6zt6c0dq6weszc4j5m564kjls56hu7qcr56ch',
+    icon: 'https://gitlab.com/PlasticDigits/cl8y-dex-terraclassic/-/raw/main/tokenlist/images/CUSTC.png',
+    decimals: 6,
+  },
+  {
+    protocol: 'CL8Y DEX',
+    symbol: 'vFDUSD',
+    name: 'Venus FDUSD (bridged)',
+    token: 'terra1mnl9azefrqpmu888ar2u6zrcwr80hxlt3avf4300r576cw5ar7esvxsvj3',
+    icon: 'https://gitlab.com/PlasticDigits/cl8y-dex-terraclassic/-/raw/main/tokenlist/images/VFDUSD.png',
+    decimals: 6,
+  },
+]
